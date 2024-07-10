@@ -1,0 +1,3022 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2024-07-10T14:48:03.315+02:00
+  initializedAtString: 2024-07-10T14:42:04.558+02:00
+  entries:
+  - path: Assets\XR.meta
+    fullPath: C:\Users\local\Downloads\U1\Assets\XR.meta
+    projectPath: Assets\XR.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\XR\XRGeneralSettingsPerBuildTarget.asset
+    fullPath: C:\Users\local\Downloads\U1\Assets\XR\XRGeneralSettingsPerBuildTarget.asset
+    projectPath: Assets\XR\XRGeneralSettingsPerBuildTarget.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\XR\XRGeneralSettingsPerBuildTarget.asset.meta
+    fullPath: C:\Users\local\Downloads\U1\Assets\XR\XRGeneralSettingsPerBuildTarget.asset.meta
+    projectPath: Assets\XR\XRGeneralSettingsPerBuildTarget.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\local\Downloads\U1\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\18\18d132f0f3f4db875f7885146106308f
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\18\18d132f0f3f4db875f7885146106308f
+    projectPath: Library\Artifacts\18\18d132f0f3f4db875f7885146106308f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1e\1eee0648b085e787422b6e0c0bd3e833
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\1e\1eee0648b085e787422b6e0c0bd3e833
+    projectPath: Library\Artifacts\1e\1eee0648b085e787422b6e0c0bd3e833
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\32\32cda8847bc579570086870e0e8b526a
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\32\32cda8847bc579570086870e0e8b526a
+    projectPath: Library\Artifacts\32\32cda8847bc579570086870e0e8b526a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\36ead69aad693555d2c65c1b7f6ec173
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\36\36ead69aad693555d2c65c1b7f6ec173
+    projectPath: Library\Artifacts\36\36ead69aad693555d2c65c1b7f6ec173
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\44\44df5d654932d32ca243b766daf49cf7
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\44\44df5d654932d32ca243b766daf49cf7
+    projectPath: Library\Artifacts\44\44df5d654932d32ca243b766daf49cf7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4b\4b963a10f4bb2f82e4030ed138a06860
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\4b\4b963a10f4bb2f82e4030ed138a06860
+    projectPath: Library\Artifacts\4b\4b963a10f4bb2f82e4030ed138a06860
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\52\5232b1cfef38b6532780276170a8b36d
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\52\5232b1cfef38b6532780276170a8b36d
+    projectPath: Library\Artifacts\52\5232b1cfef38b6532780276170a8b36d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5b754d2b0ad0684781011f1ca42ab9d9
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\5b\5b754d2b0ad0684781011f1ca42ab9d9
+    projectPath: Library\Artifacts\5b\5b754d2b0ad0684781011f1ca42ab9d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\63\637baecff7d6aa5c4431dc6abdb7d4a7
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\63\637baecff7d6aa5c4431dc6abdb7d4a7
+    projectPath: Library\Artifacts\63\637baecff7d6aa5c4431dc6abdb7d4a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\81\810a04cc41e4ce53b54cd2074e50607b
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\81\810a04cc41e4ce53b54cd2074e50607b
+    projectPath: Library\Artifacts\81\810a04cc41e4ce53b54cd2074e50607b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e1bdf4f842f26fa12949422803e67fa
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\8e\8e1bdf4f842f26fa12949422803e67fa
+    projectPath: Library\Artifacts\8e\8e1bdf4f842f26fa12949422803e67fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\91\91ec58faec7e5b668eea8943691c8c66
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\91\91ec58faec7e5b668eea8943691c8c66
+    projectPath: Library\Artifacts\91\91ec58faec7e5b668eea8943691c8c66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\94\9430b21ad95e2c9cd654e06a66ceb885
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\94\9430b21ad95e2c9cd654e06a66ceb885
+    projectPath: Library\Artifacts\94\9430b21ad95e2c9cd654e06a66ceb885
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\97\97b98bb1a5c024211d09544d91c58f2c
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\97\97b98bb1a5c024211d09544d91c58f2c
+    projectPath: Library\Artifacts\97\97b98bb1a5c024211d09544d91c58f2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9e\9e68650de0fb615fc45df75755f88924
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\9e\9e68650de0fb615fc45df75755f88924
+    projectPath: Library\Artifacts\9e\9e68650de0fb615fc45df75755f88924
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\aa\aa82e7ce15f98909cd7cb42b367036fd
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\aa\aa82e7ce15f98909cd7cb42b367036fd
+    projectPath: Library\Artifacts\aa\aa82e7ce15f98909cd7cb42b367036fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b1\b1f7eb42db6466a624d9c852c88bda53
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\b1\b1f7eb42db6466a624d9c852c88bda53
+    projectPath: Library\Artifacts\b1\b1f7eb42db6466a624d9c852c88bda53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c8\c8c285fdd70cf79e2fa32c9dc2547f84
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\c8\c8c285fdd70cf79e2fa32c9dc2547f84
+    projectPath: Library\Artifacts\c8\c8c285fdd70cf79e2fa32c9dc2547f84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d5\d5721ac7d98fb62870f76b6df5279f87
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\d5\d5721ac7d98fb62870f76b6df5279f87
+    projectPath: Library\Artifacts\d5\d5721ac7d98fb62870f76b6df5279f87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d9\d9ec96ed9ab3587d3e50dcac30eaccc9
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\d9\d9ec96ed9ab3587d3e50dcac30eaccc9
+    projectPath: Library\Artifacts\d9\d9ec96ed9ab3587d3e50dcac30eaccc9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dd\dd29e9b3aa005db1fe0f301fc9068d76
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\dd\dd29e9b3aa005db1fe0f301fc9068d76
+    projectPath: Library\Artifacts\dd\dd29e9b3aa005db1fe0f301fc9068d76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\df\dfda56d24fdbdd69532845b2bbdb8bab
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\df\dfda56d24fdbdd69532845b2bbdb8bab
+    projectPath: Library\Artifacts\df\dfda56d24fdbdd69532845b2bbdb8bab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\ea4187ea7c6c4be48b26390c6444bca5
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\ea\ea4187ea7c6c4be48b26390c6444bca5
+    projectPath: Library\Artifacts\ea\ea4187ea7c6c4be48b26390c6444bca5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fa\fae2e0f916880cbadaaed2f580ab809a
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\fa\fae2e0f916880cbadaaed2f580ab809a
+    projectPath: Library\Artifacts\fa\fae2e0f916880cbadaaed2f580ab809a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ff\ffbc2cb263e7136502c435110b3b621f
+    fullPath: C:\Users\local\Downloads\U1\Library\Artifacts\ff\ffbc2cb263e7136502c435110b3b621f
+    projectPath: Library\Artifacts\ff\ffbc2cb263e7136502c435110b3b621f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\500b0aE.dag
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\500b0aE.dag
+    projectPath: Library\Bee\500b0aE.dag
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\500b0aE.dag.json
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\500b0aE.dag.json
+    projectPath: Library\Bee\500b0aE.dag.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\500b0aE.dag.outputdata
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\500b0aE.dag.outputdata
+    projectPath: Library\Bee\500b0aE.dag.outputdata
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\500b0aE.dag.payloads
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\500b0aE.dag.payloads
+    projectPath: Library\Bee\500b0aE.dag.payloads
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\500b0aE.dag_derived
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\500b0aE.dag_derived
+    projectPath: Library\Bee\500b0aE.dag_derived
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\500b0aE.dag_fsmtime
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\500b0aE.dag_fsmtime
+    projectPath: Library\Bee\500b0aE.dag_fsmtime
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\500b0aE-inputdata.json
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\500b0aE-inputdata.json
+    projectPath: Library\Bee\500b0aE-inputdata.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.dll.mvfrm.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.Editor.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.Editor.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.Editor.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.Editor.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Unity.XR.Management.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.SpatialTracking.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.SpatialTracking.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.SpatialTracking.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.SpatialTracking.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.SpatialTracking.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.XR.LegacyInputHelpers.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.XR.LegacyInputHelpers.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.XR.LegacyInputHelpers.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEditor.XR.LegacyInputHelpers.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.SpatialTracking.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.SpatialTracking.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.SpatialTracking.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.SpatialTracking.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.SpatialTracking.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.XR.LegacyInputHelpers.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.XR.LegacyInputHelpers.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.XR.LegacyInputHelpers.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\UnityEngine.XR.LegacyInputHelpers.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.dll.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.dll.mvfrm
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.dll.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.dll.mvfrm.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.dll.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.dll.mvfrm
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.dll.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.ref.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.ref.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.rsp2
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.rsp2
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.rsp2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.UnityAdditionalFile.txt
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.UnityAdditionalFile.txt
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.Editor.UnityAdditionalFile.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.ref.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.ref.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.rsp2
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.rsp2
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.rsp2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.UnityAdditionalFile.txt
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.UnityAdditionalFile.txt
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Unity.XR.Management.UnityAdditionalFile.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.dll.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.dll.mvfrm
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.dll.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.dll.mvfrm.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.ref.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.ref.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.rsp2
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.rsp2
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.rsp2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.UnityAdditionalFile.txt
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.UnityAdditionalFile.txt
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.SpatialTracking.UnityAdditionalFile.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.dll.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.dll.mvfrm
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.dll.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.dll.mvfrm.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.ref.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.ref.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp2
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp2
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.UnityAdditionalFile.txt
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.UnityAdditionalFile.txt
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEditor.XR.LegacyInputHelpers.UnityAdditionalFile.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.dll.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.dll.mvfrm
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.dll.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.dll.mvfrm.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.ref.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.ref.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.rsp2
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.rsp2
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.rsp2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.UnityAdditionalFile.txt
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.UnityAdditionalFile.txt
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.SpatialTracking.UnityAdditionalFile.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.dll.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.dll.mvfrm
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.dll.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.dll.mvfrm.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.ref.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.ref.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp2
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp2
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.UnityAdditionalFile.txt
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.UnityAdditionalFile.txt
+    projectPath: Library\Bee\artifacts\500b0aE.dag\UnityEngine.XR.LegacyInputHelpers.UnityAdditionalFile.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\mvdfrm\Unity.XR.Management.Editor.ref.dll_7EF8A801EFB2E933.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\mvdfrm\Unity.XR.Management.Editor.ref.dll_7EF8A801EFB2E933.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.XR.Management.Editor.ref.dll_7EF8A801EFB2E933.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\mvdfrm\Unity.XR.Management.ref.dll_A69C42EACFDA6E5E.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\mvdfrm\Unity.XR.Management.ref.dll_A69C42EACFDA6E5E.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.XR.Management.ref.dll_A69C42EACFDA6E5E.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\mvdfrm\UnityEditor.SpatialTracking.ref.dll_3DFB648BDE25F67F.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\mvdfrm\UnityEditor.SpatialTracking.ref.dll_3DFB648BDE25F67F.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\UnityEditor.SpatialTracking.ref.dll_3DFB648BDE25F67F.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\mvdfrm\UnityEditor.XR.LegacyInputHelpers.ref.dll_1E1636D81D06FAAC.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\mvdfrm\UnityEditor.XR.LegacyInputHelpers.ref.dll_1E1636D81D06FAAC.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\UnityEditor.XR.LegacyInputHelpers.ref.dll_1E1636D81D06FAAC.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\mvdfrm\UnityEngine.SpatialTracking.ref.dll_CA3C56B3571E79A4.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\mvdfrm\UnityEngine.SpatialTracking.ref.dll_CA3C56B3571E79A4.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\UnityEngine.SpatialTracking.ref.dll_CA3C56B3571E79A4.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\mvdfrm\UnityEngine.XR.LegacyInputHelpers.ref.dll_DEA5CB8E584C4DB1.mvfrm
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\mvdfrm\UnityEngine.XR.LegacyInputHelpers.ref.dll_DEA5CB8E584C4DB1.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\UnityEngine.XR.LegacyInputHelpers.ref.dll_DEA5CB8E584C4DB1.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\rsp\11114029935535529177.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\rsp\11114029935535529177.rsp
+    projectPath: Library\Bee\artifacts\rsp\11114029935535529177.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\rsp\1384592034464878235.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\rsp\1384592034464878235.rsp
+    projectPath: Library\Bee\artifacts\rsp\1384592034464878235.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\rsp\17580438669079218083.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\rsp\17580438669079218083.rsp
+    projectPath: Library\Bee\artifacts\rsp\17580438669079218083.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\rsp\17811479512609777702.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\rsp\17811479512609777702.rsp
+    projectPath: Library\Bee\artifacts\rsp\17811479512609777702.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\rsp\6231754801949094968.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\rsp\6231754801949094968.rsp
+    projectPath: Library\Bee\artifacts\rsp\6231754801949094968.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\rsp\6517491129488028489.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\rsp\6517491129488028489.rsp
+    projectPath: Library\Bee\artifacts\rsp\6517491129488028489.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\rsp\8944064674463506697.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\rsp\8944064674463506697.rsp
+    projectPath: Library\Bee\artifacts\rsp\8944064674463506697.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\rsp\9588929543864412220.rsp
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\artifacts\rsp\9588929543864412220.rsp
+    projectPath: Library\Bee\artifacts\rsp\9588929543864412220.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\backend1.traceevents
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\backend1.traceevents
+    projectPath: Library\Bee\backend1.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\backend2.traceevents
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\backend2.traceevents
+    projectPath: Library\Bee\backend2.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\buildprogram0.traceevents
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\buildprogram0.traceevents
+    projectPath: Library\Bee\buildprogram0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\CachedNodeOutput\08676ce2e540330f64308fd076750fe7_out
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\CachedNodeOutput\08676ce2e540330f64308fd076750fe7_out
+    projectPath: Library\Bee\CachedNodeOutput\08676ce2e540330f64308fd076750fe7_out
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\CachedNodeOutput\1dc089b7aa54b0cc7efc6aabf3568881_out
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\CachedNodeOutput\1dc089b7aa54b0cc7efc6aabf3568881_out
+    projectPath: Library\Bee\CachedNodeOutput\1dc089b7aa54b0cc7efc6aabf3568881_out
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\CachedNodeOutput\60b2b3eb6e67620e04cceb0daa9457a4_out
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\CachedNodeOutput\60b2b3eb6e67620e04cceb0daa9457a4_out
+    projectPath: Library\Bee\CachedNodeOutput\60b2b3eb6e67620e04cceb0daa9457a4_out
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\CachedNodeOutput\6a82b5c7969df8143f22bde22d58487b_out
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\CachedNodeOutput\6a82b5c7969df8143f22bde22d58487b_out
+    projectPath: Library\Bee\CachedNodeOutput\6a82b5c7969df8143f22bde22d58487b_out
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\CachedNodeOutput\6c39ea19a37bb66ebc46dc85b4f7b96f_out
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\CachedNodeOutput\6c39ea19a37bb66ebc46dc85b4f7b96f_out
+    projectPath: Library\Bee\CachedNodeOutput\6c39ea19a37bb66ebc46dc85b4f7b96f_out
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\CachedNodeOutput\9db4052df43dde7b6dfdb669ec4c2e5b_out
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\CachedNodeOutput\9db4052df43dde7b6dfdb669ec4c2e5b_out
+    projectPath: Library\Bee\CachedNodeOutput\9db4052df43dde7b6dfdb669ec4c2e5b_out
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\fullprofile.json
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\fullprofile.json
+    projectPath: Library\Bee\fullprofile.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\tundra.digestcache
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\tundra.digestcache
+    projectPath: Library\Bee\tundra.digestcache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\tundra.log.json
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\tundra.log.json
+    projectPath: Library\Bee\tundra.log.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\TundraBuildState.state
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\TundraBuildState.state
+    projectPath: Library\Bee\TundraBuildState.state
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\TundraBuildState.state.map
+    fullPath: C:\Users\local\Downloads\U1\Library\Bee\TundraBuildState.state.map
+    projectPath: Library\Bee\TundraBuildState.state.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\BurstCache\JIT\Hashes\6b72d6e1fa6746f3441f374e5843087b.bhc
+    fullPath: C:\Users\local\Downloads\U1\Library\BurstCache\JIT\Hashes\6b72d6e1fa6746f3441f374e5843087b.bhc
+    projectPath: Library\BurstCache\JIT\Hashes\6b72d6e1fa6746f3441f374e5843087b.bhc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\BurstCache\JIT\Hashes\6e2d041b311ee2371c60ae5adc18413b.bhc
+    fullPath: C:\Users\local\Downloads\U1\Library\BurstCache\JIT\Hashes\6e2d041b311ee2371c60ae5adc18413b.bhc
+    projectPath: Library\BurstCache\JIT\Hashes\6e2d041b311ee2371c60ae5adc18413b.bhc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\BurstCache\JIT\Hashes\a110ffe6b760e4b56cb86ae44bc7857d.bhc
+    fullPath: C:\Users\local\Downloads\U1\Library\BurstCache\JIT\Hashes\a110ffe6b760e4b56cb86ae44bc7857d.bhc
+    projectPath: Library\BurstCache\JIT\Hashes\a110ffe6b760e4b56cb86ae44bc7857d.bhc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\BurstCache\JIT\Hashes\affc3f7267ab1c8c654afda8a4095060.bhc
+    fullPath: C:\Users\local\Downloads\U1\Library\BurstCache\JIT\Hashes\affc3f7267ab1c8c654afda8a4095060.bhc
+    projectPath: Library\BurstCache\JIT\Hashes\affc3f7267ab1c8c654afda8a4095060.bhc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\BurstCache\JIT\Hashes\b20086c626affbc53924b04a9b439913.bhc
+    fullPath: C:\Users\local\Downloads\U1\Library\BurstCache\JIT\Hashes\b20086c626affbc53924b04a9b439913.bhc
+    projectPath: Library\BurstCache\JIT\Hashes\b20086c626affbc53924b04a9b439913.bhc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\BurstCache\JIT\Hashes\baf28eba564b1149305654492363348b.bhc
+    fullPath: C:\Users\local\Downloads\U1\Library\BurstCache\JIT\Hashes\baf28eba564b1149305654492363348b.bhc
+    projectPath: Library\BurstCache\JIT\Hashes\baf28eba564b1149305654492363348b.bhc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\BurstCache\JIT\Hashes\c03bfce9c6777c1d15dfe1d012a30c7e.bhc
+    fullPath: C:\Users\local\Downloads\U1\Library\BurstCache\JIT\Hashes\c03bfce9c6777c1d15dfe1d012a30c7e.bhc
+    projectPath: Library\BurstCache\JIT\Hashes\c03bfce9c6777c1d15dfe1d012a30c7e.bhc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\BurstCache\JIT\Hashes\e93933cdd21950a325904389eb197f31.bhc
+    fullPath: C:\Users\local\Downloads\U1\Library\BurstCache\JIT\Hashes\e93933cdd21950a325904389eb197f31.bhc
+    projectPath: Library\BurstCache\JIT\Hashes\e93933cdd21950a325904389eb197f31.bhc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\local\Downloads\U1\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\local\Downloads\U1\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\local\Downloads\U1\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\local\Downloads\U1\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\local\Downloads\U1\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\local\Downloads\U1\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ilpp.pid
+    fullPath: C:\Users\local\Downloads\U1\Library\ilpp.pid
+    projectPath: Library\ilpp.pid
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\.buginfo
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\.buginfo
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\.buginfo
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\.signature
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\.signature
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\.signature
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\CHANGELOG.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\CHANGELOG.md
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\CHANGELOG.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\CHANGELOG.md.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\CHANGELOG.md.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\CHANGELOG.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\ArmModels.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\ArmModels.md
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\ArmModels.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\armmodelbase.PNG
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\armmodelbase.PNG
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\armmodelbase.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\ExampleTransitionalArmModelSetup.PNG
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\ExampleTransitionalArmModelSetup.PNG
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\ExampleTransitionalArmModelSetup.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\swingarmmodel.PNG
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\swingarmmodel.PNG
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\swingarmmodel.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\TrackedPoseDriverArmModelExample.PNG
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\TrackedPoseDriverArmModelExample.PNG
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\TrackedPoseDriverArmModelExample.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\transitionalarmmodel.PNG
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\transitionalarmmodel.PNG
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\ArmModelImages\transitionalarmmodel.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\assetmenu.PNG
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\assetmenu.PNG
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\assetmenu.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\cameraoffset.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\cameraoffset.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\cameraoffset.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\cameraoffsetoptions.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\cameraoffsetoptions.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\cameraoffsetoptions.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\complex.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\complex.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\complex.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\convertedscene.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\convertedscene.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\convertedscene.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\deviceselection.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\deviceselection.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\deviceselection.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\deviceselection.png.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\deviceselection.png.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\deviceselection.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\newscene.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\newscene.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\newscene.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\poseselection.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\poseselection.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\poseselection.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\poseselection.png.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\poseselection.png.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\poseselection.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\prefabinstance.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\prefabinstance.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\prefabinstance.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\prefablocation.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\prefablocation.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\prefablocation.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\simple.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\simple.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\simple.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackedposedriver.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackedposedriver.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackedposedriver.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackedposedriver.png.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackedposedriver.png.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackedposedriver.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackingtypeselection.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackingtypeselection.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackingtypeselection.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackingtypeselection.png.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackingtypeselection.png.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\trackingtypeselection.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\updatetypeselection.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\updatetypeselection.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\updatetypeselection.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\updatetypeselection.png.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\updatetypeselection.png.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\updatetypeselection.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\upgrademenuoption.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\upgrademenuoption.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\upgrademenuoption.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\xrrigprefabcontents.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\xrrigprefabcontents.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\xrrigprefabcontents.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\xrrigtpddefaults.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\xrrigtpddefaults.png
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\Images\xrrigtpddefaults.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\index.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\index.md
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\index.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\TableOfContents.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\TableOfContents.md
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Documentation~\TableOfContents.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\ArmModelEditor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\ArmModelEditor.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\ArmModelEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\ArmModelEditor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\ArmModelEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\ArmModelEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\SwingArmModelEditor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\SwingArmModelEditor.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\SwingArmModelEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\SwingArmModelEditor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\SwingArmModelEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\SwingArmModelEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\TransitionArmModelEditor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\TransitionArmModelEditor.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\TransitionArmModelEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\TransitionArmModelEditor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\TransitionArmModelEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\ArmModels\TransitionArmModelEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\CameraOffsetEditor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\CameraOffsetEditor.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\CameraOffsetEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\CameraOffsetEditor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\CameraOffsetEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\CameraOffsetEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\LegacyInputHelpersEditor.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\LegacyInputHelpersEditor.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\LegacyInputHelpersEditor.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\LegacyInputHelpersEditor.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\LegacyInputHelpersEditor.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\LegacyInputHelpersEditor.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\MenuUtils.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\MenuUtils.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\MenuUtils.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\MenuUtils.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\MenuUtils.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\MenuUtils.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\SeedXRInputBindings.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\SeedXRInputBindings.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\SeedXRInputBindings.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\SeedXRInputBindings\SeedXRInputBindings.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\SeedXRInputBindings\SeedXRInputBindings.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\SeedXRInputBindings\SeedXRInputBindings.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\SeedXRInputBindings\SeedXRInputBindings.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\SeedXRInputBindings\SeedXRInputBindings.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\SeedXRInputBindings\SeedXRInputBindings.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TPDConfigurationProvider.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TPDConfigurationProvider.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TPDConfigurationProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TPDConfigurationProvider.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TPDConfigurationProvider.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TPDConfigurationProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TrackedPoseDriverEditor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TrackedPoseDriverEditor.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TrackedPoseDriverEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TrackedPoseDriverEditor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TrackedPoseDriverEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\TrackedPoseDriverEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\UnityEditor.SpatialTracking.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\UnityEditor.SpatialTracking.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\UnityEditor.SpatialTracking.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\UnityEditor.SpatialTracking.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\UnityEditor.SpatialTracking.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Editor\TrackedPoseDriver\UnityEditor.SpatialTracking.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\LICENSE.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\LICENSE.md
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\LICENSE.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\LICENSE.md.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\LICENSE.md.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\LICENSE.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\package.json
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\package.json
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\package.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\package.json.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\package.json.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\package.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Prefabs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Prefabs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Prefabs\XRRig.prefab
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Prefabs\XRRig.prefab
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Prefabs\XRRig.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Prefabs\XRRig.prefab.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Prefabs\XRRig.prefab.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Prefabs\XRRig.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\README.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\README.md
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\README.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\README.md.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\README.md.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\README.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\ArmModel.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\ArmModel.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\ArmModel.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\ArmModel.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\ArmModel.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\ArmModel.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\SwingArmModel.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\SwingArmModel.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\SwingArmModel.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\SwingArmModel.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\SwingArmModel.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\SwingArmModel.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\TransitionArmModel.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\TransitionArmModel.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\TransitionArmModel.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\TransitionArmModel.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\TransitionArmModel.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\ArmModels\TransitionArmModel.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\CameraOffset.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\CameraOffset.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\CameraOffset.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\CameraOffset.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\CameraOffset.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\CameraOffset.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\LegacyInputHelpers.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\LegacyInputHelpers.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\LegacyInputHelpers.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\LegacyInputHelpers.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\LegacyInputHelpers.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\LegacyInputHelpers.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\AssemblyInfo.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\AssemblyInfo.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\AssemblyInfo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\AssemblyInfo.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\AssemblyInfo.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\AssemblyInfo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\BasePoseProvider.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\BasePoseProvider.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\BasePoseProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\BasePoseProvider.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\BasePoseProvider.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\BasePoseProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\TrackedPoseDriver.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\TrackedPoseDriver.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\TrackedPoseDriver.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\TrackedPoseDriver.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\TrackedPoseDriver.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\TrackedPoseDriver.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\LegacyInputHelpersEditorTests.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\LegacyInputHelpersEditorTests.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\LegacyInputHelpersEditorTests.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\LegacyInputHelpersEditorTests.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\LegacyInputHelpersEditorTests.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\LegacyInputHelpersEditorTests.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\SeedXRInputBindings.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\SeedXRInputBindings.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\SeedXRInputBindings.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\SeedXRInputBindings\SeedXRInputBindingsTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\SeedXRInputBindings\SeedXRInputBindingsTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\SeedXRInputBindings\SeedXRInputBindingsTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\SeedXRInputBindings\SeedXRInputBindingsTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\SeedXRInputBindings\SeedXRInputBindingsTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Editor\SeedXRInputBindings\SeedXRInputBindingsTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\TrackedPoseDriverTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\TrackedPoseDriverTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\TrackedPoseDriverTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\TrackedPoseDriverTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\TrackedPoseDriverTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\TrackedPoseDriverTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.Tests.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.Tests.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.Tests.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.Tests.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.Tests.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Tests\Runtime\TrackedPoseDriver\UnityEngine.SpatialTracking.Tests.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Third Party Notices.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Third
+      Party Notices.md
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Third Party
+      Notices.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.legacyinputhelpers\Third Party Notices.md.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.legacyinputhelpers\Third
+      Party Notices.md.meta
+    projectPath: Library\PackageCache\com.unity.xr.legacyinputhelpers\Third Party
+      Notices.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\.buginfo
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\.buginfo
+    projectPath: Library\PackageCache\com.unity.xr.management\.buginfo
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\.gitmodules
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\.gitmodules
+    projectPath: Library\PackageCache\com.unity.xr.management\.gitmodules
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\.signature
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\.signature
+    projectPath: Library\PackageCache\com.unity.xr.management\.signature
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\CHANGELOG.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\CHANGELOG.md
+    projectPath: Library\PackageCache\com.unity.xr.management\CHANGELOG.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\CHANGELOG.md.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\CHANGELOG.md.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\CHANGELOG.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Documentation~\com.unity.xr.management.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Documentation~\com.unity.xr.management.md
+    projectPath: Library\PackageCache\com.unity.xr.management\Documentation~\com.unity.xr.management.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Documentation~\EndUser.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Documentation~\EndUser.md
+    projectPath: Library\PackageCache\com.unity.xr.management\Documentation~\EndUser.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Documentation~\images\CustomLoaderUI.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Documentation~\images\CustomLoaderUI.png
+    projectPath: Library\PackageCache\com.unity.xr.management\Documentation~\images\CustomLoaderUI.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Documentation~\images\XRPluginManagementNotificationIcons.png
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Documentation~\images\XRPluginManagementNotificationIcons.png
+    projectPath: Library\PackageCache\com.unity.xr.management\Documentation~\images\XRPluginManagementNotificationIcons.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Documentation~\index.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Documentation~\index.md
+    projectPath: Library\PackageCache\com.unity.xr.management\Documentation~\index.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Documentation~\Provider.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Documentation~\Provider.md
+    projectPath: Library\PackageCache\com.unity.xr.management\Documentation~\Provider.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Documentation~\TableOfContents.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Documentation~\TableOfContents.md
+    projectPath: Library\PackageCache\com.unity.xr.management\Documentation~\TableOfContents.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Documentation~\upgrade-guide.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Documentation~\upgrade-guide.md
+    projectPath: Library\PackageCache\com.unity.xr.management\Documentation~\upgrade-guide.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Documentation~\whats-new.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Documentation~\whats-new.md
+    projectPath: Library\PackageCache\com.unity.xr.management\Documentation~\whats-new.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestBuildEventReceiver.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestBuildEventReceiver.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestBuildEventReceiver.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestBuildEventReceiver.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestBuildEventReceiver.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestBuildEventReceiver.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestDocument.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestDocument.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestDocument.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestDocument.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestDocument.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestDocument.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestProcessor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestProcessor.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestProcessor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestProcessor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestProcessor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\AndroidManifestProcessor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\IAndroidManifestRequirementProvider.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\IAndroidManifestRequirementProvider.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\IAndroidManifestRequirementProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\IAndroidManifestRequirementProvider.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\IAndroidManifestRequirementProvider.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\IAndroidManifestRequirementProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestElement.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestElement.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestElement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestElement.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestElement.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestElement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestRequirement.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestRequirement.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestRequirement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestRequirement.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestRequirement.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\AndroidManifest\ManifestRequirement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\BuildHelpers.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\BuildHelpers.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\BuildHelpers.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\BuildHelpers.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\BuildHelpers.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\BuildHelpers.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\EditorUtilities.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\EditorUtilities.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\EditorUtilities.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\EditorUtilities.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\EditorUtilities.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\EditorUtilities.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Legacy.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Legacy.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Legacy.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyStandaloneSubsystem.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyStandaloneSubsystem.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyStandaloneSubsystem.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyStandaloneSubsystem.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyStandaloneSubsystem.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyStandaloneSubsystem.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyUninstaller.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyUninstaller.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyUninstaller.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyUninstaller.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyUninstaller.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Legacy\XRLegacyUninstaller.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Metadata.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Metadata.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Metadata.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Metadata\KnownPackages.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Metadata\KnownPackages.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Metadata\KnownPackages.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Metadata\KnownPackages.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Metadata\KnownPackages.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Metadata\KnownPackages.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackage.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackage.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackage.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackage.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackage.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackage.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadata.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadata.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadata.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadata.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadata.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadata.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadataStore.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadataStore.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadataStore.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadataStore.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadataStore.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Metadata\XRPackageMetadataStore.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\PackageNotificationUtils.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\PackageNotificationUtils.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\PackageNotificationUtils.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\PackageNotificationUtils.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\PackageNotificationUtils.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\PackageNotificationUtils.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\TypeLoaderExtensions.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\TypeLoaderExtensions.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\TypeLoaderExtensions.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\TypeLoaderExtensions.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\TypeLoaderExtensions.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\TypeLoaderExtensions.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Unity.XR.Management.Editor.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Unity.XR.Management.Editor.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Unity.XR.Management.Editor.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\Unity.XR.Management.Editor.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\Unity.XR.Management.Editor.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\Unity.XR.Management.Editor.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRBuildProcessorHelper.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRBuildProcessorHelper.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRBuildProcessorHelper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRBuildProcessorHelper.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRBuildProcessorHelper.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRBuildProcessorHelper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRConfigurationProvider.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRConfigurationProvider.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRConfigurationProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRConfigurationProvider.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRConfigurationProvider.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRConfigurationProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRConstants.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRConstants.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRConstants.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRConstants.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRConstants.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRConstants.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUI.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUI.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUI.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUI.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUIManager.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUIManager.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUIManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUIManager.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUIManager.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRCustomLoaderUIManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XREditorWorkQueue.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XREditorWorkQueue.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XREditorWorkQueue.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XREditorWorkQueue.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XREditorWorkQueue.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XREditorWorkQueue.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralBuildProcessor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRGeneralBuildProcessor.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralBuildProcessor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralBuildProcessor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRGeneralBuildProcessor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralBuildProcessor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsPerBuildTarget.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsPerBuildTarget.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsPerBuildTarget.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsPerBuildTarget.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsPerBuildTarget.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsPerBuildTarget.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsUpgrade.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsUpgrade.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsUpgrade.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsUpgrade.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsUpgrade.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRGeneralSettingsUpgrade.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfo.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfo.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfo.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfo.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfoManager.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfoManager.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfoManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfoManager.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfoManager.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderInfoManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderOrderUI.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRLoaderOrderUI.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderOrderUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderOrderUI.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRLoaderOrderUI.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRLoaderOrderUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRManagerEditor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRManagerEditor.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRManagerEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRManagerEditor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRManagerEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRManagerEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitialization.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitialization.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitialization.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitialization.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitialization.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitialization.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitializationSettings.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitializationSettings.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitializationSettings.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitializationSettings.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitializationSettings.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRPackageInitializationSettings.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRSettingsManager.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRSettingsManager.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRSettingsManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRSettingsManager.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRSettingsManager.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRSettingsManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRSupportedBuildTargetAttribute.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRSupportedBuildTargetAttribute.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRSupportedBuildTargetAttribute.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Editor\XRSupportedBuildTargetAttribute.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Editor\XRSupportedBuildTargetAttribute.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Editor\XRSupportedBuildTargetAttribute.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\LICENSE.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\LICENSE.md
+    projectPath: Library\PackageCache\com.unity.xr.management\LICENSE.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\LICENSE.md.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\LICENSE.md.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\LICENSE.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\package.json
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\package.json
+    projectPath: Library\PackageCache\com.unity.xr.management\package.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\package.json.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\package.json.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\package.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\README.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\README.md
+    projectPath: Library\PackageCache\com.unity.xr.management\README.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\README.md.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\README.md.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\README.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\IXRLoaderPreInit.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\IXRLoaderPreInit.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\IXRLoaderPreInit.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\IXRLoaderPreInit.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\IXRLoaderPreInit.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\IXRLoaderPreInit.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\Unity.XR.Management.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\Unity.XR.Management.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\Unity.XR.Management.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\Unity.XR.Management.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\Unity.XR.Management.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\Unity.XR.Management.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRConfigurationData.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRConfigurationData.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRConfigurationData.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRConfigurationData.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRConfigurationData.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRConfigurationData.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRGeneralSettings.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRGeneralSettings.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRGeneralSettings.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRGeneralSettings.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRGeneralSettings.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRGeneralSettings.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRLoader.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRLoader.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRLoader.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRLoader.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRLoaderHelper.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRLoaderHelper.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRLoaderHelper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRLoaderHelper.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRLoaderHelper.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRLoaderHelper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRManagementAnalytics.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRManagementAnalytics.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRManagementAnalytics.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRManagementAnalytics.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRManagementAnalytics.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRManagementAnalytics.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRManagerSettings.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRManagerSettings.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRManagerSettings.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Runtime\XRManagerSettings.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Runtime\XRManagerSettings.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Runtime\XRManagerSettings.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\.sample.json
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\.sample.json
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\.sample.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Editor.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Editor.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleBuildProcessor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleBuildProcessor.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleBuildProcessor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleBuildProcessor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleBuildProcessor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleBuildProcessor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleMetadata.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleMetadata.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleMetadata.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleMetadata.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleMetadata.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleMetadata.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleSettingsEditor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleSettingsEditor.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleSettingsEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleSettingsEditor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleSettingsEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleSettingsEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleStandaloneLoaderUI.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleStandaloneLoaderUI.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleStandaloneLoaderUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleStandaloneLoaderUI.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleStandaloneLoaderUI.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Editor\SampleStandaloneLoaderUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Editor\Unity.XR.Management.Samples.Editor.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Editor\Unity.XR.Management.Samples.Editor.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Editor\Unity.XR.Management.Samples.Editor.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Editor\Unity.XR.Management.Samples.Editor.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Editor\Unity.XR.Management.Samples.Editor.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Editor\Unity.XR.Management.Samples.Editor.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\SampleConstants.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\SampleConstants.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\SampleConstants.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\SampleConstants.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\SampleConstants.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\SampleConstants.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\SampleLoader.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\SampleLoader.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\SampleLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\SampleLoader.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\SampleLoader.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\SampleLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\SampleSettings.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\SampleSettings.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\SampleSettings.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\SampleSettings.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\SampleSettings.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\SampleSettings.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Unity.XR.Management.Samples.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Unity.XR.Management.Samples.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Unity.XR.Management.Samples.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Samples~\Unity.XR.Management.Samples.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Samples~\Unity.XR.Management.Samples.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Samples~\Unity.XR.Management.Samples.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\AndroidManifestTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\AndroidManifestTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\AndroidManifestTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\AndroidManifestTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\AndroidManifestTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\AndroidManifestTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\BuildTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\BuildTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\BuildTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\BuildTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\BuildTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\BuildTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\DomainReloadTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\DomainReloadTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\DomainReloadTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\DomainReloadTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\DomainReloadTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\DomainReloadTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\EditorTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\EditorTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\EditorTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\EditorTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\EditorTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\EditorTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\MetadataTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\MetadataTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\MetadataTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\MetadataTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\MetadataTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\MetadataTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageInitSettingsTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageInitSettingsTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageInitSettingsTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageInitSettingsTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageInitSettingsTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageInitSettingsTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageManagementTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageManagementTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageManagementTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageManagementTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageManagementTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\PackageManagementTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\StandaloneSubsystemTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\StandaloneSubsystemTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\StandaloneSubsystemTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\StandaloneSubsystemTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\StandaloneSubsystemTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\StandaloneSubsystemTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\Unity.XR.Management.EditorTests.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\Unity.XR.Management.EditorTests.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\Unity.XR.Management.EditorTests.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Editor\Unity.XR.Management.EditorTests.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Editor\Unity.XR.Management.EditorTests.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Editor\Unity.XR.Management.EditorTests.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Runtime.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Runtime.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Runtime.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Runtime\DummyLoader.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Runtime\DummyLoader.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Runtime\DummyLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Runtime\DummyLoader.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Runtime\DummyLoader.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Runtime\DummyLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeLoaderTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeLoaderTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeLoaderTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeLoaderTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeLoaderTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeLoaderTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTests.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTests.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTests.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTests.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTests.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTestSettings.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTestSettings.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTestSettings.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTestSettings.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTestSettings.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Runtime\RuntimeTestSettings.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Runtime\Unity.XR.Management.Tests.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Runtime\Unity.XR.Management.Tests.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Runtime\Unity.XR.Management.Tests.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\Runtime\Unity.XR.Management.Tests.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\Runtime\Unity.XR.Management.Tests.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\Runtime\Unity.XR.Management.Tests.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneLoader.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneLoader.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneLoader.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneLoader.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystem.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystem.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystem.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystem.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystem.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystem.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystemDescriptor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystemDescriptor.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystemDescriptor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystemDescriptor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystemDescriptor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\StandaloneSubsystemDescriptor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\Unity.XR.Management.Tests.Standalone.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\Unity.XR.Management.Tests.Standalone.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\Unity.XR.Management.Tests.Standalone.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\Unity.XR.Management.Tests.Standalone.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\Unity.XR.Management.Tests.Standalone.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\StandaloneSubsystem\Unity.XR.Management.Tests.Standalone.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackage.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackage.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackage.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackage.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackage.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackage.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackageMetadata.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackageMetadata.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackageMetadata.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackageMetadata.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackageMetadata.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestPackageMetadata.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestSettingsEditor.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestSettingsEditor.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestSettingsEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestSettingsEditor.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestSettingsEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\TestSettingsEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\Uniyt.XR.Management.TestPackage.Editor.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\Uniyt.XR.Management.TestPackage.Editor.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\Uniyt.XR.Management.TestPackage.Editor.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\Uniyt.XR.Management.TestPackage.Editor.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\Uniyt.XR.Management.TestPackage.Editor.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Editor\Uniyt.XR.Management.TestPackage.Editor.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Constants.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Constants.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Constants.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Constants.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Constants.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Constants.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderBase.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderBase.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderBase.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderBase.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderBase.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderBase.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderOne.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderOne.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderOne.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderOne.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderOne.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderOne.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderThree.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderThree.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderThree.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderThree.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderThree.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderThree.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderTwo.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderTwo.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderTwo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderTwo.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderTwo.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestLoaderTwo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestSettings.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestSettings.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestSettings.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestSettings.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestSettings.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\TestSettings.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Uniyt.XR.Management.TestPackage.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Uniyt.XR.Management.TestPackage.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Uniyt.XR.Management.TestPackage.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Uniyt.XR.Management.TestPackage.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Uniyt.XR.Management.TestPackage.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestPackage\Runtime\Uniyt.XR.Management.TestPackage.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestTooling.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestTooling.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestTooling.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\LoaderTestSetup.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestTooling\LoaderTestSetup.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\LoaderTestSetup.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\LoaderTestSetup.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestTooling\LoaderTestSetup.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\LoaderTestSetup.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\ManagementTestSetup.cs
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestTooling\ManagementTestSetup.cs
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\ManagementTestSetup.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\ManagementTestSetup.cs.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestTooling\ManagementTestSetup.cs.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\ManagementTestSetup.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\README.md
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestTooling\README.md
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\README.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\README.md.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestTooling\README.md.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\README.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\Unity.XR.TestSupport.asmdef
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestTooling\Unity.XR.TestSupport.asmdef
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\Unity.XR.TestSupport.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\Unity.XR.TestSupport.asmdef.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\Tests\TestTooling\Unity.XR.TestSupport.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\Tests\TestTooling\Unity.XR.TestSupport.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\xrmanifest.androidlib.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\xrmanifest.androidlib.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\xrmanifest.androidlib.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\xrmanifest.androidlib\AndroidManifest.xml
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\xrmanifest.androidlib\AndroidManifest.xml
+    projectPath: Library\PackageCache\com.unity.xr.management\xrmanifest.androidlib\AndroidManifest.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageCache\com.unity.xr.management\xrmanifest.androidlib\AndroidManifest.xml.meta
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageCache\com.unity.xr.management\xrmanifest.androidlib\AndroidManifest.xml.meta
+    projectPath: Library\PackageCache\com.unity.xr.management\xrmanifest.androidlib\AndroidManifest.xml.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PackageManager\ProjectCache
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageManager\projectResolution.json
+    fullPath: C:\Users\local\Downloads\U1\Library\PackageManager\projectResolution.json
+    projectPath: Library\PackageManager\projectResolution.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\local\Downloads\U1\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.XR.Management.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\Unity.XR.Management.dll
+    projectPath: Library\ScriptAssemblies\Unity.XR.Management.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.XR.Management.Editor.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\Unity.XR.Management.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.XR.Management.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.XR.Management.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\Unity.XR.Management.pdb
+    projectPath: Library\ScriptAssemblies\Unity.XR.Management.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+    fullPath: C:\Users\local\Downloads\U1\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Search\transactions.db
+    fullPath: C:\Users\local\Downloads\U1\Library\Search\transactions.db
+    projectPath: Library\Search\transactions.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\local\Downloads\U1\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\de\de87bdb28e30869d60df80bcf96611e1.json
+    fullPath: C:\Users\local\Downloads\U1\Library\StateCache\MainStageHierarchy\de\de87bdb28e30869d60df80bcf96611e1.json
+    projectPath: Library\StateCache\MainStageHierarchy\de\de87bdb28e30869d60df80bcf96611e1.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0.log
+    fullPath: C:\Users\local\Downloads\U1\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\local\Downloads\U1\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker1.log
+    fullPath: C:\Users\local\Downloads\U1\Logs\AssetImportWorker1.log
+    projectPath: Logs\AssetImportWorker1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker1-prev.log
+    fullPath: C:\Users\local\Downloads\U1\Logs\AssetImportWorker1-prev.log
+    projectPath: Logs\AssetImportWorker1-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-AssetImportWorker0-0.log
+    fullPath: C:\Users\local\Downloads\U1\Logs\shadercompiler-AssetImportWorker0-0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0-0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-AssetImportWorker1-0.log
+    fullPath: C:\Users\local\Downloads\U1\Logs\shadercompiler-AssetImportWorker1-0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker1-0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    fullPath: C:\Users\local\Downloads\U1\Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages\manifest.json
+    fullPath: C:\Users\local\Downloads\U1\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages\packages-lock.json
+    fullPath: C:\Users\local\Downloads\U1\Packages\packages-lock.json
+    projectPath: Packages\packages-lock.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\local\Downloads\U1\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\XRPackageSettings.asset
+    fullPath: C:\Users\local\Downloads\U1\ProjectSettings\XRPackageSettings.asset
+    projectPath: ProjectSettings\XRPackageSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\local\Downloads\U1\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\FSTimeGet-5dca3f3ebd38fe44d994b85b56066967
+    fullPath: C:\Users\local\Downloads\U1\Temp\FSTimeGet-5dca3f3ebd38fe44d994b85b56066967
+    projectPath: Temp\FSTimeGet-5dca3f3ebd38fe44d994b85b56066967
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\local\Downloads\U1\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\workerlic
+    fullPath: C:\Users\local\Downloads\U1\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UserSettings\Layouts\default-6000.dwlt
+    fullPath: C:\Users\local\Downloads\U1\UserSettings\Layouts\default-6000.dwlt
+    projectPath: UserSettings\Layouts\default-6000.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

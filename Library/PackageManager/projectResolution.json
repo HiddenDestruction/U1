@@ -120,6 +120,14 @@
       "version": "2.0.0",
       "source": "builtin"
     },
+    "com.unity.xr.management@4.5.0": {
+      "name": "com.unity.xr.management",
+      "resolvedPath": "C:\\Users\\local\\Downloads\\U1\\Library\\PackageCache\\com.unity.xr.management",
+      "fingerprint": "3126858600e621b17ff9bfda920ebf34b9f2414c",
+      "editorCompatibility": "2020.3.15f1",
+      "version": "4.5.0",
+      "source": "registry"
+    },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
       "resolvedPath": "C:\\Users\\local\\Downloads\\U1\\Library\\PackageCache\\com.unity.modules.accessibility",
@@ -323,6 +331,14 @@
       "resolvedPath": "C:\\Users\\local\\Downloads\\U1\\Library\\PackageCache\\com.unity.modules.hierarchycore",
       "version": "1.0.0",
       "source": "builtin"
+    },
+    "com.unity.xr.legacyinputhelpers@2.1.10": {
+      "name": "com.unity.xr.legacyinputhelpers",
+      "resolvedPath": "C:\\Users\\local\\Downloads\\U1\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers",
+      "fingerprint": "4716850f3b0c9a398c68cd272d279e68245c49a7",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.1.10",
+      "source": "registry"
     },
     "com.unity.ext.nunit@2.0.5": {
       "name": "com.unity.ext.nunit",
