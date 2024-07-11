@@ -85,17 +85,20 @@ void TestUp()
     }    
 }
 
-    
-//     void OnTriggerEnter2D(Collider2D other)
-// {
-//     if (other.CompareTag("YouDieCollider"))
-//     {
-//         // Destroy(transform.parent.gameObject);
-//         transform.position = respawn;
-//     }
-// }
 
+    //     void OnTriggerEnter2D(Collider2D other)
+    // {
+    //     if (other.CompareTag("YouDieCollider"))
+    //     {
+    //         // Destroy(transform.parent.gameObject);
+    //         transform.position = respawn;
+    //     }
+    // }
 
+    //private void FixedUpdate()
+    //{
+    //    rb.velocity = new Vector2(driX, rb.velocity.y);
+    //}
 
 
 

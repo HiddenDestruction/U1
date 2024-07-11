@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2024-07-10T14:42:03.926+02:00
-  initializedAtString: 2024-07-10T14:42:03.926+02:00
+  lastUpdatedAtString: 2024-07-11T17:53:02.915+02:00
+  initializedAtString: 2024-07-11T17:53:02.915+02:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/HiddenDestruction/U1.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: 
+    name: main
+    tracking: origin/main
   currentConfigBranch:
-    name: master
+    name: main
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/HiddenDestruction/U1.git
+    trackingBranch: main
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/HiddenDestruction/U1.git
   currentHead: 

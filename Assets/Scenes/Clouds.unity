@@ -9916,7 +9916,11 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 2014574187}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 203195691100524226, guid: 02c1b5d824b2b7d45b295be58cd225c4,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1117942358}
   m_SourcePrefab: {fileID: 100100000, guid: 02c1b5d824b2b7d45b295be58cd225c4, type: 3}
 --- !u!1 &1018652742
 GameObject:
@@ -11261,6 +11265,24 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1117942353 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 203195691100524226, guid: 02c1b5d824b2b7d45b295be58cd225c4,
+    type: 3}
+  m_PrefabInstance: {fileID: 1010919650}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1117942358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1117942353}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de33e7225b1d91d45aa13ddd212bd94d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1122483445
 GameObject:
   m_ObjectHideFlags: 0
@@ -21822,6 +21844,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e929f86363a31db47976c68a8e4b2495, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  targetScene: Clouds
+  targetPosition: {x: 0, y: 0, z: 0}
 --- !u!1 &2129444925
 GameObject:
   m_ObjectHideFlags: 0
