@@ -1,16 +1,16 @@
 {
   "context": {
-    "projectPath": "E:/Github/U1/Packages",
+    "projectPath": "C:/Users/local/Documents/GitHub/U1/Packages",
     "unityVersion": "6000.0.7f1"
   },
   "inputs": [
-    "E:\\Github\\U1\\Packages\\manifest.json",
-    "E:\\Github\\U1\\Packages\\packages-lock.json"
+    "C:\\Users\\local\\Documents\\GitHub\\U1\\Packages\\manifest.json",
+    "C:\\Users\\local\\Documents\\GitHub\\U1\\Packages\\packages-lock.json"
   ],
   "outputs": {
     "com.unity.2d.animation@10.1.2": {
       "name": "com.unity.2d.animation",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.2d.animation",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.2d.animation",
       "fingerprint": "6eb19a9b029c2401d3e26b6d071912c3be0b1131",
       "editorCompatibility": "2023.1.0a1",
       "version": "10.1.2",
@@ -18,7 +18,7 @@
     },
     "com.unity.2d.pixel-perfect@5.0.3": {
       "name": "com.unity.2d.pixel-perfect",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.2d.pixel-perfect",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.2d.pixel-perfect",
       "fingerprint": "e3ae982b672dc7cca42a6303bdf53b84c69991da",
       "editorCompatibility": "2021.1.0a1",
       "version": "5.0.3",
@@ -26,7 +26,7 @@
     },
     "com.unity.2d.psdimporter@9.0.3": {
       "name": "com.unity.2d.psdimporter",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.2d.psdimporter",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.2d.psdimporter",
       "fingerprint": "676bae148e11de9a02db5a3614b8c56e4f0f44ac",
       "editorCompatibility": "2023.1.0a1",
       "version": "9.0.3",
@@ -34,7 +34,7 @@
     },
     "com.unity.2d.sprite@1.0.0": {
       "name": "com.unity.2d.sprite",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.2d.sprite",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.2d.sprite",
       "fingerprint": "0e3cfd27a2b4d364334434d9dcc1bf1f6d795736",
       "editorCompatibility": "2019.2.0a1",
       "version": "1.0.0",
@@ -42,7 +42,7 @@
     },
     "com.unity.2d.spriteshape@10.0.6": {
       "name": "com.unity.2d.spriteshape",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.2d.spriteshape",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.2d.spriteshape",
       "fingerprint": "bd096f9a58153b3fab6d968be6480077748d80c4",
       "editorCompatibility": "2023.1.0a1",
       "version": "10.0.6",
@@ -50,7 +50,7 @@
     },
     "com.unity.2d.tilemap@1.0.0": {
       "name": "com.unity.2d.tilemap",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.2d.tilemap",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.2d.tilemap",
       "fingerprint": "6c40dcf2e8ac14012cdc046522369db9f24c8f30",
       "editorCompatibility": "2019.2.0a1",
       "version": "1.0.0",
@@ -58,7 +58,7 @@
     },
     "com.unity.ai.navigation@2.0.0": {
       "name": "com.unity.ai.navigation",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.ai.navigation",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.ai.navigation",
       "fingerprint": "f6367599281e08d75acc8229ad70ac03cfe57ac1",
       "editorCompatibility": "2023.2.0a18",
       "version": "2.0.0",
@@ -66,7 +66,7 @@
     },
     "com.unity.collab-proxy@2.3.1": {
       "name": "com.unity.collab-proxy",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.collab-proxy",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.collab-proxy",
       "fingerprint": "9fe9d34b5e265703867fd4b6e7ef78001c1fa370",
       "editorCompatibility": "2020.3.48f1",
       "version": "2.3.1",
@@ -74,7 +74,7 @@
     },
     "com.unity.ide.rider@3.0.28": {
       "name": "com.unity.ide.rider",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.ide.rider",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.ide.rider",
       "fingerprint": "7605a3979f4b0ed9100a7fcc2d6140ebc24fc251",
       "editorCompatibility": "2019.2.6f1",
       "version": "3.0.28",
@@ -82,7 +82,7 @@
     },
     "com.unity.ide.visualstudio@2.0.22": {
       "name": "com.unity.ide.visualstudio",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.ide.visualstudio",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.ide.visualstudio",
       "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
       "editorCompatibility": "2019.4.25f1",
       "version": "2.0.22",
@@ -90,7 +90,7 @@
     },
     "com.unity.ide.vscode@1.2.1": {
       "name": "com.unity.ide.vscode",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.ide.vscode",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.ide.vscode",
       "fingerprint": "27b0f2094353d294f320e6ac2f8618dd4a274aad",
       "editorCompatibility": "2019.2.0a12",
       "version": "1.2.1",
@@ -98,7 +98,7 @@
     },
     "com.unity.test-framework@1.4.4": {
       "name": "com.unity.test-framework",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.test-framework",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.test-framework",
       "fingerprint": "4e62d75b705a73b10f689eb9441e75e69dcd0116",
       "editorCompatibility": "2019.4.0a10",
       "version": "1.4.4",
@@ -106,7 +106,7 @@
     },
     "com.unity.timeline@1.8.7": {
       "name": "com.unity.timeline",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.timeline",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.timeline",
       "fingerprint": "c58b4ee65782ad38338e29f7ee67787cb6998f04",
       "editorCompatibility": "2019.3.0a1",
       "version": "1.8.7",
@@ -114,7 +114,7 @@
     },
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.ugui",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.ugui",
       "fingerprint": "1bd040c2d659bda2b78a218b1ddc76b80b58a906",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
@@ -122,7 +122,7 @@
     },
     "com.unity.xr.management@4.5.0": {
       "name": "com.unity.xr.management",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.xr.management",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.xr.management",
       "fingerprint": "3126858600e621b17ff9bfda920ebf34b9f2414c",
       "editorCompatibility": "2020.3.15f1",
       "version": "4.5.0",
@@ -130,211 +130,211 @@
     },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.accessibility",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.accessibility",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ai@1.0.0": {
       "name": "com.unity.modules.ai",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.ai",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.ai",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.androidjni@1.0.0": {
       "name": "com.unity.modules.androidjni",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.androidjni",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.androidjni",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.animation@1.0.0": {
       "name": "com.unity.modules.animation",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.animation",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.animation",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.assetbundle@1.0.0": {
       "name": "com.unity.modules.assetbundle",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.assetbundle",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.assetbundle",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.audio@1.0.0": {
       "name": "com.unity.modules.audio",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.audio",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.audio",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.cloth@1.0.0": {
       "name": "com.unity.modules.cloth",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.cloth",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.cloth",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.director@1.0.0": {
       "name": "com.unity.modules.director",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.director",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.director",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imageconversion@1.0.0": {
       "name": "com.unity.modules.imageconversion",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.imageconversion",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imgui@1.0.0": {
       "name": "com.unity.modules.imgui",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.imgui",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.imgui",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.jsonserialize@1.0.0": {
       "name": "com.unity.modules.jsonserialize",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.jsonserialize",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.particlesystem@1.0.0": {
       "name": "com.unity.modules.particlesystem",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.particlesystem",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.particlesystem",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics@1.0.0": {
       "name": "com.unity.modules.physics",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.physics",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.physics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics2d@1.0.0": {
       "name": "com.unity.modules.physics2d",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.physics2d",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.physics2d",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.screencapture@1.0.0": {
       "name": "com.unity.modules.screencapture",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.screencapture",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.screencapture",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrain@1.0.0": {
       "name": "com.unity.modules.terrain",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.terrain",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.terrain",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrainphysics@1.0.0": {
       "name": "com.unity.modules.terrainphysics",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.terrainphysics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.tilemap@1.0.0": {
       "name": "com.unity.modules.tilemap",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.tilemap",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.tilemap",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ui@1.0.0": {
       "name": "com.unity.modules.ui",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.ui",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.ui",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.uielements@1.0.0": {
       "name": "com.unity.modules.uielements",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.uielements",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.uielements",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.umbra@1.0.0": {
       "name": "com.unity.modules.umbra",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.umbra",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.umbra",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unityanalytics@1.0.0": {
       "name": "com.unity.modules.unityanalytics",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.unityanalytics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequest@1.0.0": {
       "name": "com.unity.modules.unitywebrequest",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
       "name": "com.unity.modules.unitywebrequestassetbundle",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestaudio@1.0.0": {
       "name": "com.unity.modules.unitywebrequestaudio",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequesttexture@1.0.0": {
       "name": "com.unity.modules.unitywebrequesttexture",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestwww@1.0.0": {
       "name": "com.unity.modules.unitywebrequestwww",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vehicles@1.0.0": {
       "name": "com.unity.modules.vehicles",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.vehicles",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.vehicles",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.video@1.0.0": {
       "name": "com.unity.modules.video",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.video",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.video",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vr@1.0.0": {
       "name": "com.unity.modules.vr",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.vr",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.vr",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.wind@1.0.0": {
       "name": "com.unity.modules.wind",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.wind",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.wind",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.xr@1.0.0": {
       "name": "com.unity.modules.xr",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.xr",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.xr",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.subsystems@1.0.0": {
       "name": "com.unity.modules.subsystems",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.subsystems",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.hierarchycore@1.0.0": {
       "name": "com.unity.modules.hierarchycore",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.modules.hierarchycore",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.xr.legacyinputhelpers@2.1.10": {
       "name": "com.unity.xr.legacyinputhelpers",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers",
       "fingerprint": "4716850f3b0c9a398c68cd272d279e68245c49a7",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.1.10",
@@ -342,7 +342,7 @@
     },
     "com.unity.ext.nunit@2.0.5": {
       "name": "com.unity.ext.nunit",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.ext.nunit",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.ext.nunit",
       "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.5",
@@ -350,7 +350,7 @@
     },
     "com.unity.mathematics@1.3.1": {
       "name": "com.unity.mathematics",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.mathematics",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.mathematics",
       "fingerprint": "0cc332b9879082676002a97378a6d3d6296282a3",
       "editorCompatibility": "2018.3.0a1",
       "version": "1.3.1",
@@ -358,7 +358,7 @@
     },
     "com.unity.2d.common@9.0.5": {
       "name": "com.unity.2d.common",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.2d.common",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.2d.common",
       "fingerprint": "c307e941ccd13ed5f537acb4874d1eb5a8bec663",
       "editorCompatibility": "2023.1.0a1",
       "version": "9.0.5",
@@ -366,7 +366,7 @@
     },
     "com.unity.collections@2.4.0": {
       "name": "com.unity.collections",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.collections",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.collections",
       "fingerprint": "cf7bbd1c92f28e6faaa49463739a6a980c9c32b9",
       "editorCompatibility": "2022.3.11f1",
       "version": "2.4.0",
@@ -374,7 +374,7 @@
     },
     "com.unity.burst@1.8.15": {
       "name": "com.unity.burst",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.burst",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.burst",
       "fingerprint": "99938a844113c2fa71d579263de22c61527b1ad6",
       "editorCompatibility": "2020.3.0a1",
       "version": "1.8.15",
@@ -382,7 +382,7 @@
     },
     "com.unity.nuget.mono-cecil@1.11.4": {
       "name": "com.unity.nuget.mono-cecil",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
       "fingerprint": "d6f9955a5d5f84d45442ff1ad0fb694cc6e2fd62",
       "editorCompatibility": "2018.4.0a1",
       "version": "1.11.4",
@@ -390,7 +390,7 @@
     },
     "com.unity.test-framework.performance@3.0.3": {
       "name": "com.unity.test-framework.performance",
-      "resolvedPath": "E:\\Github\\U1\\Library\\PackageCache\\com.unity.test-framework.performance",
+      "resolvedPath": "C:\\Users\\local\\Documents\\GitHub\\U1\\Library\\PackageCache\\com.unity.test-framework.performance",
       "fingerprint": "fb0dc592af8b524f1a06c50d7caf95552f1bcd2f",
       "editorCompatibility": "2020.3.0a1",
       "version": "3.0.3",
