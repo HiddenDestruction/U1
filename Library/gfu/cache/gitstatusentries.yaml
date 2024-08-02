@@ -13,135 +13,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2024-08-02T12:58:16.504+02:00
-  initializedAtString: 2024-08-02T11:11:23.879+02:00
+  lastUpdatedAtString: 2024-08-02T17:05:03.820+02:00
+  initializedAtString: 2024-08-02T13:01:02.475+02:00
   entries:
-  - path: Assets\Cainos\Map - K.meta
-    fullPath: E:\Github\U1\Assets\Cainos\Map - K.meta
-    projectPath: Assets\Cainos\Map - K.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Cainos\Map - K\Texture.meta
-    fullPath: E:\Github\U1\Assets\Cainos\Map - K\Texture.meta
-    projectPath: Assets\Cainos\Map - K\Texture.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Cainos\Map - K\Texture\TX Tileset Ground.png
-    fullPath: E:\Github\U1\Assets\Cainos\Map - K\Texture\TX Tileset Ground.png
-    projectPath: Assets\Cainos\Map - K\Texture\TX Tileset Ground.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Cainos\Map - K\Texture\TX Tileset Ground.png.meta
-    fullPath: E:\Github\U1\Assets\Cainos\Map - K\Texture\TX Tileset Ground.png.meta
-    projectPath: Assets\Cainos\Map - K\Texture\TX Tileset Ground.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Cainos\Map - K\Texture\TX Village Props.png
-    fullPath: E:\Github\U1\Assets\Cainos\Map - K\Texture\TX Village Props.png
-    projectPath: Assets\Cainos\Map - K\Texture\TX Village Props.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Cainos\Map - K\Texture\TX Village Props.png.meta
-    fullPath: E:\Github\U1\Assets\Cainos\Map - K\Texture\TX Village Props.png.meta
-    projectPath: Assets\Cainos\Map - K\Texture\TX Village Props.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Map - K.meta
-    fullPath: E:\Github\U1\Assets\Map - K.meta
-    projectPath: Assets\Map - K.meta
+  - path: Assets\Map - K\Texture\lawa4.PNG
+    fullPath: E:\Github\U1\Assets\Map - K\Texture\lawa4.PNG
+    projectPath: Assets\Map - K\Texture\lawa4.PNG
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Map - K\Texture.meta
-    fullPath: E:\Github\U1\Assets\Map - K\Texture.meta
-    projectPath: Assets\Map - K\Texture.meta
+  - path: Assets\Map - K\Texture\lawa4.PNG.meta
+    fullPath: E:\Github\U1\Assets\Map - K\Texture\lawa4.PNG.meta
+    projectPath: Assets\Map - K\Texture\lawa4.PNG.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Map - K\Texture\krzak.png
-    fullPath: E:\Github\U1\Assets\Map - K\Texture\krzak.png
-    projectPath: Assets\Map - K\Texture\krzak.png
+  - path: Assets\Map - K\Texture\wodospad1.PNG
+    fullPath: E:\Github\U1\Assets\Map - K\Texture\wodospad1.PNG
+    projectPath: Assets\Map - K\Texture\wodospad1.PNG
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Map - K\Texture\krzak.png.meta
-    fullPath: E:\Github\U1\Assets\Map - K\Texture\krzak.png.meta
-    projectPath: Assets\Map - K\Texture\krzak.png.meta
+  - path: Assets\Map - K\Texture\wodospad1.PNG.meta
+    fullPath: E:\Github\U1\Assets\Map - K\Texture\wodospad1.PNG.meta
+    projectPath: Assets\Map - K\Texture\wodospad1.PNG.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Map - K\Texture\po prostu.meta
-    fullPath: E:\Github\U1\Assets\Map - K\Texture\po prostu.meta
-    projectPath: Assets\Map - K\Texture\po prostu.meta
+  - path: Assets\Map - K\Texture\wodospad2.PNG
+    fullPath: E:\Github\U1\Assets\Map - K\Texture\wodospad2.PNG
+    projectPath: Assets\Map - K\Texture\wodospad2.PNG
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Map - K\Texture\po prostu\Bloki.png
-    fullPath: E:\Github\U1\Assets\Map - K\Texture\po prostu\Bloki.png
-    projectPath: Assets\Map - K\Texture\po prostu\Bloki.png
+  - path: Assets\Map - K\Texture\wodospad2.PNG.meta
+    fullPath: E:\Github\U1\Assets\Map - K\Texture\wodospad2.PNG.meta
+    projectPath: Assets\Map - K\Texture\wodospad2.PNG.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Map - K\Texture\po prostu\Bloki.png.meta
-    fullPath: E:\Github\U1\Assets\Map - K\Texture\po prostu\Bloki.png.meta
-    projectPath: Assets\Map - K\Texture\po prostu\Bloki.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Map - K\Texture\TX Tileset Ground.png
-    fullPath: E:\Github\U1\Assets\Map - K\Texture\TX Tileset Ground.png
-    projectPath: Assets\Map - K\Texture\TX Tileset Ground.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Map - K\Texture\TX Tileset Ground.png.meta
-    fullPath: E:\Github\U1\Assets\Map - K\Texture\TX Tileset Ground.png.meta
-    projectPath: Assets\Map - K\Texture\TX Tileset Ground.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Map - K\Texture\TX Village Props.png
-    fullPath: E:\Github\U1\Assets\Map - K\Texture\TX Village Props.png
-    projectPath: Assets\Map - K\Texture\TX Village Props.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Map - K\Texture\TX Village Props.png.meta
-    fullPath: E:\Github\U1\Assets\Map - K\Texture\TX Village Props.png.meta
-    projectPath: Assets\Map - K\Texture\TX Village Props.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Black1.unity
-    fullPath: E:\Github\U1\Assets\Scenes\Black1.unity
-    projectPath: Assets\Scenes\Black1.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\Scenes\Black3.unity
     fullPath: E:\Github\U1\Assets\Scenes\Black3.unity
     projectPath: Assets\Scenes\Black3.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Sprites\krzak.png
-    fullPath: E:\Github\U1\Assets\Sprites\krzak.png
-    projectPath: Assets\Sprites\krzak.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Sprites\krzak.png.meta
-    fullPath: E:\Github\U1\Assets\Sprites\krzak.png.meta
-    projectPath: Assets\Sprites\krzak.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\ArtifactDB
     fullPath: E:\Github\U1\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -152,95 +68,101 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\01\011186c6b7e60b80f64db10af9739879
     projectPath: Library\Artifacts\01\011186c6b7e60b80f64db10af9739879
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\01\0164061a70cbaf9bbc1f23f68bf9cb4a
     fullPath: E:\Github\U1\Library\Artifacts\01\0164061a70cbaf9bbc1f23f68bf9cb4a
     projectPath: Library\Artifacts\01\0164061a70cbaf9bbc1f23f68bf9cb4a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\02\021fb11952f94bf65f8fd2b6642a7e35
     fullPath: E:\Github\U1\Library\Artifacts\02\021fb11952f94bf65f8fd2b6642a7e35
     projectPath: Library\Artifacts\02\021fb11952f94bf65f8fd2b6642a7e35
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\03\03709f4e0134f2aff6ea6dbe7dec1e14
     fullPath: E:\Github\U1\Library\Artifacts\03\03709f4e0134f2aff6ea6dbe7dec1e14
     projectPath: Library\Artifacts\03\03709f4e0134f2aff6ea6dbe7dec1e14
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\03\03b5c8dcc17ea698b4f38eb292a4455e
     fullPath: E:\Github\U1\Library\Artifacts\03\03b5c8dcc17ea698b4f38eb292a4455e
     projectPath: Library\Artifacts\03\03b5c8dcc17ea698b4f38eb292a4455e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\04\0408c27e2e3652ab3a9e28329b6545bd
     fullPath: E:\Github\U1\Library\Artifacts\04\0408c27e2e3652ab3a9e28329b6545bd
     projectPath: Library\Artifacts\04\0408c27e2e3652ab3a9e28329b6545bd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\04\043e7ab31629f2de0bb5b313316d691f
     fullPath: E:\Github\U1\Library\Artifacts\04\043e7ab31629f2de0bb5b313316d691f
     projectPath: Library\Artifacts\04\043e7ab31629f2de0bb5b313316d691f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\04\04fe09f263a1026da64c41a72bc2ddc6
     fullPath: E:\Github\U1\Library\Artifacts\04\04fe09f263a1026da64c41a72bc2ddc6
     projectPath: Library\Artifacts\04\04fe09f263a1026da64c41a72bc2ddc6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\06\0619beb58ec8167eb86683892a57e945
     fullPath: E:\Github\U1\Library\Artifacts\06\0619beb58ec8167eb86683892a57e945
     projectPath: Library\Artifacts\06\0619beb58ec8167eb86683892a57e945
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\06\06b0b89364fe2080bb05969f7052fe1b
     fullPath: E:\Github\U1\Library\Artifacts\06\06b0b89364fe2080bb05969f7052fe1b
     projectPath: Library\Artifacts\06\06b0b89364fe2080bb05969f7052fe1b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\07\0764fafb6db8a36906048398d9cb9a92
     fullPath: E:\Github\U1\Library\Artifacts\07\0764fafb6db8a36906048398d9cb9a92
     projectPath: Library\Artifacts\07\0764fafb6db8a36906048398d9cb9a92
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\08\0821a168a8c9feaa8ebd46da09c27bd1
     fullPath: E:\Github\U1\Library\Artifacts\08\0821a168a8c9feaa8ebd46da09c27bd1
     projectPath: Library\Artifacts\08\0821a168a8c9feaa8ebd46da09c27bd1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\08\08c669fd9770bccfac795c4b4892bdbe
     fullPath: E:\Github\U1\Library\Artifacts\08\08c669fd9770bccfac795c4b4892bdbe
     projectPath: Library\Artifacts\08\08c669fd9770bccfac795c4b4892bdbe
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\08\08e416cab05a9bbdfd6f00a147b9d471
     fullPath: E:\Github\U1\Library\Artifacts\08\08e416cab05a9bbdfd6f00a147b9d471
     projectPath: Library\Artifacts\08\08e416cab05a9bbdfd6f00a147b9d471
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\09\09d527d08f615c53a4b5ae7d27b4a1aa
     fullPath: E:\Github\U1\Library\Artifacts\09\09d527d08f615c53a4b5ae7d27b4a1aa
     projectPath: Library\Artifacts\09\09d527d08f615c53a4b5ae7d27b4a1aa
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\0a\0a6c5f59de5c21dab4fe060e3a954323
     fullPath: E:\Github\U1\Library\Artifacts\0a\0a6c5f59de5c21dab4fe060e3a954323
     projectPath: Library\Artifacts\0a\0a6c5f59de5c21dab4fe060e3a954323
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0a\0aa93d5a8441029b51a9759f0befb9a9
+    fullPath: E:\Github\U1\Library\Artifacts\0a\0aa93d5a8441029b51a9759f0befb9a9
+    projectPath: Library\Artifacts\0a\0aa93d5a8441029b51a9759f0befb9a9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -248,293 +170,299 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\0b\0b1785b240090970ce6c8d7b71fe9486
     projectPath: Library\Artifacts\0b\0b1785b240090970ce6c8d7b71fe9486
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\0d\0dae6400982ded84e1e4cf5d45ece0d4
     fullPath: E:\Github\U1\Library\Artifacts\0d\0dae6400982ded84e1e4cf5d45ece0d4
     projectPath: Library\Artifacts\0d\0dae6400982ded84e1e4cf5d45ece0d4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\0e\0e495653baae07a362989f2b61a0636a
     fullPath: E:\Github\U1\Library\Artifacts\0e\0e495653baae07a362989f2b61a0636a
     projectPath: Library\Artifacts\0e\0e495653baae07a362989f2b61a0636a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\0e\0e7a5d8403806f5dc6725796f521d0f4
     fullPath: E:\Github\U1\Library\Artifacts\0e\0e7a5d8403806f5dc6725796f521d0f4
     projectPath: Library\Artifacts\0e\0e7a5d8403806f5dc6725796f521d0f4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\0e\0ee897630faba4be9e9bc1dad5730e47
     fullPath: E:\Github\U1\Library\Artifacts\0e\0ee897630faba4be9e9bc1dad5730e47
     projectPath: Library\Artifacts\0e\0ee897630faba4be9e9bc1dad5730e47
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\0f\0f1bc06a1dc5723bea25765b72363107
     fullPath: E:\Github\U1\Library\Artifacts\0f\0f1bc06a1dc5723bea25765b72363107
     projectPath: Library\Artifacts\0f\0f1bc06a1dc5723bea25765b72363107
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\10\10067a28353037d43e2401ef5bcdcdb4
     fullPath: E:\Github\U1\Library\Artifacts\10\10067a28353037d43e2401ef5bcdcdb4
     projectPath: Library\Artifacts\10\10067a28353037d43e2401ef5bcdcdb4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\10\1041d540e3ddc187bc7c6a54707ee705
     fullPath: E:\Github\U1\Library\Artifacts\10\1041d540e3ddc187bc7c6a54707ee705
     projectPath: Library\Artifacts\10\1041d540e3ddc187bc7c6a54707ee705
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\10\104821079b66ed579ae405e2bd5da3e0
     fullPath: E:\Github\U1\Library\Artifacts\10\104821079b66ed579ae405e2bd5da3e0
     projectPath: Library\Artifacts\10\104821079b66ed579ae405e2bd5da3e0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\10\1072b3171b4c41389dc53bebdcda9d8b
     fullPath: E:\Github\U1\Library\Artifacts\10\1072b3171b4c41389dc53bebdcda9d8b
     projectPath: Library\Artifacts\10\1072b3171b4c41389dc53bebdcda9d8b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\10\107e510736547f21a9999fac92c25bab
     fullPath: E:\Github\U1\Library\Artifacts\10\107e510736547f21a9999fac92c25bab
     projectPath: Library\Artifacts\10\107e510736547f21a9999fac92c25bab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\10\10b6f34ab7710c26a92104fa340f7a77
     fullPath: E:\Github\U1\Library\Artifacts\10\10b6f34ab7710c26a92104fa340f7a77
     projectPath: Library\Artifacts\10\10b6f34ab7710c26a92104fa340f7a77
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\11\11798a8851656cad085ca51b998dcc9b
     fullPath: E:\Github\U1\Library\Artifacts\11\11798a8851656cad085ca51b998dcc9b
     projectPath: Library\Artifacts\11\11798a8851656cad085ca51b998dcc9b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\11\11f585cc29cf85953e19d26e168438ad
     fullPath: E:\Github\U1\Library\Artifacts\11\11f585cc29cf85953e19d26e168438ad
     projectPath: Library\Artifacts\11\11f585cc29cf85953e19d26e168438ad
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\12\12e4096a328cd7f6448c85f0c954740b
     fullPath: E:\Github\U1\Library\Artifacts\12\12e4096a328cd7f6448c85f0c954740b
     projectPath: Library\Artifacts\12\12e4096a328cd7f6448c85f0c954740b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\13\1332379f85e59d940171436248b94d28
     fullPath: E:\Github\U1\Library\Artifacts\13\1332379f85e59d940171436248b94d28
     projectPath: Library\Artifacts\13\1332379f85e59d940171436248b94d28
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\13\1353a732df218cd0d291f4bf24a59e7e
     fullPath: E:\Github\U1\Library\Artifacts\13\1353a732df218cd0d291f4bf24a59e7e
     projectPath: Library\Artifacts\13\1353a732df218cd0d291f4bf24a59e7e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\13\13d7c88cdf1655a8a75a97ebbf809718
     fullPath: E:\Github\U1\Library\Artifacts\13\13d7c88cdf1655a8a75a97ebbf809718
     projectPath: Library\Artifacts\13\13d7c88cdf1655a8a75a97ebbf809718
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\14\149877fcd8dec200f37b02e3dce10881
     fullPath: E:\Github\U1\Library\Artifacts\14\149877fcd8dec200f37b02e3dce10881
     projectPath: Library\Artifacts\14\149877fcd8dec200f37b02e3dce10881
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\15\15261dfe2f7301dcf957e27f59172c7e
     fullPath: E:\Github\U1\Library\Artifacts\15\15261dfe2f7301dcf957e27f59172c7e
     projectPath: Library\Artifacts\15\15261dfe2f7301dcf957e27f59172c7e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\15\1573735395ee9196c929277bffd8cd2e
     fullPath: E:\Github\U1\Library\Artifacts\15\1573735395ee9196c929277bffd8cd2e
     projectPath: Library\Artifacts\15\1573735395ee9196c929277bffd8cd2e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\15\158c410ce4c18ef0982ae52af37daa04
     fullPath: E:\Github\U1\Library\Artifacts\15\158c410ce4c18ef0982ae52af37daa04
     projectPath: Library\Artifacts\15\158c410ce4c18ef0982ae52af37daa04
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\16\1665606ddf24a3df82cff7206d33978d
     fullPath: E:\Github\U1\Library\Artifacts\16\1665606ddf24a3df82cff7206d33978d
     projectPath: Library\Artifacts\16\1665606ddf24a3df82cff7206d33978d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\17\176528e7bdbc1860d690165099c60b7b
     fullPath: E:\Github\U1\Library\Artifacts\17\176528e7bdbc1860d690165099c60b7b
     projectPath: Library\Artifacts\17\176528e7bdbc1860d690165099c60b7b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\17\17b5a6639a794976793f8236f45fd4ac
     fullPath: E:\Github\U1\Library\Artifacts\17\17b5a6639a794976793f8236f45fd4ac
     projectPath: Library\Artifacts\17\17b5a6639a794976793f8236f45fd4ac
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\18\1821c35b0cc9c8daa5870e8342616398
     fullPath: E:\Github\U1\Library\Artifacts\18\1821c35b0cc9c8daa5870e8342616398
     projectPath: Library\Artifacts\18\1821c35b0cc9c8daa5870e8342616398
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\18\183119c41f220185d4bd7bd2459b55f9
     fullPath: E:\Github\U1\Library\Artifacts\18\183119c41f220185d4bd7bd2459b55f9
     projectPath: Library\Artifacts\18\183119c41f220185d4bd7bd2459b55f9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\18\189ba3ee6b4f9c5513cfeebf196a1091
     fullPath: E:\Github\U1\Library\Artifacts\18\189ba3ee6b4f9c5513cfeebf196a1091
     projectPath: Library\Artifacts\18\189ba3ee6b4f9c5513cfeebf196a1091
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\19\190a38463abed12bf74ba2638412dead
     fullPath: E:\Github\U1\Library\Artifacts\19\190a38463abed12bf74ba2638412dead
     projectPath: Library\Artifacts\19\190a38463abed12bf74ba2638412dead
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\19\197883fa901db48193c51df39ce4b1fd
     fullPath: E:\Github\U1\Library\Artifacts\19\197883fa901db48193c51df39ce4b1fd
     projectPath: Library\Artifacts\19\197883fa901db48193c51df39ce4b1fd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\19\199f126bbfe722344820e18834e28c37
     fullPath: E:\Github\U1\Library\Artifacts\19\199f126bbfe722344820e18834e28c37
     projectPath: Library\Artifacts\19\199f126bbfe722344820e18834e28c37
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1b\1b34d69517c9f03d62712cc3f9b0aea9
     fullPath: E:\Github\U1\Library\Artifacts\1b\1b34d69517c9f03d62712cc3f9b0aea9
     projectPath: Library\Artifacts\1b\1b34d69517c9f03d62712cc3f9b0aea9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1b\1b4c01e928edf7b5ba7cd6afa35e8223
     fullPath: E:\Github\U1\Library\Artifacts\1b\1b4c01e928edf7b5ba7cd6afa35e8223
     projectPath: Library\Artifacts\1b\1b4c01e928edf7b5ba7cd6afa35e8223
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1c\1c401dfd5f9acb27f4d45e652301431b
     fullPath: E:\Github\U1\Library\Artifacts\1c\1c401dfd5f9acb27f4d45e652301431b
     projectPath: Library\Artifacts\1c\1c401dfd5f9acb27f4d45e652301431b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1c\1c57722823009f0dfc14b287d5a3cfba
     fullPath: E:\Github\U1\Library\Artifacts\1c\1c57722823009f0dfc14b287d5a3cfba
     projectPath: Library\Artifacts\1c\1c57722823009f0dfc14b287d5a3cfba
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1d\1d1c94a6bb1480c9b9347b25cb19ddf5
     fullPath: E:\Github\U1\Library\Artifacts\1d\1d1c94a6bb1480c9b9347b25cb19ddf5
     projectPath: Library\Artifacts\1d\1d1c94a6bb1480c9b9347b25cb19ddf5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1d\1d3af3bddc7d59aad550c830041ede5e
     fullPath: E:\Github\U1\Library\Artifacts\1d\1d3af3bddc7d59aad550c830041ede5e
     projectPath: Library\Artifacts\1d\1d3af3bddc7d59aad550c830041ede5e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1d\1d47d3f4473287d7e2cbcd3279bc96dd
     fullPath: E:\Github\U1\Library\Artifacts\1d\1d47d3f4473287d7e2cbcd3279bc96dd
     projectPath: Library\Artifacts\1d\1d47d3f4473287d7e2cbcd3279bc96dd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1e\1ef4e4ef48eae100fee1ff2d854fb61a
     fullPath: E:\Github\U1\Library\Artifacts\1e\1ef4e4ef48eae100fee1ff2d854fb61a
     projectPath: Library\Artifacts\1e\1ef4e4ef48eae100fee1ff2d854fb61a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1f\1f62474b64148215190a5db28820ff42
     fullPath: E:\Github\U1\Library\Artifacts\1f\1f62474b64148215190a5db28820ff42
     projectPath: Library\Artifacts\1f\1f62474b64148215190a5db28820ff42
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1f\1fc0d7bfd17fd6e308239da7345628d4
     fullPath: E:\Github\U1\Library\Artifacts\1f\1fc0d7bfd17fd6e308239da7345628d4
     projectPath: Library\Artifacts\1f\1fc0d7bfd17fd6e308239da7345628d4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\20\208cd3035a0a1a87236096e552d873ed
     fullPath: E:\Github\U1\Library\Artifacts\20\208cd3035a0a1a87236096e552d873ed
     projectPath: Library\Artifacts\20\208cd3035a0a1a87236096e552d873ed
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\22\22139d53642c3bb089d3e3c0a79d5a83
     fullPath: E:\Github\U1\Library\Artifacts\22\22139d53642c3bb089d3e3c0a79d5a83
     projectPath: Library\Artifacts\22\22139d53642c3bb089d3e3c0a79d5a83
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\22\221a4b0e8fda3565579d757e276308ea
     fullPath: E:\Github\U1\Library\Artifacts\22\221a4b0e8fda3565579d757e276308ea
     projectPath: Library\Artifacts\22\221a4b0e8fda3565579d757e276308ea
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\22\2249325f2b1160554d29d189e72f7375
     fullPath: E:\Github\U1\Library\Artifacts\22\2249325f2b1160554d29d189e72f7375
     projectPath: Library\Artifacts\22\2249325f2b1160554d29d189e72f7375
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\22\224e7579e4aee14164bfb84afd95ca23
     fullPath: E:\Github\U1\Library\Artifacts\22\224e7579e4aee14164bfb84afd95ca23
     projectPath: Library\Artifacts\22\224e7579e4aee14164bfb84afd95ca23
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\23\232d364c9e0e37dfcc2d3d3f5e1b725b
     fullPath: E:\Github\U1\Library\Artifacts\23\232d364c9e0e37dfcc2d3d3f5e1b725b
     projectPath: Library\Artifacts\23\232d364c9e0e37dfcc2d3d3f5e1b725b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\23\23531fbddfc81728e7f5867f3ced82ec
     fullPath: E:\Github\U1\Library\Artifacts\23\23531fbddfc81728e7f5867f3ced82ec
     projectPath: Library\Artifacts\23\23531fbddfc81728e7f5867f3ced82ec
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\23\238e5c209f1c8b240fc9f7e2e63eca54
     fullPath: E:\Github\U1\Library\Artifacts\23\238e5c209f1c8b240fc9f7e2e63eca54
     projectPath: Library\Artifacts\23\238e5c209f1c8b240fc9f7e2e63eca54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\23\23b3f7d628a7f691d500fdcae06e3ce5
+    fullPath: E:\Github\U1\Library\Artifacts\23\23b3f7d628a7f691d500fdcae06e3ce5
+    projectPath: Library\Artifacts\23\23b3f7d628a7f691d500fdcae06e3ce5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -542,59 +470,65 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\24\247ec306eec03ce2dd7026f870c8ea7d
     projectPath: Library\Artifacts\24\247ec306eec03ce2dd7026f870c8ea7d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\25\25ac34f3e81001a4be8ad50fdf14f215
     fullPath: E:\Github\U1\Library\Artifacts\25\25ac34f3e81001a4be8ad50fdf14f215
     projectPath: Library\Artifacts\25\25ac34f3e81001a4be8ad50fdf14f215
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\25\25f9abcb702030c57932c44a23614e1b
     fullPath: E:\Github\U1\Library\Artifacts\25\25f9abcb702030c57932c44a23614e1b
     projectPath: Library\Artifacts\25\25f9abcb702030c57932c44a23614e1b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\26\262beb60c3e10dbdefa28dc9e23ad2ce
     fullPath: E:\Github\U1\Library\Artifacts\26\262beb60c3e10dbdefa28dc9e23ad2ce
     projectPath: Library\Artifacts\26\262beb60c3e10dbdefa28dc9e23ad2ce
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\26\264adcf3f698bb1df0338cf80955f23f
     fullPath: E:\Github\U1\Library\Artifacts\26\264adcf3f698bb1df0338cf80955f23f
     projectPath: Library\Artifacts\26\264adcf3f698bb1df0338cf80955f23f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\26\267606d530183ad8055cb0224af09e64
     fullPath: E:\Github\U1\Library\Artifacts\26\267606d530183ad8055cb0224af09e64
     projectPath: Library\Artifacts\26\267606d530183ad8055cb0224af09e64
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\27\273d577a82fdd1451145dbe327773353
     fullPath: E:\Github\U1\Library\Artifacts\27\273d577a82fdd1451145dbe327773353
     projectPath: Library\Artifacts\27\273d577a82fdd1451145dbe327773353
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\27\276cff5c4919746a2812fa08cc4f90ae
     fullPath: E:\Github\U1\Library\Artifacts\27\276cff5c4919746a2812fa08cc4f90ae
     projectPath: Library\Artifacts\27\276cff5c4919746a2812fa08cc4f90ae
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\28\289a551100af3ea1265a5e38f46b1dbf
     fullPath: E:\Github\U1\Library\Artifacts\28\289a551100af3ea1265a5e38f46b1dbf
     projectPath: Library\Artifacts\28\289a551100af3ea1265a5e38f46b1dbf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\28\28b19fa57262ac28a062d49776bddc62
     fullPath: E:\Github\U1\Library\Artifacts\28\28b19fa57262ac28a062d49776bddc62
     projectPath: Library\Artifacts\28\28b19fa57262ac28a062d49776bddc62
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\28\28e168c9bf9d7674f7ff468c6fb19071
+    fullPath: E:\Github\U1\Library\Artifacts\28\28e168c9bf9d7674f7ff468c6fb19071
+    projectPath: Library\Artifacts\28\28e168c9bf9d7674f7ff468c6fb19071
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -602,89 +536,95 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\29\2921d5663d1679d70241034553e8595f
     projectPath: Library\Artifacts\29\2921d5663d1679d70241034553e8595f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\29\2964d8aa805fd276886457f8e504c084
     fullPath: E:\Github\U1\Library\Artifacts\29\2964d8aa805fd276886457f8e504c084
     projectPath: Library\Artifacts\29\2964d8aa805fd276886457f8e504c084
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\29\2992147d4f90d5ed04aec1d007d09624
     fullPath: E:\Github\U1\Library\Artifacts\29\2992147d4f90d5ed04aec1d007d09624
     projectPath: Library\Artifacts\29\2992147d4f90d5ed04aec1d007d09624
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\29\29b5ba16bdc2e84f685d8da1b737fe60
     fullPath: E:\Github\U1\Library\Artifacts\29\29b5ba16bdc2e84f685d8da1b737fe60
     projectPath: Library\Artifacts\29\29b5ba16bdc2e84f685d8da1b737fe60
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\29\29bf9c07ec9c81aa1dd69a178440ad60
     fullPath: E:\Github\U1\Library\Artifacts\29\29bf9c07ec9c81aa1dd69a178440ad60
     projectPath: Library\Artifacts\29\29bf9c07ec9c81aa1dd69a178440ad60
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\29\29e28c8d1573299646252b22f3e57626
     fullPath: E:\Github\U1\Library\Artifacts\29\29e28c8d1573299646252b22f3e57626
     projectPath: Library\Artifacts\29\29e28c8d1573299646252b22f3e57626
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\29\29f09e5ed4172d32af7a463e63d0783d
     fullPath: E:\Github\U1\Library\Artifacts\29\29f09e5ed4172d32af7a463e63d0783d
     projectPath: Library\Artifacts\29\29f09e5ed4172d32af7a463e63d0783d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2a\2add1aca1af941be7f2f15779923ebe8
     fullPath: E:\Github\U1\Library\Artifacts\2a\2add1aca1af941be7f2f15779923ebe8
     projectPath: Library\Artifacts\2a\2add1aca1af941be7f2f15779923ebe8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2a\2afdb8cdc7e39f9ea81137d666ac19af
     fullPath: E:\Github\U1\Library\Artifacts\2a\2afdb8cdc7e39f9ea81137d666ac19af
     projectPath: Library\Artifacts\2a\2afdb8cdc7e39f9ea81137d666ac19af
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2b\2b07fae6c922fe790bb25310cb373065
     fullPath: E:\Github\U1\Library\Artifacts\2b\2b07fae6c922fe790bb25310cb373065
     projectPath: Library\Artifacts\2b\2b07fae6c922fe790bb25310cb373065
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2c\2c8970003c9ca78feeb649693994ae65
     fullPath: E:\Github\U1\Library\Artifacts\2c\2c8970003c9ca78feeb649693994ae65
     projectPath: Library\Artifacts\2c\2c8970003c9ca78feeb649693994ae65
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2c\2ca4e79d3ea4bdb7f02bb05270a3e4e3
     fullPath: E:\Github\U1\Library\Artifacts\2c\2ca4e79d3ea4bdb7f02bb05270a3e4e3
     projectPath: Library\Artifacts\2c\2ca4e79d3ea4bdb7f02bb05270a3e4e3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2c\2cb195ad143a4722cb04c8988f8a1573
     fullPath: E:\Github\U1\Library\Artifacts\2c\2cb195ad143a4722cb04c8988f8a1573
     projectPath: Library\Artifacts\2c\2cb195ad143a4722cb04c8988f8a1573
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2e\2eb0e9324b6392bb43936e29b841c9a6
     fullPath: E:\Github\U1\Library\Artifacts\2e\2eb0e9324b6392bb43936e29b841c9a6
     projectPath: Library\Artifacts\2e\2eb0e9324b6392bb43936e29b841c9a6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2e\2ee02ea8627536f6847590963911de8b
     fullPath: E:\Github\U1\Library\Artifacts\2e\2ee02ea8627536f6847590963911de8b
     projectPath: Library\Artifacts\2e\2ee02ea8627536f6847590963911de8b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2e\2ee8afbdf95cb4e9a79b2fa4c1d0cd2e
+    fullPath: E:\Github\U1\Library\Artifacts\2e\2ee8afbdf95cb4e9a79b2fa4c1d0cd2e
+    projectPath: Library\Artifacts\2e\2ee8afbdf95cb4e9a79b2fa4c1d0cd2e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -692,653 +632,653 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\30\3058f92b43acdf5b5d15a4444fb103b4
     projectPath: Library\Artifacts\30\3058f92b43acdf5b5d15a4444fb103b4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\30\30c680b64bf7d35073336744e0d94a88
     fullPath: E:\Github\U1\Library\Artifacts\30\30c680b64bf7d35073336744e0d94a88
     projectPath: Library\Artifacts\30\30c680b64bf7d35073336744e0d94a88
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\31\314254f7591fe21c8b8eeb7e827b2b84
     fullPath: E:\Github\U1\Library\Artifacts\31\314254f7591fe21c8b8eeb7e827b2b84
     projectPath: Library\Artifacts\31\314254f7591fe21c8b8eeb7e827b2b84
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\31\317531b24ca4d3fef8c3b4394d3c0106
     fullPath: E:\Github\U1\Library\Artifacts\31\317531b24ca4d3fef8c3b4394d3c0106
     projectPath: Library\Artifacts\31\317531b24ca4d3fef8c3b4394d3c0106
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\31\31dd03bfa21132958f351bc71d2bd885
     fullPath: E:\Github\U1\Library\Artifacts\31\31dd03bfa21132958f351bc71d2bd885
     projectPath: Library\Artifacts\31\31dd03bfa21132958f351bc71d2bd885
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\32\32f82e54ccb344f72bcfc6557653f250
     fullPath: E:\Github\U1\Library\Artifacts\32\32f82e54ccb344f72bcfc6557653f250
     projectPath: Library\Artifacts\32\32f82e54ccb344f72bcfc6557653f250
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\33\33033f65eab5264c9a973560dcab3895
     fullPath: E:\Github\U1\Library\Artifacts\33\33033f65eab5264c9a973560dcab3895
     projectPath: Library\Artifacts\33\33033f65eab5264c9a973560dcab3895
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\34\3435c60b54d957ecaadc52df80303fe5
     fullPath: E:\Github\U1\Library\Artifacts\34\3435c60b54d957ecaadc52df80303fe5
     projectPath: Library\Artifacts\34\3435c60b54d957ecaadc52df80303fe5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\34\34605c77fd063b0f245ddae75682d8c7
     fullPath: E:\Github\U1\Library\Artifacts\34\34605c77fd063b0f245ddae75682d8c7
     projectPath: Library\Artifacts\34\34605c77fd063b0f245ddae75682d8c7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\34\348939c4898c4c1f17a10f1729be7d04
     fullPath: E:\Github\U1\Library\Artifacts\34\348939c4898c4c1f17a10f1729be7d04
     projectPath: Library\Artifacts\34\348939c4898c4c1f17a10f1729be7d04
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\35\358c380b01e084443872ce8015d1931c
     fullPath: E:\Github\U1\Library\Artifacts\35\358c380b01e084443872ce8015d1931c
     projectPath: Library\Artifacts\35\358c380b01e084443872ce8015d1931c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\36\36c5ff9ca63a257a70a8b78c3552e375
     fullPath: E:\Github\U1\Library\Artifacts\36\36c5ff9ca63a257a70a8b78c3552e375
     projectPath: Library\Artifacts\36\36c5ff9ca63a257a70a8b78c3552e375
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\36\36e0b378308e34149e3dcc58e43053ca
     fullPath: E:\Github\U1\Library\Artifacts\36\36e0b378308e34149e3dcc58e43053ca
     projectPath: Library\Artifacts\36\36e0b378308e34149e3dcc58e43053ca
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\37\3797a112b5a7603e10ec26a53fc0fe89
     fullPath: E:\Github\U1\Library\Artifacts\37\3797a112b5a7603e10ec26a53fc0fe89
     projectPath: Library\Artifacts\37\3797a112b5a7603e10ec26a53fc0fe89
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\37\37b73ffe858b9da4ec1d61a31dfaddb0
     fullPath: E:\Github\U1\Library\Artifacts\37\37b73ffe858b9da4ec1d61a31dfaddb0
     projectPath: Library\Artifacts\37\37b73ffe858b9da4ec1d61a31dfaddb0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\37\37bc7f273d9fc6da28f6d16cbf2ad26c
     fullPath: E:\Github\U1\Library\Artifacts\37\37bc7f273d9fc6da28f6d16cbf2ad26c
     projectPath: Library\Artifacts\37\37bc7f273d9fc6da28f6d16cbf2ad26c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\37\37c701ca2bde6bac0bef20681afbd14a
     fullPath: E:\Github\U1\Library\Artifacts\37\37c701ca2bde6bac0bef20681afbd14a
     projectPath: Library\Artifacts\37\37c701ca2bde6bac0bef20681afbd14a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\38\3845784f6e018e3b01840d78708a6b67
     fullPath: E:\Github\U1\Library\Artifacts\38\3845784f6e018e3b01840d78708a6b67
     projectPath: Library\Artifacts\38\3845784f6e018e3b01840d78708a6b67
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\38\38ba4c8cfbd476338f1496534588f580
     fullPath: E:\Github\U1\Library\Artifacts\38\38ba4c8cfbd476338f1496534588f580
     projectPath: Library\Artifacts\38\38ba4c8cfbd476338f1496534588f580
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\38\38bc3ae4a0d3d215b9a3aa7ed30c7218
     fullPath: E:\Github\U1\Library\Artifacts\38\38bc3ae4a0d3d215b9a3aa7ed30c7218
     projectPath: Library\Artifacts\38\38bc3ae4a0d3d215b9a3aa7ed30c7218
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\38\38c9af6ebd7adc789d53a636608a7b94
     fullPath: E:\Github\U1\Library\Artifacts\38\38c9af6ebd7adc789d53a636608a7b94
     projectPath: Library\Artifacts\38\38c9af6ebd7adc789d53a636608a7b94
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\38\38e7e0acf7eaddef7b17364e6e4d67de
     fullPath: E:\Github\U1\Library\Artifacts\38\38e7e0acf7eaddef7b17364e6e4d67de
     projectPath: Library\Artifacts\38\38e7e0acf7eaddef7b17364e6e4d67de
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\39\391a08fa851a88cc8bd646446db98c98
     fullPath: E:\Github\U1\Library\Artifacts\39\391a08fa851a88cc8bd646446db98c98
     projectPath: Library\Artifacts\39\391a08fa851a88cc8bd646446db98c98
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\39\399e879d81235298addb2be184edfdeb
     fullPath: E:\Github\U1\Library\Artifacts\39\399e879d81235298addb2be184edfdeb
     projectPath: Library\Artifacts\39\399e879d81235298addb2be184edfdeb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3a\3a0d7b62459ba1e0aa3818c66e880e7e
     fullPath: E:\Github\U1\Library\Artifacts\3a\3a0d7b62459ba1e0aa3818c66e880e7e
     projectPath: Library\Artifacts\3a\3a0d7b62459ba1e0aa3818c66e880e7e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3a\3a1bae0febffe40da774a16f339fedf7
     fullPath: E:\Github\U1\Library\Artifacts\3a\3a1bae0febffe40da774a16f339fedf7
     projectPath: Library\Artifacts\3a\3a1bae0febffe40da774a16f339fedf7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3a\3a981301f81c0bb98d0a7fc8ee14acbc
     fullPath: E:\Github\U1\Library\Artifacts\3a\3a981301f81c0bb98d0a7fc8ee14acbc
     projectPath: Library\Artifacts\3a\3a981301f81c0bb98d0a7fc8ee14acbc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3a\3ac25e67bbd675b564b1d633e7f46fb5
     fullPath: E:\Github\U1\Library\Artifacts\3a\3ac25e67bbd675b564b1d633e7f46fb5
     projectPath: Library\Artifacts\3a\3ac25e67bbd675b564b1d633e7f46fb5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3b\3b1612f07319f932dd85b0d7ac188ca1
     fullPath: E:\Github\U1\Library\Artifacts\3b\3b1612f07319f932dd85b0d7ac188ca1
     projectPath: Library\Artifacts\3b\3b1612f07319f932dd85b0d7ac188ca1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3c\3c2281457b5f6076af30632ee69d4566
     fullPath: E:\Github\U1\Library\Artifacts\3c\3c2281457b5f6076af30632ee69d4566
     projectPath: Library\Artifacts\3c\3c2281457b5f6076af30632ee69d4566
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3c\3c8b01e5fe64ea5f66b157b2c582d4e8
     fullPath: E:\Github\U1\Library\Artifacts\3c\3c8b01e5fe64ea5f66b157b2c582d4e8
     projectPath: Library\Artifacts\3c\3c8b01e5fe64ea5f66b157b2c582d4e8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3c\3cf42378e192e7a4b48d06e31bc3bc5a
     fullPath: E:\Github\U1\Library\Artifacts\3c\3cf42378e192e7a4b48d06e31bc3bc5a
     projectPath: Library\Artifacts\3c\3cf42378e192e7a4b48d06e31bc3bc5a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3d\3d048832a25e742e4d883e0f26b07554
     fullPath: E:\Github\U1\Library\Artifacts\3d\3d048832a25e742e4d883e0f26b07554
     projectPath: Library\Artifacts\3d\3d048832a25e742e4d883e0f26b07554
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3d\3d1110ca1214037a79422794bb5d7f76
     fullPath: E:\Github\U1\Library\Artifacts\3d\3d1110ca1214037a79422794bb5d7f76
     projectPath: Library\Artifacts\3d\3d1110ca1214037a79422794bb5d7f76
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3d\3d1717b9f07a363063471d067bc5ccf1
     fullPath: E:\Github\U1\Library\Artifacts\3d\3d1717b9f07a363063471d067bc5ccf1
     projectPath: Library\Artifacts\3d\3d1717b9f07a363063471d067bc5ccf1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3f\3f222c5050b1820247ccec6e82f5c165
     fullPath: E:\Github\U1\Library\Artifacts\3f\3f222c5050b1820247ccec6e82f5c165
     projectPath: Library\Artifacts\3f\3f222c5050b1820247ccec6e82f5c165
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3f\3fee9fbea2954db9db347c0ca180fd94
     fullPath: E:\Github\U1\Library\Artifacts\3f\3fee9fbea2954db9db347c0ca180fd94
     projectPath: Library\Artifacts\3f\3fee9fbea2954db9db347c0ca180fd94
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\40\4057ac44d8a3a9aeb424d2b391ae1830
     fullPath: E:\Github\U1\Library\Artifacts\40\4057ac44d8a3a9aeb424d2b391ae1830
     projectPath: Library\Artifacts\40\4057ac44d8a3a9aeb424d2b391ae1830
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\41\412dd6c6bf59ee51b59d0e138df7c077
     fullPath: E:\Github\U1\Library\Artifacts\41\412dd6c6bf59ee51b59d0e138df7c077
     projectPath: Library\Artifacts\41\412dd6c6bf59ee51b59d0e138df7c077
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\41\41b2c375dcda8c352f5bc2729c5c503f
     fullPath: E:\Github\U1\Library\Artifacts\41\41b2c375dcda8c352f5bc2729c5c503f
     projectPath: Library\Artifacts\41\41b2c375dcda8c352f5bc2729c5c503f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\42\4202a438252981c09bc29fda18da8c0e
     fullPath: E:\Github\U1\Library\Artifacts\42\4202a438252981c09bc29fda18da8c0e
     projectPath: Library\Artifacts\42\4202a438252981c09bc29fda18da8c0e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\42\42b5b6c0a9f314efc8f7890a21ed423f
     fullPath: E:\Github\U1\Library\Artifacts\42\42b5b6c0a9f314efc8f7890a21ed423f
     projectPath: Library\Artifacts\42\42b5b6c0a9f314efc8f7890a21ed423f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\43\43d82811a210371daf7122b94e779d4b
     fullPath: E:\Github\U1\Library\Artifacts\43\43d82811a210371daf7122b94e779d4b
     projectPath: Library\Artifacts\43\43d82811a210371daf7122b94e779d4b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\44\44810641eb86b8fea9cf20008d73ef37
     fullPath: E:\Github\U1\Library\Artifacts\44\44810641eb86b8fea9cf20008d73ef37
     projectPath: Library\Artifacts\44\44810641eb86b8fea9cf20008d73ef37
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\44\44f942eb6807a12666a9e61f325bae07
     fullPath: E:\Github\U1\Library\Artifacts\44\44f942eb6807a12666a9e61f325bae07
     projectPath: Library\Artifacts\44\44f942eb6807a12666a9e61f325bae07
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\44\44fb48d6ca0d83d29e0a402bcb3e1a6a
     fullPath: E:\Github\U1\Library\Artifacts\44\44fb48d6ca0d83d29e0a402bcb3e1a6a
     projectPath: Library\Artifacts\44\44fb48d6ca0d83d29e0a402bcb3e1a6a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\45\45712a70a5cfd5d4fd7ecb292a17045a
     fullPath: E:\Github\U1\Library\Artifacts\45\45712a70a5cfd5d4fd7ecb292a17045a
     projectPath: Library\Artifacts\45\45712a70a5cfd5d4fd7ecb292a17045a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\46\4684749fa3bbbe290e6ee0127a6b2d19
     fullPath: E:\Github\U1\Library\Artifacts\46\4684749fa3bbbe290e6ee0127a6b2d19
     projectPath: Library\Artifacts\46\4684749fa3bbbe290e6ee0127a6b2d19
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\46\46ec13ac118ca79483bf562f85aa8234
     fullPath: E:\Github\U1\Library\Artifacts\46\46ec13ac118ca79483bf562f85aa8234
     projectPath: Library\Artifacts\46\46ec13ac118ca79483bf562f85aa8234
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\47\47061b2f62c45fd73a18ef50c142e326
     fullPath: E:\Github\U1\Library\Artifacts\47\47061b2f62c45fd73a18ef50c142e326
     projectPath: Library\Artifacts\47\47061b2f62c45fd73a18ef50c142e326
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\47\475411f09d254e32c535c0842eb7cbb9
     fullPath: E:\Github\U1\Library\Artifacts\47\475411f09d254e32c535c0842eb7cbb9
     projectPath: Library\Artifacts\47\475411f09d254e32c535c0842eb7cbb9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\48\4819ac796bf382c07f345c8b9a32ea67
     fullPath: E:\Github\U1\Library\Artifacts\48\4819ac796bf382c07f345c8b9a32ea67
     projectPath: Library\Artifacts\48\4819ac796bf382c07f345c8b9a32ea67
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\48\481cd0a048490a30110b08310ee53824
     fullPath: E:\Github\U1\Library\Artifacts\48\481cd0a048490a30110b08310ee53824
     projectPath: Library\Artifacts\48\481cd0a048490a30110b08310ee53824
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\48\48c150ba34998384c2fd350277ac480f
     fullPath: E:\Github\U1\Library\Artifacts\48\48c150ba34998384c2fd350277ac480f
     projectPath: Library\Artifacts\48\48c150ba34998384c2fd350277ac480f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\49\4903b791bba34cb04a872b7c829e3340
     fullPath: E:\Github\U1\Library\Artifacts\49\4903b791bba34cb04a872b7c829e3340
     projectPath: Library\Artifacts\49\4903b791bba34cb04a872b7c829e3340
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\49\497ed782928582800bb108337a807485
     fullPath: E:\Github\U1\Library\Artifacts\49\497ed782928582800bb108337a807485
     projectPath: Library\Artifacts\49\497ed782928582800bb108337a807485
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\49\49815f0cd4c7c549047848f7530cd534
     fullPath: E:\Github\U1\Library\Artifacts\49\49815f0cd4c7c549047848f7530cd534
     projectPath: Library\Artifacts\49\49815f0cd4c7c549047848f7530cd534
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4b\4b3206a6c135c4f7f0a38320483958f7
     fullPath: E:\Github\U1\Library\Artifacts\4b\4b3206a6c135c4f7f0a38320483958f7
     projectPath: Library\Artifacts\4b\4b3206a6c135c4f7f0a38320483958f7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4b\4b571e071db1988667c04c3132e9fc6e
     fullPath: E:\Github\U1\Library\Artifacts\4b\4b571e071db1988667c04c3132e9fc6e
     projectPath: Library\Artifacts\4b\4b571e071db1988667c04c3132e9fc6e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4c\4c16a7d607a2aea395066af0def6b3a8
     fullPath: E:\Github\U1\Library\Artifacts\4c\4c16a7d607a2aea395066af0def6b3a8
     projectPath: Library\Artifacts\4c\4c16a7d607a2aea395066af0def6b3a8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4c\4c827e224fcbb87e8df18c94a05334b6
     fullPath: E:\Github\U1\Library\Artifacts\4c\4c827e224fcbb87e8df18c94a05334b6
     projectPath: Library\Artifacts\4c\4c827e224fcbb87e8df18c94a05334b6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4c\4c911f37730e21c29289aa28ec4eb099
     fullPath: E:\Github\U1\Library\Artifacts\4c\4c911f37730e21c29289aa28ec4eb099
     projectPath: Library\Artifacts\4c\4c911f37730e21c29289aa28ec4eb099
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4d\4da6d634bd6e14c74748f98853c1fa09
     fullPath: E:\Github\U1\Library\Artifacts\4d\4da6d634bd6e14c74748f98853c1fa09
     projectPath: Library\Artifacts\4d\4da6d634bd6e14c74748f98853c1fa09
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4e\4ea3e2ad74d6af8e209638055811cf20
     fullPath: E:\Github\U1\Library\Artifacts\4e\4ea3e2ad74d6af8e209638055811cf20
     projectPath: Library\Artifacts\4e\4ea3e2ad74d6af8e209638055811cf20
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4f\4f6320732333d2a1511f1413d60fecc7
     fullPath: E:\Github\U1\Library\Artifacts\4f\4f6320732333d2a1511f1413d60fecc7
     projectPath: Library\Artifacts\4f\4f6320732333d2a1511f1413d60fecc7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4f\4f784fdc6a1c7ec8123565143c50f9f1
     fullPath: E:\Github\U1\Library\Artifacts\4f\4f784fdc6a1c7ec8123565143c50f9f1
     projectPath: Library\Artifacts\4f\4f784fdc6a1c7ec8123565143c50f9f1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4f\4f7c15fc19c236b8403291d6167ad30d
     fullPath: E:\Github\U1\Library\Artifacts\4f\4f7c15fc19c236b8403291d6167ad30d
     projectPath: Library\Artifacts\4f\4f7c15fc19c236b8403291d6167ad30d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\50\50a680b059d38113f433eabcc0c4042f
     fullPath: E:\Github\U1\Library\Artifacts\50\50a680b059d38113f433eabcc0c4042f
     projectPath: Library\Artifacts\50\50a680b059d38113f433eabcc0c4042f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\51\511975c70832b3548978db9813fc792a
     fullPath: E:\Github\U1\Library\Artifacts\51\511975c70832b3548978db9813fc792a
     projectPath: Library\Artifacts\51\511975c70832b3548978db9813fc792a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\51\513d4fcafe86be25ad623cd5b307ed3a
     fullPath: E:\Github\U1\Library\Artifacts\51\513d4fcafe86be25ad623cd5b307ed3a
     projectPath: Library\Artifacts\51\513d4fcafe86be25ad623cd5b307ed3a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\51\514fa34f880a69b736bcf54b4399c20b
     fullPath: E:\Github\U1\Library\Artifacts\51\514fa34f880a69b736bcf54b4399c20b
     projectPath: Library\Artifacts\51\514fa34f880a69b736bcf54b4399c20b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\51\517e1cd0bca3b59217843a4b5b5c3e0c
     fullPath: E:\Github\U1\Library\Artifacts\51\517e1cd0bca3b59217843a4b5b5c3e0c
     projectPath: Library\Artifacts\51\517e1cd0bca3b59217843a4b5b5c3e0c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\51\51fd3637f79761d7fee3d93d748c9548
     fullPath: E:\Github\U1\Library\Artifacts\51\51fd3637f79761d7fee3d93d748c9548
     projectPath: Library\Artifacts\51\51fd3637f79761d7fee3d93d748c9548
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\52\523c34dd2ae4d160b13d8216411e5a3e
     fullPath: E:\Github\U1\Library\Artifacts\52\523c34dd2ae4d160b13d8216411e5a3e
     projectPath: Library\Artifacts\52\523c34dd2ae4d160b13d8216411e5a3e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\53\5344c121069822ad3939c67861568539
     fullPath: E:\Github\U1\Library\Artifacts\53\5344c121069822ad3939c67861568539
     projectPath: Library\Artifacts\53\5344c121069822ad3939c67861568539
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\53\53db4c39182777549166128fe6bb2832
     fullPath: E:\Github\U1\Library\Artifacts\53\53db4c39182777549166128fe6bb2832
     projectPath: Library\Artifacts\53\53db4c39182777549166128fe6bb2832
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\55\5520d098ae38c0d730190b7e95f678cd
     fullPath: E:\Github\U1\Library\Artifacts\55\5520d098ae38c0d730190b7e95f678cd
     projectPath: Library\Artifacts\55\5520d098ae38c0d730190b7e95f678cd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\55\555e291a9a12fa6a4dd44060e8f8dcd5
     fullPath: E:\Github\U1\Library\Artifacts\55\555e291a9a12fa6a4dd44060e8f8dcd5
     projectPath: Library\Artifacts\55\555e291a9a12fa6a4dd44060e8f8dcd5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\55\55e766280dfc20b76cf415baf38bdb04
     fullPath: E:\Github\U1\Library\Artifacts\55\55e766280dfc20b76cf415baf38bdb04
     projectPath: Library\Artifacts\55\55e766280dfc20b76cf415baf38bdb04
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\55\55fa1ff8db60ab586006ca85ebf9d164
     fullPath: E:\Github\U1\Library\Artifacts\55\55fa1ff8db60ab586006ca85ebf9d164
     projectPath: Library\Artifacts\55\55fa1ff8db60ab586006ca85ebf9d164
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\56\5649e0eebae0736eb93c58dc605d4555
     fullPath: E:\Github\U1\Library\Artifacts\56\5649e0eebae0736eb93c58dc605d4555
     projectPath: Library\Artifacts\56\5649e0eebae0736eb93c58dc605d4555
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\56\5668a305d86b87009f6b99dfe7bcf08c
     fullPath: E:\Github\U1\Library\Artifacts\56\5668a305d86b87009f6b99dfe7bcf08c
     projectPath: Library\Artifacts\56\5668a305d86b87009f6b99dfe7bcf08c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\56\567acf50cb4be5069c7e407a11a1f305
     fullPath: E:\Github\U1\Library\Artifacts\56\567acf50cb4be5069c7e407a11a1f305
     projectPath: Library\Artifacts\56\567acf50cb4be5069c7e407a11a1f305
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\56\56881113c80b7c932cc799634020d119
     fullPath: E:\Github\U1\Library\Artifacts\56\56881113c80b7c932cc799634020d119
     projectPath: Library\Artifacts\56\56881113c80b7c932cc799634020d119
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\56\56d1150125bb0fa6ddcba653e5c50167
     fullPath: E:\Github\U1\Library\Artifacts\56\56d1150125bb0fa6ddcba653e5c50167
     projectPath: Library\Artifacts\56\56d1150125bb0fa6ddcba653e5c50167
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\57\57476609705b5a024c2353de5ff5eb29
     fullPath: E:\Github\U1\Library\Artifacts\57\57476609705b5a024c2353de5ff5eb29
     projectPath: Library\Artifacts\57\57476609705b5a024c2353de5ff5eb29
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\58\5818d5473aa579e51bb57bcb0ae92af4
     fullPath: E:\Github\U1\Library\Artifacts\58\5818d5473aa579e51bb57bcb0ae92af4
     projectPath: Library\Artifacts\58\5818d5473aa579e51bb57bcb0ae92af4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\58\585d7b71c3938354d51d2479be4aeeb7
     fullPath: E:\Github\U1\Library\Artifacts\58\585d7b71c3938354d51d2479be4aeeb7
     projectPath: Library\Artifacts\58\585d7b71c3938354d51d2479be4aeeb7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\58\5882b13bb0fbe4b08c431409bcc01609
     fullPath: E:\Github\U1\Library\Artifacts\58\5882b13bb0fbe4b08c431409bcc01609
     projectPath: Library\Artifacts\58\5882b13bb0fbe4b08c431409bcc01609
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\58\58a9450154fbc831e02327792c87d194
     fullPath: E:\Github\U1\Library\Artifacts\58\58a9450154fbc831e02327792c87d194
     projectPath: Library\Artifacts\58\58a9450154fbc831e02327792c87d194
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\59\5946f1dc8887504bc4f32655004abaac
     fullPath: E:\Github\U1\Library\Artifacts\59\5946f1dc8887504bc4f32655004abaac
     projectPath: Library\Artifacts\59\5946f1dc8887504bc4f32655004abaac
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5a\5a273b601e8cd8e03004433b7a651583
     fullPath: E:\Github\U1\Library\Artifacts\5a\5a273b601e8cd8e03004433b7a651583
     projectPath: Library\Artifacts\5a\5a273b601e8cd8e03004433b7a651583
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5a\5a6f9846d0c0773232dcf7b85b356143
     fullPath: E:\Github\U1\Library\Artifacts\5a\5a6f9846d0c0773232dcf7b85b356143
     projectPath: Library\Artifacts\5a\5a6f9846d0c0773232dcf7b85b356143
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5a\5a70533b22c39ee1a0e1bc720061a48c
     fullPath: E:\Github\U1\Library\Artifacts\5a\5a70533b22c39ee1a0e1bc720061a48c
     projectPath: Library\Artifacts\5a\5a70533b22c39ee1a0e1bc720061a48c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5c\5ca3997e38747f6fd8aaeb7b1b2c8b25
     fullPath: E:\Github\U1\Library\Artifacts\5c\5ca3997e38747f6fd8aaeb7b1b2c8b25
     projectPath: Library\Artifacts\5c\5ca3997e38747f6fd8aaeb7b1b2c8b25
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5c\5cbd6957a20ec459ab295df34213f472
     fullPath: E:\Github\U1\Library\Artifacts\5c\5cbd6957a20ec459ab295df34213f472
     projectPath: Library\Artifacts\5c\5cbd6957a20ec459ab295df34213f472
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5c\5cee38163709faae020013a8e2c48cd8
     fullPath: E:\Github\U1\Library\Artifacts\5c\5cee38163709faae020013a8e2c48cd8
     projectPath: Library\Artifacts\5c\5cee38163709faae020013a8e2c48cd8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5d\5d43981fbcfd7ad645affa91a310b941
     fullPath: E:\Github\U1\Library\Artifacts\5d\5d43981fbcfd7ad645affa91a310b941
     projectPath: Library\Artifacts\5d\5d43981fbcfd7ad645affa91a310b941
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5d\5ddfb7131757c7736cc66a567e0bb749
     fullPath: E:\Github\U1\Library\Artifacts\5d\5ddfb7131757c7736cc66a567e0bb749
     projectPath: Library\Artifacts\5d\5ddfb7131757c7736cc66a567e0bb749
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5e\5e2ec2a6e5d77b6f40f764b5270b1e1a
     fullPath: E:\Github\U1\Library\Artifacts\5e\5e2ec2a6e5d77b6f40f764b5270b1e1a
     projectPath: Library\Artifacts\5e\5e2ec2a6e5d77b6f40f764b5270b1e1a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5e\5e5eb0615526ce52cfa961ff9a815204
     fullPath: E:\Github\U1\Library\Artifacts\5e\5e5eb0615526ce52cfa961ff9a815204
     projectPath: Library\Artifacts\5e\5e5eb0615526ce52cfa961ff9a815204
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5e\5e9970ca973329b55e095a62d5e340d1
     fullPath: E:\Github\U1\Library\Artifacts\5e\5e9970ca973329b55e095a62d5e340d1
     projectPath: Library\Artifacts\5e\5e9970ca973329b55e095a62d5e340d1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5f\5f61f7fd1b3944cc0f52a581920fef8f
     fullPath: E:\Github\U1\Library\Artifacts\5f\5f61f7fd1b3944cc0f52a581920fef8f
     projectPath: Library\Artifacts\5f\5f61f7fd1b3944cc0f52a581920fef8f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5f\5fe64cd582770affbeceb6437d7eb76a
     fullPath: E:\Github\U1\Library\Artifacts\5f\5fe64cd582770affbeceb6437d7eb76a
     projectPath: Library\Artifacts\5f\5fe64cd582770affbeceb6437d7eb76a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\60\6084f61569839d65b3f6b6a6bbd6f558
     fullPath: E:\Github\U1\Library\Artifacts\60\6084f61569839d65b3f6b6a6bbd6f558
     projectPath: Library\Artifacts\60\6084f61569839d65b3f6b6a6bbd6f558
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\61\614015b4f987159bf0c2594710bcdfd1
     fullPath: E:\Github\U1\Library\Artifacts\61\614015b4f987159bf0c2594710bcdfd1
     projectPath: Library\Artifacts\61\614015b4f987159bf0c2594710bcdfd1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\61\61ae7362f1b3ec605b478a8a570cac6d
     fullPath: E:\Github\U1\Library\Artifacts\61\61ae7362f1b3ec605b478a8a570cac6d
     projectPath: Library\Artifacts\61\61ae7362f1b3ec605b478a8a570cac6d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\61\61b45bc0bc23c4c891183e7945807189
     fullPath: E:\Github\U1\Library\Artifacts\61\61b45bc0bc23c4c891183e7945807189
     projectPath: Library\Artifacts\61\61b45bc0bc23c4c891183e7945807189
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\62\62cc2fe338ba1d488d8deecb7944696a
-    fullPath: E:\Github\U1\Library\Artifacts\62\62cc2fe338ba1d488d8deecb7944696a
-    projectPath: Library\Artifacts\62\62cc2fe338ba1d488d8deecb7944696a
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\62\62a7b56cac6e6b2e809a4094313a8a43
+    fullPath: E:\Github\U1\Library\Artifacts\62\62a7b56cac6e6b2e809a4094313a8a43
+    projectPath: Library\Artifacts\62\62a7b56cac6e6b2e809a4094313a8a43
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1346,17 +1286,11 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\63\630d4a2078491edc7b16367ac41408fe
     projectPath: Library\Artifacts\63\630d4a2078491edc7b16367ac41408fe
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\64\642e4805c136aba237f5ee74edba5367
     fullPath: E:\Github\U1\Library\Artifacts\64\642e4805c136aba237f5ee74edba5367
     projectPath: Library\Artifacts\64\642e4805c136aba237f5ee74edba5367
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\64\64a07aed50925739a94b482dcf429520
-    fullPath: E:\Github\U1\Library\Artifacts\64\64a07aed50925739a94b482dcf429520
-    projectPath: Library\Artifacts\64\64a07aed50925739a94b482dcf429520
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -1364,323 +1298,317 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\64\64ac537657166aa860fb722161c46c27
     projectPath: Library\Artifacts\64\64ac537657166aa860fb722161c46c27
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\64\64df8e7c4246f375512ce0911504c86d
     fullPath: E:\Github\U1\Library\Artifacts\64\64df8e7c4246f375512ce0911504c86d
     projectPath: Library\Artifacts\64\64df8e7c4246f375512ce0911504c86d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\65\6576209288440d5939d5fb8606747140
     fullPath: E:\Github\U1\Library\Artifacts\65\6576209288440d5939d5fb8606747140
     projectPath: Library\Artifacts\65\6576209288440d5939d5fb8606747140
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\65\65b7caf1a70cd855bbc26823d8902bc0
     fullPath: E:\Github\U1\Library\Artifacts\65\65b7caf1a70cd855bbc26823d8902bc0
     projectPath: Library\Artifacts\65\65b7caf1a70cd855bbc26823d8902bc0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\65\65fb464c0ccb1e844d826f93122f2bc9
     fullPath: E:\Github\U1\Library\Artifacts\65\65fb464c0ccb1e844d826f93122f2bc9
     projectPath: Library\Artifacts\65\65fb464c0ccb1e844d826f93122f2bc9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\66\66447bca6920f59144a715951e61bf24
     fullPath: E:\Github\U1\Library\Artifacts\66\66447bca6920f59144a715951e61bf24
     projectPath: Library\Artifacts\66\66447bca6920f59144a715951e61bf24
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\66\6680d281de0e1dbb93e3aa99f3f92a75
     fullPath: E:\Github\U1\Library\Artifacts\66\6680d281de0e1dbb93e3aa99f3f92a75
     projectPath: Library\Artifacts\66\6680d281de0e1dbb93e3aa99f3f92a75
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\66\66ed4060e1a1bd2b13b80b28d7befbba
     fullPath: E:\Github\U1\Library\Artifacts\66\66ed4060e1a1bd2b13b80b28d7befbba
     projectPath: Library\Artifacts\66\66ed4060e1a1bd2b13b80b28d7befbba
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\67\6743f7895464b93a09e11f07ef1c5d8f
     fullPath: E:\Github\U1\Library\Artifacts\67\6743f7895464b93a09e11f07ef1c5d8f
     projectPath: Library\Artifacts\67\6743f7895464b93a09e11f07ef1c5d8f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\67\6777bada5ba1a355aeaa5d6b22b38081
     fullPath: E:\Github\U1\Library\Artifacts\67\6777bada5ba1a355aeaa5d6b22b38081
     projectPath: Library\Artifacts\67\6777bada5ba1a355aeaa5d6b22b38081
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\69\69b5f64faa627d5a4f2df96e8d84288c
     fullPath: E:\Github\U1\Library\Artifacts\69\69b5f64faa627d5a4f2df96e8d84288c
     projectPath: Library\Artifacts\69\69b5f64faa627d5a4f2df96e8d84288c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6a\6a4a79a372c5ffb316571e6bd14eba97
     fullPath: E:\Github\U1\Library\Artifacts\6a\6a4a79a372c5ffb316571e6bd14eba97
     projectPath: Library\Artifacts\6a\6a4a79a372c5ffb316571e6bd14eba97
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6a\6abe73002dd994abe7c9710ad0275bf7
     fullPath: E:\Github\U1\Library\Artifacts\6a\6abe73002dd994abe7c9710ad0275bf7
     projectPath: Library\Artifacts\6a\6abe73002dd994abe7c9710ad0275bf7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6a\6aec154faeef51c733f606f69f3c7497
     fullPath: E:\Github\U1\Library\Artifacts\6a\6aec154faeef51c733f606f69f3c7497
     projectPath: Library\Artifacts\6a\6aec154faeef51c733f606f69f3c7497
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6b\6b0e34ab45e57611b9186fb6b9d9a739
     fullPath: E:\Github\U1\Library\Artifacts\6b\6b0e34ab45e57611b9186fb6b9d9a739
     projectPath: Library\Artifacts\6b\6b0e34ab45e57611b9186fb6b9d9a739
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6b\6b26630abc27f437fc930c092476a801
     fullPath: E:\Github\U1\Library\Artifacts\6b\6b26630abc27f437fc930c092476a801
     projectPath: Library\Artifacts\6b\6b26630abc27f437fc930c092476a801
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6b\6ba809498f31e7260182091c506b353c
     fullPath: E:\Github\U1\Library\Artifacts\6b\6ba809498f31e7260182091c506b353c
     projectPath: Library\Artifacts\6b\6ba809498f31e7260182091c506b353c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6c\6cdde21305edddb193f12fcb770e89eb
     fullPath: E:\Github\U1\Library\Artifacts\6c\6cdde21305edddb193f12fcb770e89eb
     projectPath: Library\Artifacts\6c\6cdde21305edddb193f12fcb770e89eb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6d\6d272c0942cf8582ef71cf3049f6243c
     fullPath: E:\Github\U1\Library\Artifacts\6d\6d272c0942cf8582ef71cf3049f6243c
     projectPath: Library\Artifacts\6d\6d272c0942cf8582ef71cf3049f6243c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6d\6dfdf5bf2aa6a97d225e42d244b99845
     fullPath: E:\Github\U1\Library\Artifacts\6d\6dfdf5bf2aa6a97d225e42d244b99845
     projectPath: Library\Artifacts\6d\6dfdf5bf2aa6a97d225e42d244b99845
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6e\6e44ec52c294edb98675eef758008099
     fullPath: E:\Github\U1\Library\Artifacts\6e\6e44ec52c294edb98675eef758008099
     projectPath: Library\Artifacts\6e\6e44ec52c294edb98675eef758008099
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6f\6f6de75fbd69a5a2fed664789bd3fa17
     fullPath: E:\Github\U1\Library\Artifacts\6f\6f6de75fbd69a5a2fed664789bd3fa17
     projectPath: Library\Artifacts\6f\6f6de75fbd69a5a2fed664789bd3fa17
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\71\71395d40dae5aab04c1ce62e012e369a
     fullPath: E:\Github\U1\Library\Artifacts\71\71395d40dae5aab04c1ce62e012e369a
     projectPath: Library\Artifacts\71\71395d40dae5aab04c1ce62e012e369a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\71\71505195214ec9e9c2f3b155c6499780
     fullPath: E:\Github\U1\Library\Artifacts\71\71505195214ec9e9c2f3b155c6499780
     projectPath: Library\Artifacts\71\71505195214ec9e9c2f3b155c6499780
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\71\7160f355b84dbd9797d3618f0b4da808
     fullPath: E:\Github\U1\Library\Artifacts\71\7160f355b84dbd9797d3618f0b4da808
     projectPath: Library\Artifacts\71\7160f355b84dbd9797d3618f0b4da808
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\71\71bc7035bb5a7ebf8ddc450a1413f881
     fullPath: E:\Github\U1\Library\Artifacts\71\71bc7035bb5a7ebf8ddc450a1413f881
     projectPath: Library\Artifacts\71\71bc7035bb5a7ebf8ddc450a1413f881
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\72\72ebe01c0c9145eaf4dda1e81454b1e6
     fullPath: E:\Github\U1\Library\Artifacts\72\72ebe01c0c9145eaf4dda1e81454b1e6
     projectPath: Library\Artifacts\72\72ebe01c0c9145eaf4dda1e81454b1e6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\73\73b471aa81f147f3477fae3e33c1624c
     fullPath: E:\Github\U1\Library\Artifacts\73\73b471aa81f147f3477fae3e33c1624c
     projectPath: Library\Artifacts\73\73b471aa81f147f3477fae3e33c1624c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\74\74733140bd9b6202e4b1f679d80ac015
     fullPath: E:\Github\U1\Library\Artifacts\74\74733140bd9b6202e4b1f679d80ac015
     projectPath: Library\Artifacts\74\74733140bd9b6202e4b1f679d80ac015
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\74\74b5536ac3127928d28a5ddaf46d8444
     fullPath: E:\Github\U1\Library\Artifacts\74\74b5536ac3127928d28a5ddaf46d8444
     projectPath: Library\Artifacts\74\74b5536ac3127928d28a5ddaf46d8444
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\74\74bb4ab1b2822c05425ca142fccc751d
     fullPath: E:\Github\U1\Library\Artifacts\74\74bb4ab1b2822c05425ca142fccc751d
     projectPath: Library\Artifacts\74\74bb4ab1b2822c05425ca142fccc751d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\75\75f8446f403845d0df05b4070598139f
     fullPath: E:\Github\U1\Library\Artifacts\75\75f8446f403845d0df05b4070598139f
     projectPath: Library\Artifacts\75\75f8446f403845d0df05b4070598139f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\76\76010727f8367c39d3e16dee0e42c1eb
     fullPath: E:\Github\U1\Library\Artifacts\76\76010727f8367c39d3e16dee0e42c1eb
     projectPath: Library\Artifacts\76\76010727f8367c39d3e16dee0e42c1eb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\76\76260071c1739fb960a7cf657c8b6da4
     fullPath: E:\Github\U1\Library\Artifacts\76\76260071c1739fb960a7cf657c8b6da4
     projectPath: Library\Artifacts\76\76260071c1739fb960a7cf657c8b6da4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\76\76d60bdbcc9dc8098a92d553328a0545
     fullPath: E:\Github\U1\Library\Artifacts\76\76d60bdbcc9dc8098a92d553328a0545
     projectPath: Library\Artifacts\76\76d60bdbcc9dc8098a92d553328a0545
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\77\7798a7b9791e4a3f1fdebbe7d829c551
     fullPath: E:\Github\U1\Library\Artifacts\77\7798a7b9791e4a3f1fdebbe7d829c551
     projectPath: Library\Artifacts\77\7798a7b9791e4a3f1fdebbe7d829c551
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\77\77e661f1c5080e7c39410f223d4812e7
     fullPath: E:\Github\U1\Library\Artifacts\77\77e661f1c5080e7c39410f223d4812e7
     projectPath: Library\Artifacts\77\77e661f1c5080e7c39410f223d4812e7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\78\78037a60f66945965516f26d2b24cc41
     fullPath: E:\Github\U1\Library\Artifacts\78\78037a60f66945965516f26d2b24cc41
     projectPath: Library\Artifacts\78\78037a60f66945965516f26d2b24cc41
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7a\7a204ee0ca3287a8253ec172268d9e1a
     fullPath: E:\Github\U1\Library\Artifacts\7a\7a204ee0ca3287a8253ec172268d9e1a
     projectPath: Library\Artifacts\7a\7a204ee0ca3287a8253ec172268d9e1a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7a\7a752f7c57dcd7b3e0a6c7c812b8892b
     fullPath: E:\Github\U1\Library\Artifacts\7a\7a752f7c57dcd7b3e0a6c7c812b8892b
     projectPath: Library\Artifacts\7a\7a752f7c57dcd7b3e0a6c7c812b8892b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7a\7ad620fcbd98718da6a96027cafc5e08
     fullPath: E:\Github\U1\Library\Artifacts\7a\7ad620fcbd98718da6a96027cafc5e08
     projectPath: Library\Artifacts\7a\7ad620fcbd98718da6a96027cafc5e08
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7b\7b4d2d11708a7f7c4daa6e83fb5b0161
     fullPath: E:\Github\U1\Library\Artifacts\7b\7b4d2d11708a7f7c4daa6e83fb5b0161
     projectPath: Library\Artifacts\7b\7b4d2d11708a7f7c4daa6e83fb5b0161
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7c\7c6df667feace5f6f06552f15cd76433
     fullPath: E:\Github\U1\Library\Artifacts\7c\7c6df667feace5f6f06552f15cd76433
     projectPath: Library\Artifacts\7c\7c6df667feace5f6f06552f15cd76433
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7c\7c9b490b1cfb7e2499981c44cb2cbe18
     fullPath: E:\Github\U1\Library\Artifacts\7c\7c9b490b1cfb7e2499981c44cb2cbe18
     projectPath: Library\Artifacts\7c\7c9b490b1cfb7e2499981c44cb2cbe18
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7d\7db2d80baeb11f7e6b6721cda38dcca9
     fullPath: E:\Github\U1\Library\Artifacts\7d\7db2d80baeb11f7e6b6721cda38dcca9
     projectPath: Library\Artifacts\7d\7db2d80baeb11f7e6b6721cda38dcca9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7d\7dd600334e949466cdf0216e41ce0beb
     fullPath: E:\Github\U1\Library\Artifacts\7d\7dd600334e949466cdf0216e41ce0beb
     projectPath: Library\Artifacts\7d\7dd600334e949466cdf0216e41ce0beb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7e\7ece0d452a0d7e966f0446857c484c23
     fullPath: E:\Github\U1\Library\Artifacts\7e\7ece0d452a0d7e966f0446857c484c23
     projectPath: Library\Artifacts\7e\7ece0d452a0d7e966f0446857c484c23
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7e\7ee2b45426c583c5b47764e106654fab
     fullPath: E:\Github\U1\Library\Artifacts\7e\7ee2b45426c583c5b47764e106654fab
     projectPath: Library\Artifacts\7e\7ee2b45426c583c5b47764e106654fab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7f\7f51609e6fe4d39b0baf605549b306e5
     fullPath: E:\Github\U1\Library\Artifacts\7f\7f51609e6fe4d39b0baf605549b306e5
     projectPath: Library\Artifacts\7f\7f51609e6fe4d39b0baf605549b306e5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7f\7fe2cf006ee883b867d5d249d6e354eb
     fullPath: E:\Github\U1\Library\Artifacts\7f\7fe2cf006ee883b867d5d249d6e354eb
     projectPath: Library\Artifacts\7f\7fe2cf006ee883b867d5d249d6e354eb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\80\8075fc5b47893c2f690893a9c6a996b0
     fullPath: E:\Github\U1\Library\Artifacts\80\8075fc5b47893c2f690893a9c6a996b0
     projectPath: Library\Artifacts\80\8075fc5b47893c2f690893a9c6a996b0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\80\80d03a7fa36ecc2ee1546cfa51424dba
     fullPath: E:\Github\U1\Library\Artifacts\80\80d03a7fa36ecc2ee1546cfa51424dba
     projectPath: Library\Artifacts\80\80d03a7fa36ecc2ee1546cfa51424dba
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\80\80d77552fa10166d1cfbbb18b17864f0
     fullPath: E:\Github\U1\Library\Artifacts\80\80d77552fa10166d1cfbbb18b17864f0
     projectPath: Library\Artifacts\80\80d77552fa10166d1cfbbb18b17864f0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\80\80da3bd20c8349e3effcae540fb903cf
-    fullPath: E:\Github\U1\Library\Artifacts\80\80da3bd20c8349e3effcae540fb903cf
-    projectPath: Library\Artifacts\80\80da3bd20c8349e3effcae540fb903cf
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -1688,23 +1616,29 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\81\813698fbfc7974e74250e040deacaa37
     projectPath: Library\Artifacts\81\813698fbfc7974e74250e040deacaa37
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\81\81de71092c6399e550dac91ee2fe3ebc
     fullPath: E:\Github\U1\Library\Artifacts\81\81de71092c6399e550dac91ee2fe3ebc
     projectPath: Library\Artifacts\81\81de71092c6399e550dac91ee2fe3ebc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\82\8237f3d89b9ff80010302effef3082e3
     fullPath: E:\Github\U1\Library\Artifacts\82\8237f3d89b9ff80010302effef3082e3
     projectPath: Library\Artifacts\82\8237f3d89b9ff80010302effef3082e3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\82\8258c4586dd8e481b9693469b4be090c
     fullPath: E:\Github\U1\Library\Artifacts\82\8258c4586dd8e481b9693469b4be090c
     projectPath: Library\Artifacts\82\8258c4586dd8e481b9693469b4be090c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\84\843f895086c86c036d9163e8f934711e
+    fullPath: E:\Github\U1\Library\Artifacts\84\843f895086c86c036d9163e8f934711e
+    projectPath: Library\Artifacts\84\843f895086c86c036d9163e8f934711e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1712,41 +1646,47 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\84\8463b8bcd0546f856812b604782916c3
     projectPath: Library\Artifacts\84\8463b8bcd0546f856812b604782916c3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\84\847b17bd581b020b034bd95542c311ff
     fullPath: E:\Github\U1\Library\Artifacts\84\847b17bd581b020b034bd95542c311ff
     projectPath: Library\Artifacts\84\847b17bd581b020b034bd95542c311ff
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\84\84e978280808ddabcf0f3b25f382dbd8
     fullPath: E:\Github\U1\Library\Artifacts\84\84e978280808ddabcf0f3b25f382dbd8
     projectPath: Library\Artifacts\84\84e978280808ddabcf0f3b25f382dbd8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\85\852bb58554f33b740d6dc1fce7f26baa
     fullPath: E:\Github\U1\Library\Artifacts\85\852bb58554f33b740d6dc1fce7f26baa
     projectPath: Library\Artifacts\85\852bb58554f33b740d6dc1fce7f26baa
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\85\8530d233e17c099510aa67cf55959a30
     fullPath: E:\Github\U1\Library\Artifacts\85\8530d233e17c099510aa67cf55959a30
     projectPath: Library\Artifacts\85\8530d233e17c099510aa67cf55959a30
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\85\8578c9aeb88182ee0795c05ecffce601
     fullPath: E:\Github\U1\Library\Artifacts\85\8578c9aeb88182ee0795c05ecffce601
     projectPath: Library\Artifacts\85\8578c9aeb88182ee0795c05ecffce601
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\85\858824a29e7b6288e2fbc81f5952deba
     fullPath: E:\Github\U1\Library\Artifacts\85\858824a29e7b6288e2fbc81f5952deba
     projectPath: Library\Artifacts\85\858824a29e7b6288e2fbc81f5952deba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\85\85962628a048775bf35be6f199985f1f
+    fullPath: E:\Github\U1\Library\Artifacts\85\85962628a048775bf35be6f199985f1f
+    projectPath: Library\Artifacts\85\85962628a048775bf35be6f199985f1f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1754,191 +1694,191 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\86\86f643f5f7cf5b8a059f4a91ad7e6113
     projectPath: Library\Artifacts\86\86f643f5f7cf5b8a059f4a91ad7e6113
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\87\870dda7a738a90a5b203bb35e7417226
     fullPath: E:\Github\U1\Library\Artifacts\87\870dda7a738a90a5b203bb35e7417226
     projectPath: Library\Artifacts\87\870dda7a738a90a5b203bb35e7417226
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\88\88601c9a59a801e1651c43eb72449d55
     fullPath: E:\Github\U1\Library\Artifacts\88\88601c9a59a801e1651c43eb72449d55
     projectPath: Library\Artifacts\88\88601c9a59a801e1651c43eb72449d55
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\89\8917b98b479c9f5e9ee9052390c76aa5
-    fullPath: E:\Github\U1\Library\Artifacts\89\8917b98b479c9f5e9ee9052390c76aa5
-    projectPath: Library\Artifacts\89\8917b98b479c9f5e9ee9052390c76aa5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\89\89c3264afd0d821b431e09e492ebe081
     fullPath: E:\Github\U1\Library\Artifacts\89\89c3264afd0d821b431e09e492ebe081
     projectPath: Library\Artifacts\89\89c3264afd0d821b431e09e492ebe081
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\89\89dd89801d24e1bb40d80a98dc281b73
     fullPath: E:\Github\U1\Library\Artifacts\89\89dd89801d24e1bb40d80a98dc281b73
     projectPath: Library\Artifacts\89\89dd89801d24e1bb40d80a98dc281b73
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8a\8a001bfd22308312dc35f3fc91d52dc0
     fullPath: E:\Github\U1\Library\Artifacts\8a\8a001bfd22308312dc35f3fc91d52dc0
     projectPath: Library\Artifacts\8a\8a001bfd22308312dc35f3fc91d52dc0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8b\8bda9e2052f4f01ee4c07b82807aa849
     fullPath: E:\Github\U1\Library\Artifacts\8b\8bda9e2052f4f01ee4c07b82807aa849
     projectPath: Library\Artifacts\8b\8bda9e2052f4f01ee4c07b82807aa849
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8c\8c260afc7e31fbea5c2f7a5b42e5dce9
     fullPath: E:\Github\U1\Library\Artifacts\8c\8c260afc7e31fbea5c2f7a5b42e5dce9
     projectPath: Library\Artifacts\8c\8c260afc7e31fbea5c2f7a5b42e5dce9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8c\8c747667e526ab4d0f512bcb0fbf0ddc
     fullPath: E:\Github\U1\Library\Artifacts\8c\8c747667e526ab4d0f512bcb0fbf0ddc
     projectPath: Library\Artifacts\8c\8c747667e526ab4d0f512bcb0fbf0ddc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8c\8c9da8e8277aebe8e3b234272163cd00
     fullPath: E:\Github\U1\Library\Artifacts\8c\8c9da8e8277aebe8e3b234272163cd00
     projectPath: Library\Artifacts\8c\8c9da8e8277aebe8e3b234272163cd00
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8c\8cc537a7712b69174aac4a27f3e84b0b
     fullPath: E:\Github\U1\Library\Artifacts\8c\8cc537a7712b69174aac4a27f3e84b0b
     projectPath: Library\Artifacts\8c\8cc537a7712b69174aac4a27f3e84b0b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8c\8cf15eab7b7e43214fd029b7e2e76b4b
     fullPath: E:\Github\U1\Library\Artifacts\8c\8cf15eab7b7e43214fd029b7e2e76b4b
     projectPath: Library\Artifacts\8c\8cf15eab7b7e43214fd029b7e2e76b4b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8d\8d54210e51483d8b0f21ecba9442b3ed
     fullPath: E:\Github\U1\Library\Artifacts\8d\8d54210e51483d8b0f21ecba9442b3ed
     projectPath: Library\Artifacts\8d\8d54210e51483d8b0f21ecba9442b3ed
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8d\8d69226c660575b791f1018f571dcdad
     fullPath: E:\Github\U1\Library\Artifacts\8d\8d69226c660575b791f1018f571dcdad
     projectPath: Library\Artifacts\8d\8d69226c660575b791f1018f571dcdad
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8e\8e2bd9e09c07b93ba83a8339ccb11b72
     fullPath: E:\Github\U1\Library\Artifacts\8e\8e2bd9e09c07b93ba83a8339ccb11b72
     projectPath: Library\Artifacts\8e\8e2bd9e09c07b93ba83a8339ccb11b72
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8e\8ed613a7b8e5d71cf9ff096d52dfcb9e
     fullPath: E:\Github\U1\Library\Artifacts\8e\8ed613a7b8e5d71cf9ff096d52dfcb9e
     projectPath: Library\Artifacts\8e\8ed613a7b8e5d71cf9ff096d52dfcb9e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8e\8ef9b078c1504baf22f493bf768651d5
     fullPath: E:\Github\U1\Library\Artifacts\8e\8ef9b078c1504baf22f493bf768651d5
     projectPath: Library\Artifacts\8e\8ef9b078c1504baf22f493bf768651d5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8f\8f10bbfcb098a17fc06fcf74ab0aeea4
     fullPath: E:\Github\U1\Library\Artifacts\8f\8f10bbfcb098a17fc06fcf74ab0aeea4
     projectPath: Library\Artifacts\8f\8f10bbfcb098a17fc06fcf74ab0aeea4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8f\8f2a00e1501227afe476a779fe2115fa
     fullPath: E:\Github\U1\Library\Artifacts\8f\8f2a00e1501227afe476a779fe2115fa
     projectPath: Library\Artifacts\8f\8f2a00e1501227afe476a779fe2115fa
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8f\8fa9656ebf6b3508346719bdf8f325a8
     fullPath: E:\Github\U1\Library\Artifacts\8f\8fa9656ebf6b3508346719bdf8f325a8
     projectPath: Library\Artifacts\8f\8fa9656ebf6b3508346719bdf8f325a8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8f\8fb1847c5c05333f7926b13c8dd42dcf
     fullPath: E:\Github\U1\Library\Artifacts\8f\8fb1847c5c05333f7926b13c8dd42dcf
     projectPath: Library\Artifacts\8f\8fb1847c5c05333f7926b13c8dd42dcf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\91\91011b47d18c1ec0251b8264fb46285b
     fullPath: E:\Github\U1\Library\Artifacts\91\91011b47d18c1ec0251b8264fb46285b
     projectPath: Library\Artifacts\91\91011b47d18c1ec0251b8264fb46285b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\91\911bb4dffe69dc5c1cca8f7a3b54dbe1
     fullPath: E:\Github\U1\Library\Artifacts\91\911bb4dffe69dc5c1cca8f7a3b54dbe1
     projectPath: Library\Artifacts\91\911bb4dffe69dc5c1cca8f7a3b54dbe1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\92\929f29fac9c61ae7d35aa848034aa3ac
     fullPath: E:\Github\U1\Library\Artifacts\92\929f29fac9c61ae7d35aa848034aa3ac
     projectPath: Library\Artifacts\92\929f29fac9c61ae7d35aa848034aa3ac
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\92\92cd08b3f0a224ecee24398a94bfc68e
     fullPath: E:\Github\U1\Library\Artifacts\92\92cd08b3f0a224ecee24398a94bfc68e
     projectPath: Library\Artifacts\92\92cd08b3f0a224ecee24398a94bfc68e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\92\92e0d64ba4c97255dc3a1b82eaf3dcb2
     fullPath: E:\Github\U1\Library\Artifacts\92\92e0d64ba4c97255dc3a1b82eaf3dcb2
     projectPath: Library\Artifacts\92\92e0d64ba4c97255dc3a1b82eaf3dcb2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\92\92f72c159e559758e36b95af7d4ad940
     fullPath: E:\Github\U1\Library\Artifacts\92\92f72c159e559758e36b95af7d4ad940
     projectPath: Library\Artifacts\92\92f72c159e559758e36b95af7d4ad940
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\92\92fa4d2c5d723322010da7de8566846b
     fullPath: E:\Github\U1\Library\Artifacts\92\92fa4d2c5d723322010da7de8566846b
     projectPath: Library\Artifacts\92\92fa4d2c5d723322010da7de8566846b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\93\931409baccb6c2ee410afcf16bf31499
     fullPath: E:\Github\U1\Library\Artifacts\93\931409baccb6c2ee410afcf16bf31499
     projectPath: Library\Artifacts\93\931409baccb6c2ee410afcf16bf31499
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\94\94427c22c943c6a37828117b97098061
     fullPath: E:\Github\U1\Library\Artifacts\94\94427c22c943c6a37828117b97098061
     projectPath: Library\Artifacts\94\94427c22c943c6a37828117b97098061
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\94\947c5e0aeb7b4f6864a1093494fc5ff1
     fullPath: E:\Github\U1\Library\Artifacts\94\947c5e0aeb7b4f6864a1093494fc5ff1
     projectPath: Library\Artifacts\94\947c5e0aeb7b4f6864a1093494fc5ff1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\94\94f987634891176fb91008fc34bf14ba
+    fullPath: E:\Github\U1\Library\Artifacts\94\94f987634891176fb91008fc34bf14ba
+    projectPath: Library\Artifacts\94\94f987634891176fb91008fc34bf14ba
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1946,41 +1886,47 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\96\96264304cef0a240b2805d47ce10812d
     projectPath: Library\Artifacts\96\96264304cef0a240b2805d47ce10812d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\96\96bbac48521163e29e91f64af9bac6af
     fullPath: E:\Github\U1\Library\Artifacts\96\96bbac48521163e29e91f64af9bac6af
     projectPath: Library\Artifacts\96\96bbac48521163e29e91f64af9bac6af
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\96\96c19bbb588ba6d5dcb08ff9c3cb9d1c
     fullPath: E:\Github\U1\Library\Artifacts\96\96c19bbb588ba6d5dcb08ff9c3cb9d1c
     projectPath: Library\Artifacts\96\96c19bbb588ba6d5dcb08ff9c3cb9d1c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\96\96d88d32584772019f6dd4799911a6e4
     fullPath: E:\Github\U1\Library\Artifacts\96\96d88d32584772019f6dd4799911a6e4
     projectPath: Library\Artifacts\96\96d88d32584772019f6dd4799911a6e4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\97\972ac85f37124ba200004fa2c49ee9c7
     fullPath: E:\Github\U1\Library\Artifacts\97\972ac85f37124ba200004fa2c49ee9c7
     projectPath: Library\Artifacts\97\972ac85f37124ba200004fa2c49ee9c7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\97\97a99b4602be1838a8886d9402256a4a
     fullPath: E:\Github\U1\Library\Artifacts\97\97a99b4602be1838a8886d9402256a4a
     projectPath: Library\Artifacts\97\97a99b4602be1838a8886d9402256a4a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\97\97c452cc878d6ac2579a5c15e28d7a6d
     fullPath: E:\Github\U1\Library\Artifacts\97\97c452cc878d6ac2579a5c15e28d7a6d
     projectPath: Library\Artifacts\97\97c452cc878d6ac2579a5c15e28d7a6d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\98\9805460f0fce4ede5b57e46a5abbfdfd
+    fullPath: E:\Github\U1\Library\Artifacts\98\9805460f0fce4ede5b57e46a5abbfdfd
+    projectPath: Library\Artifacts\98\9805460f0fce4ede5b57e46a5abbfdfd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1988,179 +1934,185 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\98\9836bcfd3964b1d28ec6cc0f8c10fcb1
     projectPath: Library\Artifacts\98\9836bcfd3964b1d28ec6cc0f8c10fcb1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\99\9974d473c43ba53341227edebebaad99
     fullPath: E:\Github\U1\Library\Artifacts\99\9974d473c43ba53341227edebebaad99
     projectPath: Library\Artifacts\99\9974d473c43ba53341227edebebaad99
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\9b\9bece8e67149920b8ddaa80b11d4151e
     fullPath: E:\Github\U1\Library\Artifacts\9b\9bece8e67149920b8ddaa80b11d4151e
     projectPath: Library\Artifacts\9b\9bece8e67149920b8ddaa80b11d4151e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\9c\9c129392d3edd05e392d4f21db9de9bd
     fullPath: E:\Github\U1\Library\Artifacts\9c\9c129392d3edd05e392d4f21db9de9bd
     projectPath: Library\Artifacts\9c\9c129392d3edd05e392d4f21db9de9bd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\9d\9d4693cf22031b57726a4c8b55d3344a
     fullPath: E:\Github\U1\Library\Artifacts\9d\9d4693cf22031b57726a4c8b55d3344a
     projectPath: Library\Artifacts\9d\9d4693cf22031b57726a4c8b55d3344a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\9e\9e0f3c32a687e044a78e9b174c3273e5
     fullPath: E:\Github\U1\Library\Artifacts\9e\9e0f3c32a687e044a78e9b174c3273e5
     projectPath: Library\Artifacts\9e\9e0f3c32a687e044a78e9b174c3273e5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\9e\9e1071287ac4d0f425c7938a6f16db7b
     fullPath: E:\Github\U1\Library\Artifacts\9e\9e1071287ac4d0f425c7938a6f16db7b
     projectPath: Library\Artifacts\9e\9e1071287ac4d0f425c7938a6f16db7b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\9f\9f139ba3ef19328e1e25251251c6d7f2
     fullPath: E:\Github\U1\Library\Artifacts\9f\9f139ba3ef19328e1e25251251c6d7f2
     projectPath: Library\Artifacts\9f\9f139ba3ef19328e1e25251251c6d7f2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\9f\9f8293df23e532c9aca91b08345953a1
     fullPath: E:\Github\U1\Library\Artifacts\9f\9f8293df23e532c9aca91b08345953a1
     projectPath: Library\Artifacts\9f\9f8293df23e532c9aca91b08345953a1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a0\a0eec6ccc95cf7814d1a31392e4583bf
     fullPath: E:\Github\U1\Library\Artifacts\a0\a0eec6ccc95cf7814d1a31392e4583bf
     projectPath: Library\Artifacts\a0\a0eec6ccc95cf7814d1a31392e4583bf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a1\a115ce73cc7a827db9a7d28715858c1d
     fullPath: E:\Github\U1\Library\Artifacts\a1\a115ce73cc7a827db9a7d28715858c1d
     projectPath: Library\Artifacts\a1\a115ce73cc7a827db9a7d28715858c1d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a1\a12518eb5fd3dcc3f9c51a89c94ccda8
     fullPath: E:\Github\U1\Library\Artifacts\a1\a12518eb5fd3dcc3f9c51a89c94ccda8
     projectPath: Library\Artifacts\a1\a12518eb5fd3dcc3f9c51a89c94ccda8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a2\a27a209a625873626c01d1cc98d1793f
     fullPath: E:\Github\U1\Library\Artifacts\a2\a27a209a625873626c01d1cc98d1793f
     projectPath: Library\Artifacts\a2\a27a209a625873626c01d1cc98d1793f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a2\a27ed4de7758f8465176aa5bfa145e2e
     fullPath: E:\Github\U1\Library\Artifacts\a2\a27ed4de7758f8465176aa5bfa145e2e
     projectPath: Library\Artifacts\a2\a27ed4de7758f8465176aa5bfa145e2e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a2\a2b3b8ae9c2281fb31bcd33ea7ad7042
     fullPath: E:\Github\U1\Library\Artifacts\a2\a2b3b8ae9c2281fb31bcd33ea7ad7042
     projectPath: Library\Artifacts\a2\a2b3b8ae9c2281fb31bcd33ea7ad7042
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a3\a3809f3044a0ff1de9e4545fae70fb58
     fullPath: E:\Github\U1\Library\Artifacts\a3\a3809f3044a0ff1de9e4545fae70fb58
     projectPath: Library\Artifacts\a3\a3809f3044a0ff1de9e4545fae70fb58
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a3\a3cc7e3d1bde60ff99b74948a9120a03
     fullPath: E:\Github\U1\Library\Artifacts\a3\a3cc7e3d1bde60ff99b74948a9120a03
     projectPath: Library\Artifacts\a3\a3cc7e3d1bde60ff99b74948a9120a03
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a4\a408b09f12494cbbae7d344903831dd1
     fullPath: E:\Github\U1\Library\Artifacts\a4\a408b09f12494cbbae7d344903831dd1
     projectPath: Library\Artifacts\a4\a408b09f12494cbbae7d344903831dd1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a4\a4c6073a8e423ca8c7dc815c777b1413
     fullPath: E:\Github\U1\Library\Artifacts\a4\a4c6073a8e423ca8c7dc815c777b1413
     projectPath: Library\Artifacts\a4\a4c6073a8e423ca8c7dc815c777b1413
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a7\a7c1490f8f72f36a40e14dbe81bc4519
     fullPath: E:\Github\U1\Library\Artifacts\a7\a7c1490f8f72f36a40e14dbe81bc4519
     projectPath: Library\Artifacts\a7\a7c1490f8f72f36a40e14dbe81bc4519
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a8\a8852ad733735be7f655d51b4d74d855
     fullPath: E:\Github\U1\Library\Artifacts\a8\a8852ad733735be7f655d51b4d74d855
     projectPath: Library\Artifacts\a8\a8852ad733735be7f655d51b4d74d855
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a9\a9162fb47cc4552931d95160ba445880
     fullPath: E:\Github\U1\Library\Artifacts\a9\a9162fb47cc4552931d95160ba445880
     projectPath: Library\Artifacts\a9\a9162fb47cc4552931d95160ba445880
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a9\a9b4f222cd98d93cecdd1f2b64e4da84
     fullPath: E:\Github\U1\Library\Artifacts\a9\a9b4f222cd98d93cecdd1f2b64e4da84
     projectPath: Library\Artifacts\a9\a9b4f222cd98d93cecdd1f2b64e4da84
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a9\a9e1f11ccaca60dab98813468e37b274
     fullPath: E:\Github\U1\Library\Artifacts\a9\a9e1f11ccaca60dab98813468e37b274
     projectPath: Library\Artifacts\a9\a9e1f11ccaca60dab98813468e37b274
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a9\a9feb9ff61ca5dcd77da89f1597f0b55
     fullPath: E:\Github\U1\Library\Artifacts\a9\a9feb9ff61ca5dcd77da89f1597f0b55
     projectPath: Library\Artifacts\a9\a9feb9ff61ca5dcd77da89f1597f0b55
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\aa\aaabb9eb301c353953172d042c66eec3
     fullPath: E:\Github\U1\Library\Artifacts\aa\aaabb9eb301c353953172d042c66eec3
     projectPath: Library\Artifacts\aa\aaabb9eb301c353953172d042c66eec3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\aa\aac5551b03a819be254ba1dc414048df
     fullPath: E:\Github\U1\Library\Artifacts\aa\aac5551b03a819be254ba1dc414048df
     projectPath: Library\Artifacts\aa\aac5551b03a819be254ba1dc414048df
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ab\abf6a4e4d944dd5d404b9b56e1ef9b56
     fullPath: E:\Github\U1\Library\Artifacts\ab\abf6a4e4d944dd5d404b9b56e1ef9b56
     projectPath: Library\Artifacts\ab\abf6a4e4d944dd5d404b9b56e1ef9b56
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ab\abf9ba805c4c767f7179921bcf24097b
     fullPath: E:\Github\U1\Library\Artifacts\ab\abf9ba805c4c767f7179921bcf24097b
     projectPath: Library\Artifacts\ab\abf9ba805c4c767f7179921bcf24097b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ac\ac51f3d10f9184a7208b0148480ed743
     fullPath: E:\Github\U1\Library\Artifacts\ac\ac51f3d10f9184a7208b0148480ed743
     projectPath: Library\Artifacts\ac\ac51f3d10f9184a7208b0148480ed743
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ac\ac5efa22595a68d6eeaed754c58a6ca4
+    fullPath: E:\Github\U1\Library\Artifacts\ac\ac5efa22595a68d6eeaed754c58a6ca4
+    projectPath: Library\Artifacts\ac\ac5efa22595a68d6eeaed754c58a6ca4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2168,185 +2120,185 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\ac\aca1395bbd4e6d094e0d1db9b1a9c1e9
     projectPath: Library\Artifacts\ac\aca1395bbd4e6d094e0d1db9b1a9c1e9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ac\acb00f587bd3562e9b5ad728524f97e8
     fullPath: E:\Github\U1\Library\Artifacts\ac\acb00f587bd3562e9b5ad728524f97e8
     projectPath: Library\Artifacts\ac\acb00f587bd3562e9b5ad728524f97e8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ad\ad396b856edb75c0daaa8f38aa24996a
     fullPath: E:\Github\U1\Library\Artifacts\ad\ad396b856edb75c0daaa8f38aa24996a
     projectPath: Library\Artifacts\ad\ad396b856edb75c0daaa8f38aa24996a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ad\ad611c2dd001f4a58a7ca93a0bd50380
     fullPath: E:\Github\U1\Library\Artifacts\ad\ad611c2dd001f4a58a7ca93a0bd50380
     projectPath: Library\Artifacts\ad\ad611c2dd001f4a58a7ca93a0bd50380
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ad\ad7646e2a0b37ea238ae9eb150629069
     fullPath: E:\Github\U1\Library\Artifacts\ad\ad7646e2a0b37ea238ae9eb150629069
     projectPath: Library\Artifacts\ad\ad7646e2a0b37ea238ae9eb150629069
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ae\ae1e1c5546a133a6086d60d77f612c4b
     fullPath: E:\Github\U1\Library\Artifacts\ae\ae1e1c5546a133a6086d60d77f612c4b
     projectPath: Library\Artifacts\ae\ae1e1c5546a133a6086d60d77f612c4b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b0\b0ccc5c1ace569c47cb87119680d8f98
     fullPath: E:\Github\U1\Library\Artifacts\b0\b0ccc5c1ace569c47cb87119680d8f98
     projectPath: Library\Artifacts\b0\b0ccc5c1ace569c47cb87119680d8f98
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b0\b0f97f2bf8ee4cfb72a92ec158cf3d69
     fullPath: E:\Github\U1\Library\Artifacts\b0\b0f97f2bf8ee4cfb72a92ec158cf3d69
     projectPath: Library\Artifacts\b0\b0f97f2bf8ee4cfb72a92ec158cf3d69
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b1\b12a16a7f239e9b23e76e5ea86da9865
     fullPath: E:\Github\U1\Library\Artifacts\b1\b12a16a7f239e9b23e76e5ea86da9865
     projectPath: Library\Artifacts\b1\b12a16a7f239e9b23e76e5ea86da9865
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b2\b29f40af82cfa8843abdbf476a63ca9f
     fullPath: E:\Github\U1\Library\Artifacts\b2\b29f40af82cfa8843abdbf476a63ca9f
     projectPath: Library\Artifacts\b2\b29f40af82cfa8843abdbf476a63ca9f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b2\b2b5c34e514516c124fcae543bc34cdd
-    fullPath: E:\Github\U1\Library\Artifacts\b2\b2b5c34e514516c124fcae543bc34cdd
-    projectPath: Library\Artifacts\b2\b2b5c34e514516c124fcae543bc34cdd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b2\b2e8a4580f35b7bb54806cd07a02e0ff
     fullPath: E:\Github\U1\Library\Artifacts\b2\b2e8a4580f35b7bb54806cd07a02e0ff
     projectPath: Library\Artifacts\b2\b2e8a4580f35b7bb54806cd07a02e0ff
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b3\b369573ffbecb54c80e6e2c4fafbc8d0
     fullPath: E:\Github\U1\Library\Artifacts\b3\b369573ffbecb54c80e6e2c4fafbc8d0
     projectPath: Library\Artifacts\b3\b369573ffbecb54c80e6e2c4fafbc8d0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b3\b37ad7ce5c8a4beab4f9da4808d78e02
     fullPath: E:\Github\U1\Library\Artifacts\b3\b37ad7ce5c8a4beab4f9da4808d78e02
     projectPath: Library\Artifacts\b3\b37ad7ce5c8a4beab4f9da4808d78e02
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b3\b393a92b3c550594e4a32a3f7ab82b3b
     fullPath: E:\Github\U1\Library\Artifacts\b3\b393a92b3c550594e4a32a3f7ab82b3b
     projectPath: Library\Artifacts\b3\b393a92b3c550594e4a32a3f7ab82b3b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b4\b4242697d4a3138394efd07507dd803d
     fullPath: E:\Github\U1\Library\Artifacts\b4\b4242697d4a3138394efd07507dd803d
     projectPath: Library\Artifacts\b4\b4242697d4a3138394efd07507dd803d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b5\b5f3655e2965e5e70d93c9a7558dcf69
     fullPath: E:\Github\U1\Library\Artifacts\b5\b5f3655e2965e5e70d93c9a7558dcf69
     projectPath: Library\Artifacts\b5\b5f3655e2965e5e70d93c9a7558dcf69
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b6\b6b2dcdf4c3b4b8f5976594ea158ed90
     fullPath: E:\Github\U1\Library\Artifacts\b6\b6b2dcdf4c3b4b8f5976594ea158ed90
     projectPath: Library\Artifacts\b6\b6b2dcdf4c3b4b8f5976594ea158ed90
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b6\b6b4e3a5923f5b88e2aa5a3046ce88f1
     fullPath: E:\Github\U1\Library\Artifacts\b6\b6b4e3a5923f5b88e2aa5a3046ce88f1
     projectPath: Library\Artifacts\b6\b6b4e3a5923f5b88e2aa5a3046ce88f1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b7\b751ecb171c94cbd8e6ceee56ccc2bf5
     fullPath: E:\Github\U1\Library\Artifacts\b7\b751ecb171c94cbd8e6ceee56ccc2bf5
     projectPath: Library\Artifacts\b7\b751ecb171c94cbd8e6ceee56ccc2bf5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b7\b794d6b06abc43a94041c957326f3c7b
     fullPath: E:\Github\U1\Library\Artifacts\b7\b794d6b06abc43a94041c957326f3c7b
     projectPath: Library\Artifacts\b7\b794d6b06abc43a94041c957326f3c7b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b8\b86a9abbf46e2235f36887071303b6be
     fullPath: E:\Github\U1\Library\Artifacts\b8\b86a9abbf46e2235f36887071303b6be
     projectPath: Library\Artifacts\b8\b86a9abbf46e2235f36887071303b6be
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b8\b8a206fccb442b8073bbb2986fc82c81
     fullPath: E:\Github\U1\Library\Artifacts\b8\b8a206fccb442b8073bbb2986fc82c81
     projectPath: Library\Artifacts\b8\b8a206fccb442b8073bbb2986fc82c81
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b9\b95e8215afa5343a57c7e2369f4b55d5
     fullPath: E:\Github\U1\Library\Artifacts\b9\b95e8215afa5343a57c7e2369f4b55d5
     projectPath: Library\Artifacts\b9\b95e8215afa5343a57c7e2369f4b55d5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b9\b9bbc06fb88dad0aa8756484b2419925
     fullPath: E:\Github\U1\Library\Artifacts\b9\b9bbc06fb88dad0aa8756484b2419925
     projectPath: Library\Artifacts\b9\b9bbc06fb88dad0aa8756484b2419925
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b9\b9bbcd7b2dc27d2779a54224d9b7d5f1
     fullPath: E:\Github\U1\Library\Artifacts\b9\b9bbcd7b2dc27d2779a54224d9b7d5f1
     projectPath: Library\Artifacts\b9\b9bbcd7b2dc27d2779a54224d9b7d5f1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b9\b9e19f2eb772737e5f57a941b1ad851c
     fullPath: E:\Github\U1\Library\Artifacts\b9\b9e19f2eb772737e5f57a941b1ad851c
     projectPath: Library\Artifacts\b9\b9e19f2eb772737e5f57a941b1ad851c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ba\babb999aa5851a6852a54e21c47b939f
     fullPath: E:\Github\U1\Library\Artifacts\ba\babb999aa5851a6852a54e21c47b939f
     projectPath: Library\Artifacts\ba\babb999aa5851a6852a54e21c47b939f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ba\bae7f70dea1cd761ac96200e8d82372e
     fullPath: E:\Github\U1\Library\Artifacts\ba\bae7f70dea1cd761ac96200e8d82372e
     projectPath: Library\Artifacts\ba\bae7f70dea1cd761ac96200e8d82372e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\bb\bb7da71fdb05618583fcb4f4a6bc3770
     fullPath: E:\Github\U1\Library\Artifacts\bb\bb7da71fdb05618583fcb4f4a6bc3770
     projectPath: Library\Artifacts\bb\bb7da71fdb05618583fcb4f4a6bc3770
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\bb\bba0c24d1fe52cfa2a78bd9c4804ec87
     fullPath: E:\Github\U1\Library\Artifacts\bb\bba0c24d1fe52cfa2a78bd9c4804ec87
     projectPath: Library\Artifacts\bb\bba0c24d1fe52cfa2a78bd9c4804ec87
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\bc\bc4d086735f868c9ad5ecaa2f73f0cea
+    fullPath: E:\Github\U1\Library\Artifacts\bc\bc4d086735f868c9ad5ecaa2f73f0cea
+    projectPath: Library\Artifacts\bc\bc4d086735f868c9ad5ecaa2f73f0cea
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2354,860 +2306,860 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Artifacts\bc\bc944e412c9e06683053067e614a60ef
     projectPath: Library\Artifacts\bc\bc944e412c9e06683053067e614a60ef
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\bc\bcb479888e0a11fc7c5b82113e259c10
     fullPath: E:\Github\U1\Library\Artifacts\bc\bcb479888e0a11fc7c5b82113e259c10
     projectPath: Library\Artifacts\bc\bcb479888e0a11fc7c5b82113e259c10
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\bc\bcdedddb949278ea0aa6bcec817edb6f
     fullPath: E:\Github\U1\Library\Artifacts\bc\bcdedddb949278ea0aa6bcec817edb6f
     projectPath: Library\Artifacts\bc\bcdedddb949278ea0aa6bcec817edb6f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\bd\bd347128c00f1c67f479d9de3db2d3d0
     fullPath: E:\Github\U1\Library\Artifacts\bd\bd347128c00f1c67f479d9de3db2d3d0
     projectPath: Library\Artifacts\bd\bd347128c00f1c67f479d9de3db2d3d0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\be\be3001ce536e7579a8efdcc1bd102a4f
     fullPath: E:\Github\U1\Library\Artifacts\be\be3001ce536e7579a8efdcc1bd102a4f
     projectPath: Library\Artifacts\be\be3001ce536e7579a8efdcc1bd102a4f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\be\be7ef584b5b3625100e2fbef32812195
     fullPath: E:\Github\U1\Library\Artifacts\be\be7ef584b5b3625100e2fbef32812195
     projectPath: Library\Artifacts\be\be7ef584b5b3625100e2fbef32812195
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\be\bed2e9cc96b5c4ef07eae9059bbf3bbd
     fullPath: E:\Github\U1\Library\Artifacts\be\bed2e9cc96b5c4ef07eae9059bbf3bbd
     projectPath: Library\Artifacts\be\bed2e9cc96b5c4ef07eae9059bbf3bbd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\bf\bf4e74d8ff3c7580d1592f8a824a9a12
     fullPath: E:\Github\U1\Library\Artifacts\bf\bf4e74d8ff3c7580d1592f8a824a9a12
     projectPath: Library\Artifacts\bf\bf4e74d8ff3c7580d1592f8a824a9a12
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\bf\bf7622b0f3d7515ef42b8070acd65258
     fullPath: E:\Github\U1\Library\Artifacts\bf\bf7622b0f3d7515ef42b8070acd65258
     projectPath: Library\Artifacts\bf\bf7622b0f3d7515ef42b8070acd65258
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\bf\bfab54d0ffb552a8887868730ad3c907
     fullPath: E:\Github\U1\Library\Artifacts\bf\bfab54d0ffb552a8887868730ad3c907
     projectPath: Library\Artifacts\bf\bfab54d0ffb552a8887868730ad3c907
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\bf\bfeba3a88edfcadc183a8b1af3a310d0
     fullPath: E:\Github\U1\Library\Artifacts\bf\bfeba3a88edfcadc183a8b1af3a310d0
     projectPath: Library\Artifacts\bf\bfeba3a88edfcadc183a8b1af3a310d0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c0\c052b370321614a5490a7adb94c1f277
     fullPath: E:\Github\U1\Library\Artifacts\c0\c052b370321614a5490a7adb94c1f277
     projectPath: Library\Artifacts\c0\c052b370321614a5490a7adb94c1f277
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c0\c0919249b32faa22c4c522516107b824
     fullPath: E:\Github\U1\Library\Artifacts\c0\c0919249b32faa22c4c522516107b824
     projectPath: Library\Artifacts\c0\c0919249b32faa22c4c522516107b824
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c0\c0b58bdc62074ad290ebee88648f2c00
     fullPath: E:\Github\U1\Library\Artifacts\c0\c0b58bdc62074ad290ebee88648f2c00
     projectPath: Library\Artifacts\c0\c0b58bdc62074ad290ebee88648f2c00
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c0\c0e0f5cf6fab65fd9059da81caaa0c3e
     fullPath: E:\Github\U1\Library\Artifacts\c0\c0e0f5cf6fab65fd9059da81caaa0c3e
     projectPath: Library\Artifacts\c0\c0e0f5cf6fab65fd9059da81caaa0c3e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c1\c15bf00634709456b1dccb1a49579f06
     fullPath: E:\Github\U1\Library\Artifacts\c1\c15bf00634709456b1dccb1a49579f06
     projectPath: Library\Artifacts\c1\c15bf00634709456b1dccb1a49579f06
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c1\c1f38b81823d8ca5c07fcf8eb4fa46a4
     fullPath: E:\Github\U1\Library\Artifacts\c1\c1f38b81823d8ca5c07fcf8eb4fa46a4
     projectPath: Library\Artifacts\c1\c1f38b81823d8ca5c07fcf8eb4fa46a4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c2\c2ce037484c50cc7b5c3af184a42dad2
     fullPath: E:\Github\U1\Library\Artifacts\c2\c2ce037484c50cc7b5c3af184a42dad2
     projectPath: Library\Artifacts\c2\c2ce037484c50cc7b5c3af184a42dad2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c2\c2d387af5d9d010b1f19749eccf3ae2b
     fullPath: E:\Github\U1\Library\Artifacts\c2\c2d387af5d9d010b1f19749eccf3ae2b
     projectPath: Library\Artifacts\c2\c2d387af5d9d010b1f19749eccf3ae2b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c3\c3edc005a55f695c059cfc1eff7d8f13
     fullPath: E:\Github\U1\Library\Artifacts\c3\c3edc005a55f695c059cfc1eff7d8f13
     projectPath: Library\Artifacts\c3\c3edc005a55f695c059cfc1eff7d8f13
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c4\c4116bf5e1bdbed3e41c584abc5eac10
     fullPath: E:\Github\U1\Library\Artifacts\c4\c4116bf5e1bdbed3e41c584abc5eac10
     projectPath: Library\Artifacts\c4\c4116bf5e1bdbed3e41c584abc5eac10
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c4\c49b4e80428292edefbecc771a96feaf
     fullPath: E:\Github\U1\Library\Artifacts\c4\c49b4e80428292edefbecc771a96feaf
     projectPath: Library\Artifacts\c4\c49b4e80428292edefbecc771a96feaf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c4\c4c82a777f981ab44c8e1166ced982d8
     fullPath: E:\Github\U1\Library\Artifacts\c4\c4c82a777f981ab44c8e1166ced982d8
     projectPath: Library\Artifacts\c4\c4c82a777f981ab44c8e1166ced982d8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c4\c4dc269dfe0dc21e9cb48d728732e6a8
     fullPath: E:\Github\U1\Library\Artifacts\c4\c4dc269dfe0dc21e9cb48d728732e6a8
     projectPath: Library\Artifacts\c4\c4dc269dfe0dc21e9cb48d728732e6a8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c4\c4e12996585d9e3225c6de4dd681bdf5
     fullPath: E:\Github\U1\Library\Artifacts\c4\c4e12996585d9e3225c6de4dd681bdf5
     projectPath: Library\Artifacts\c4\c4e12996585d9e3225c6de4dd681bdf5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c6\c63a5da9b92a6c5d46575c84a5e87cb6
     fullPath: E:\Github\U1\Library\Artifacts\c6\c63a5da9b92a6c5d46575c84a5e87cb6
     projectPath: Library\Artifacts\c6\c63a5da9b92a6c5d46575c84a5e87cb6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c6\c6d290fbb10d928551ec508fbeb6f8c1
     fullPath: E:\Github\U1\Library\Artifacts\c6\c6d290fbb10d928551ec508fbeb6f8c1
     projectPath: Library\Artifacts\c6\c6d290fbb10d928551ec508fbeb6f8c1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c7\c7bf10d4b9716bee7cb44e349540972c
     fullPath: E:\Github\U1\Library\Artifacts\c7\c7bf10d4b9716bee7cb44e349540972c
     projectPath: Library\Artifacts\c7\c7bf10d4b9716bee7cb44e349540972c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c9\c9499a2151236e4b67ec1809f2d8c1ea
     fullPath: E:\Github\U1\Library\Artifacts\c9\c9499a2151236e4b67ec1809f2d8c1ea
     projectPath: Library\Artifacts\c9\c9499a2151236e4b67ec1809f2d8c1ea
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c9\c9918cdd7001333f49180a3818be1c26
     fullPath: E:\Github\U1\Library\Artifacts\c9\c9918cdd7001333f49180a3818be1c26
     projectPath: Library\Artifacts\c9\c9918cdd7001333f49180a3818be1c26
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ca\ca602e5dffc852e2a367c2a249f7c494
     fullPath: E:\Github\U1\Library\Artifacts\ca\ca602e5dffc852e2a367c2a249f7c494
     projectPath: Library\Artifacts\ca\ca602e5dffc852e2a367c2a249f7c494
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ca\caba867cf52bcfdbe578c1664b508079
     fullPath: E:\Github\U1\Library\Artifacts\ca\caba867cf52bcfdbe578c1664b508079
     projectPath: Library\Artifacts\ca\caba867cf52bcfdbe578c1664b508079
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ca\cae23c25cda1f2a0342fc2aee5800004
     fullPath: E:\Github\U1\Library\Artifacts\ca\cae23c25cda1f2a0342fc2aee5800004
     projectPath: Library\Artifacts\ca\cae23c25cda1f2a0342fc2aee5800004
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\cb\cb4e9bceb085a0d628ea3e633248e1a0
     fullPath: E:\Github\U1\Library\Artifacts\cb\cb4e9bceb085a0d628ea3e633248e1a0
     projectPath: Library\Artifacts\cb\cb4e9bceb085a0d628ea3e633248e1a0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\cb\cbf90880ad89ce85e3a01d74a883b16d
     fullPath: E:\Github\U1\Library\Artifacts\cb\cbf90880ad89ce85e3a01d74a883b16d
     projectPath: Library\Artifacts\cb\cbf90880ad89ce85e3a01d74a883b16d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\cc\cc1a9807df6b8c1b5547038832b1e2e7
     fullPath: E:\Github\U1\Library\Artifacts\cc\cc1a9807df6b8c1b5547038832b1e2e7
     projectPath: Library\Artifacts\cc\cc1a9807df6b8c1b5547038832b1e2e7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\cc\cc5dbe87431f6aee9b69254dde31fa04
     fullPath: E:\Github\U1\Library\Artifacts\cc\cc5dbe87431f6aee9b69254dde31fa04
     projectPath: Library\Artifacts\cc\cc5dbe87431f6aee9b69254dde31fa04
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\cc\cca1d164b5e3b2e1c50dfd22f2583ea5
     fullPath: E:\Github\U1\Library\Artifacts\cc\cca1d164b5e3b2e1c50dfd22f2583ea5
     projectPath: Library\Artifacts\cc\cca1d164b5e3b2e1c50dfd22f2583ea5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\cd\cd6107efe597703d3b90effaab2eecbc
     fullPath: E:\Github\U1\Library\Artifacts\cd\cd6107efe597703d3b90effaab2eecbc
     projectPath: Library\Artifacts\cd\cd6107efe597703d3b90effaab2eecbc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\cd\cdd76c1042f861248f5b93d705c56070
     fullPath: E:\Github\U1\Library\Artifacts\cd\cdd76c1042f861248f5b93d705c56070
     projectPath: Library\Artifacts\cd\cdd76c1042f861248f5b93d705c56070
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\cd\cde064ef94fb36b10184ef5116ac290f
     fullPath: E:\Github\U1\Library\Artifacts\cd\cde064ef94fb36b10184ef5116ac290f
     projectPath: Library\Artifacts\cd\cde064ef94fb36b10184ef5116ac290f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ce\ce18ffd75d10859078797fbf6a5c45e5
     fullPath: E:\Github\U1\Library\Artifacts\ce\ce18ffd75d10859078797fbf6a5c45e5
     projectPath: Library\Artifacts\ce\ce18ffd75d10859078797fbf6a5c45e5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ce\ce2c1574eb8cfb59df070f59e438bdfb
     fullPath: E:\Github\U1\Library\Artifacts\ce\ce2c1574eb8cfb59df070f59e438bdfb
     projectPath: Library\Artifacts\ce\ce2c1574eb8cfb59df070f59e438bdfb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ce\ce71221caa7d368d64732f9fa71d7997
     fullPath: E:\Github\U1\Library\Artifacts\ce\ce71221caa7d368d64732f9fa71d7997
     projectPath: Library\Artifacts\ce\ce71221caa7d368d64732f9fa71d7997
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ce\ceb636000e1b03226027ca8147ef8cf0
     fullPath: E:\Github\U1\Library\Artifacts\ce\ceb636000e1b03226027ca8147ef8cf0
     projectPath: Library\Artifacts\ce\ceb636000e1b03226027ca8147ef8cf0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\cf\cfec34de28ea2fcc1a7e5f473bd24b8d
     fullPath: E:\Github\U1\Library\Artifacts\cf\cfec34de28ea2fcc1a7e5f473bd24b8d
     projectPath: Library\Artifacts\cf\cfec34de28ea2fcc1a7e5f473bd24b8d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d0\d00b70c8b6c3fd62361b603fea568ed4
     fullPath: E:\Github\U1\Library\Artifacts\d0\d00b70c8b6c3fd62361b603fea568ed4
     projectPath: Library\Artifacts\d0\d00b70c8b6c3fd62361b603fea568ed4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d1\d10caa5471f5c33ea9b5c6f006ae9d18
     fullPath: E:\Github\U1\Library\Artifacts\d1\d10caa5471f5c33ea9b5c6f006ae9d18
     projectPath: Library\Artifacts\d1\d10caa5471f5c33ea9b5c6f006ae9d18
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d1\d13e496b1e218745d20b201e98ce79fb
     fullPath: E:\Github\U1\Library\Artifacts\d1\d13e496b1e218745d20b201e98ce79fb
     projectPath: Library\Artifacts\d1\d13e496b1e218745d20b201e98ce79fb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d1\d1627167f005c64c40301247b5912b7c
     fullPath: E:\Github\U1\Library\Artifacts\d1\d1627167f005c64c40301247b5912b7c
     projectPath: Library\Artifacts\d1\d1627167f005c64c40301247b5912b7c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d1\d1c4c93b2b776d2314b1bb5a57a59500
     fullPath: E:\Github\U1\Library\Artifacts\d1\d1c4c93b2b776d2314b1bb5a57a59500
     projectPath: Library\Artifacts\d1\d1c4c93b2b776d2314b1bb5a57a59500
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d1\d1f202d3e8eefeff9c6e60b3497152d9
     fullPath: E:\Github\U1\Library\Artifacts\d1\d1f202d3e8eefeff9c6e60b3497152d9
     projectPath: Library\Artifacts\d1\d1f202d3e8eefeff9c6e60b3497152d9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d2\d2b1314bd4ebcb5edc9ca23b4085a45b
     fullPath: E:\Github\U1\Library\Artifacts\d2\d2b1314bd4ebcb5edc9ca23b4085a45b
     projectPath: Library\Artifacts\d2\d2b1314bd4ebcb5edc9ca23b4085a45b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d2\d2efd4018667ee2c1e40a55bb2b8b823
     fullPath: E:\Github\U1\Library\Artifacts\d2\d2efd4018667ee2c1e40a55bb2b8b823
     projectPath: Library\Artifacts\d2\d2efd4018667ee2c1e40a55bb2b8b823
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d3\d31671cd5009eafb230c4a8805f34470
     fullPath: E:\Github\U1\Library\Artifacts\d3\d31671cd5009eafb230c4a8805f34470
     projectPath: Library\Artifacts\d3\d31671cd5009eafb230c4a8805f34470
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d3\d38b2f881ed295828e07e3a6bcac4913
     fullPath: E:\Github\U1\Library\Artifacts\d3\d38b2f881ed295828e07e3a6bcac4913
     projectPath: Library\Artifacts\d3\d38b2f881ed295828e07e3a6bcac4913
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d4\d419d40cd3dc320a232264ffbe1bef37
     fullPath: E:\Github\U1\Library\Artifacts\d4\d419d40cd3dc320a232264ffbe1bef37
     projectPath: Library\Artifacts\d4\d419d40cd3dc320a232264ffbe1bef37
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d4\d46df354840933f5da4a0a9662bd6bab
     fullPath: E:\Github\U1\Library\Artifacts\d4\d46df354840933f5da4a0a9662bd6bab
     projectPath: Library\Artifacts\d4\d46df354840933f5da4a0a9662bd6bab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d4\d493ec76f47adadaae1203b94117af2f
     fullPath: E:\Github\U1\Library\Artifacts\d4\d493ec76f47adadaae1203b94117af2f
     projectPath: Library\Artifacts\d4\d493ec76f47adadaae1203b94117af2f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d4\d498597e2f33a2ef96569f3e3cdc313a
     fullPath: E:\Github\U1\Library\Artifacts\d4\d498597e2f33a2ef96569f3e3cdc313a
     projectPath: Library\Artifacts\d4\d498597e2f33a2ef96569f3e3cdc313a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d5\d5126a817b3ca3c48aa8acbef524a215
     fullPath: E:\Github\U1\Library\Artifacts\d5\d5126a817b3ca3c48aa8acbef524a215
     projectPath: Library\Artifacts\d5\d5126a817b3ca3c48aa8acbef524a215
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d5\d568745431c2b28325a571faed85b1c4
     fullPath: E:\Github\U1\Library\Artifacts\d5\d568745431c2b28325a571faed85b1c4
     projectPath: Library\Artifacts\d5\d568745431c2b28325a571faed85b1c4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d6\d6d2cfcb0a7a4cbf398fc1103b010d3d
     fullPath: E:\Github\U1\Library\Artifacts\d6\d6d2cfcb0a7a4cbf398fc1103b010d3d
     projectPath: Library\Artifacts\d6\d6d2cfcb0a7a4cbf398fc1103b010d3d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d7\d7cd06d7122c2b6eaeee1c49ea363269
     fullPath: E:\Github\U1\Library\Artifacts\d7\d7cd06d7122c2b6eaeee1c49ea363269
     projectPath: Library\Artifacts\d7\d7cd06d7122c2b6eaeee1c49ea363269
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d8\d855061e1c1429468da1dc221d8be128
     fullPath: E:\Github\U1\Library\Artifacts\d8\d855061e1c1429468da1dc221d8be128
     projectPath: Library\Artifacts\d8\d855061e1c1429468da1dc221d8be128
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d8\d85d457562050c4d80d61f71fd1acfaf
     fullPath: E:\Github\U1\Library\Artifacts\d8\d85d457562050c4d80d61f71fd1acfaf
     projectPath: Library\Artifacts\d8\d85d457562050c4d80d61f71fd1acfaf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d8\d88be094b9a79838adf67409277ff930
     fullPath: E:\Github\U1\Library\Artifacts\d8\d88be094b9a79838adf67409277ff930
     projectPath: Library\Artifacts\d8\d88be094b9a79838adf67409277ff930
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d8\d8e53f8907d65e1952bbbb7267701dd1
     fullPath: E:\Github\U1\Library\Artifacts\d8\d8e53f8907d65e1952bbbb7267701dd1
     projectPath: Library\Artifacts\d8\d8e53f8907d65e1952bbbb7267701dd1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\d9\d905cdebf05b75d70aa2a31f4936cc6f
     fullPath: E:\Github\U1\Library\Artifacts\d9\d905cdebf05b75d70aa2a31f4936cc6f
     projectPath: Library\Artifacts\d9\d905cdebf05b75d70aa2a31f4936cc6f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\da\da974d92e31f726deea35eff1af6808e
     fullPath: E:\Github\U1\Library\Artifacts\da\da974d92e31f726deea35eff1af6808e
     projectPath: Library\Artifacts\da\da974d92e31f726deea35eff1af6808e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\da\dab38e4bdd7f4e02ca2bfc12434b4101
     fullPath: E:\Github\U1\Library\Artifacts\da\dab38e4bdd7f4e02ca2bfc12434b4101
     projectPath: Library\Artifacts\da\dab38e4bdd7f4e02ca2bfc12434b4101
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\dc\dc0de1ceb8638720c16642a2636961d3
     fullPath: E:\Github\U1\Library\Artifacts\dc\dc0de1ceb8638720c16642a2636961d3
     projectPath: Library\Artifacts\dc\dc0de1ceb8638720c16642a2636961d3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\dc\dc4d75bd7255d3778db9489c33b7827e
     fullPath: E:\Github\U1\Library\Artifacts\dc\dc4d75bd7255d3778db9489c33b7827e
     projectPath: Library\Artifacts\dc\dc4d75bd7255d3778db9489c33b7827e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\dc\dca5725f99021cdf16d25a7863a11f78
     fullPath: E:\Github\U1\Library\Artifacts\dc\dca5725f99021cdf16d25a7863a11f78
     projectPath: Library\Artifacts\dc\dca5725f99021cdf16d25a7863a11f78
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\dd\dd12abb9586041cea539dec0d4408f86
     fullPath: E:\Github\U1\Library\Artifacts\dd\dd12abb9586041cea539dec0d4408f86
     projectPath: Library\Artifacts\dd\dd12abb9586041cea539dec0d4408f86
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\dd\dd6267a431da59a9c673de2a5a38757f
     fullPath: E:\Github\U1\Library\Artifacts\dd\dd6267a431da59a9c673de2a5a38757f
     projectPath: Library\Artifacts\dd\dd6267a431da59a9c673de2a5a38757f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\dd\dd7b855b1bf0f989887468032a2d5400
     fullPath: E:\Github\U1\Library\Artifacts\dd\dd7b855b1bf0f989887468032a2d5400
     projectPath: Library\Artifacts\dd\dd7b855b1bf0f989887468032a2d5400
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\dd\ddc270f30b548f60ebc428b85c6d4233
     fullPath: E:\Github\U1\Library\Artifacts\dd\ddc270f30b548f60ebc428b85c6d4233
     projectPath: Library\Artifacts\dd\ddc270f30b548f60ebc428b85c6d4233
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\dd\ddfaed010d6213f4be7ecafd6391a5d1
     fullPath: E:\Github\U1\Library\Artifacts\dd\ddfaed010d6213f4be7ecafd6391a5d1
     projectPath: Library\Artifacts\dd\ddfaed010d6213f4be7ecafd6391a5d1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\de\de1f1615fc2825378bf099b4a98624b8
     fullPath: E:\Github\U1\Library\Artifacts\de\de1f1615fc2825378bf099b4a98624b8
     projectPath: Library\Artifacts\de\de1f1615fc2825378bf099b4a98624b8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\de\de884da736d8ee4132c9afb5c5d6d701
     fullPath: E:\Github\U1\Library\Artifacts\de\de884da736d8ee4132c9afb5c5d6d701
     projectPath: Library\Artifacts\de\de884da736d8ee4132c9afb5c5d6d701
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\de\deb174282340e16b946aa6a7711e364b
     fullPath: E:\Github\U1\Library\Artifacts\de\deb174282340e16b946aa6a7711e364b
     projectPath: Library\Artifacts\de\deb174282340e16b946aa6a7711e364b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\df\df2c5c15a4df67000d9bbbda6ea3ee99
     fullPath: E:\Github\U1\Library\Artifacts\df\df2c5c15a4df67000d9bbbda6ea3ee99
     projectPath: Library\Artifacts\df\df2c5c15a4df67000d9bbbda6ea3ee99
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\df\df364dd97b3ae88a00c58c89eebaa34f
     fullPath: E:\Github\U1\Library\Artifacts\df\df364dd97b3ae88a00c58c89eebaa34f
     projectPath: Library\Artifacts\df\df364dd97b3ae88a00c58c89eebaa34f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\df\df68f8b69a7c128cf9a9fdbf9def3e43
     fullPath: E:\Github\U1\Library\Artifacts\df\df68f8b69a7c128cf9a9fdbf9def3e43
     projectPath: Library\Artifacts\df\df68f8b69a7c128cf9a9fdbf9def3e43
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\df\df973505043c63005527f3adfe980d21
     fullPath: E:\Github\U1\Library\Artifacts\df\df973505043c63005527f3adfe980d21
     projectPath: Library\Artifacts\df\df973505043c63005527f3adfe980d21
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\df\dfbb179d9dfbd1bfeb61b7b61dd53c8e
     fullPath: E:\Github\U1\Library\Artifacts\df\dfbb179d9dfbd1bfeb61b7b61dd53c8e
     projectPath: Library\Artifacts\df\dfbb179d9dfbd1bfeb61b7b61dd53c8e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\df\dfc524a39639ce166ef1710d3f464a38
     fullPath: E:\Github\U1\Library\Artifacts\df\dfc524a39639ce166ef1710d3f464a38
     projectPath: Library\Artifacts\df\dfc524a39639ce166ef1710d3f464a38
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e0\e01df8d30f2c1283c0c532bf687cee67
     fullPath: E:\Github\U1\Library\Artifacts\e0\e01df8d30f2c1283c0c532bf687cee67
     projectPath: Library\Artifacts\e0\e01df8d30f2c1283c0c532bf687cee67
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e0\e0d550d34788b5a5654aade6e399ee77
     fullPath: E:\Github\U1\Library\Artifacts\e0\e0d550d34788b5a5654aade6e399ee77
     projectPath: Library\Artifacts\e0\e0d550d34788b5a5654aade6e399ee77
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e1\e13ca4187e549661eac8dd3b4f80d055
     fullPath: E:\Github\U1\Library\Artifacts\e1\e13ca4187e549661eac8dd3b4f80d055
     projectPath: Library\Artifacts\e1\e13ca4187e549661eac8dd3b4f80d055
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e1\e18424b976358c48f8464805abcb1596
     fullPath: E:\Github\U1\Library\Artifacts\e1\e18424b976358c48f8464805abcb1596
     projectPath: Library\Artifacts\e1\e18424b976358c48f8464805abcb1596
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e1\e1b4361e47277fb906a692dc2148ee25
     fullPath: E:\Github\U1\Library\Artifacts\e1\e1b4361e47277fb906a692dc2148ee25
     projectPath: Library\Artifacts\e1\e1b4361e47277fb906a692dc2148ee25
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e2\e23eac211b21b99d10b7a6e0a7583588
     fullPath: E:\Github\U1\Library\Artifacts\e2\e23eac211b21b99d10b7a6e0a7583588
     projectPath: Library\Artifacts\e2\e23eac211b21b99d10b7a6e0a7583588
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e2\e24232356d917ef26fe5a3c4b367148f
     fullPath: E:\Github\U1\Library\Artifacts\e2\e24232356d917ef26fe5a3c4b367148f
     projectPath: Library\Artifacts\e2\e24232356d917ef26fe5a3c4b367148f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e2\e28eef0bcc7aba6e85d479844b992f31
     fullPath: E:\Github\U1\Library\Artifacts\e2\e28eef0bcc7aba6e85d479844b992f31
     projectPath: Library\Artifacts\e2\e28eef0bcc7aba6e85d479844b992f31
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e4\e43f389e062cd66c12aed4680a3480d6
     fullPath: E:\Github\U1\Library\Artifacts\e4\e43f389e062cd66c12aed4680a3480d6
     projectPath: Library\Artifacts\e4\e43f389e062cd66c12aed4680a3480d6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e4\e4ea79daf454cffcbd52c36b0fd59281
     fullPath: E:\Github\U1\Library\Artifacts\e4\e4ea79daf454cffcbd52c36b0fd59281
     projectPath: Library\Artifacts\e4\e4ea79daf454cffcbd52c36b0fd59281
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e7\e7508fdd5c6fc1e1104dd225da75035d
     fullPath: E:\Github\U1\Library\Artifacts\e7\e7508fdd5c6fc1e1104dd225da75035d
     projectPath: Library\Artifacts\e7\e7508fdd5c6fc1e1104dd225da75035d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e7\e7582bdfe254cf6d61ae6c1167919dd9
     fullPath: E:\Github\U1\Library\Artifacts\e7\e7582bdfe254cf6d61ae6c1167919dd9
     projectPath: Library\Artifacts\e7\e7582bdfe254cf6d61ae6c1167919dd9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e7\e7fdb0c818cf5150cb3f5c1872159ecd
     fullPath: E:\Github\U1\Library\Artifacts\e7\e7fdb0c818cf5150cb3f5c1872159ecd
     projectPath: Library\Artifacts\e7\e7fdb0c818cf5150cb3f5c1872159ecd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e8\e850ab494d332fc5d45c5947fe0ada43
     fullPath: E:\Github\U1\Library\Artifacts\e8\e850ab494d332fc5d45c5947fe0ada43
     projectPath: Library\Artifacts\e8\e850ab494d332fc5d45c5947fe0ada43
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e8\e89be0cc1233d191ac24dd31b438a54d
     fullPath: E:\Github\U1\Library\Artifacts\e8\e89be0cc1233d191ac24dd31b438a54d
     projectPath: Library\Artifacts\e8\e89be0cc1233d191ac24dd31b438a54d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e8\e8d798df003127e8a78791f19af13292
     fullPath: E:\Github\U1\Library\Artifacts\e8\e8d798df003127e8a78791f19af13292
     projectPath: Library\Artifacts\e8\e8d798df003127e8a78791f19af13292
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ea\ea4dcced2b803ee4465ac1abb33b7686
     fullPath: E:\Github\U1\Library\Artifacts\ea\ea4dcced2b803ee4465ac1abb33b7686
     projectPath: Library\Artifacts\ea\ea4dcced2b803ee4465ac1abb33b7686
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ea\ea544604159fc50796480ba516127e49
     fullPath: E:\Github\U1\Library\Artifacts\ea\ea544604159fc50796480ba516127e49
     projectPath: Library\Artifacts\ea\ea544604159fc50796480ba516127e49
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\eb\eb6d6b04c9b37d8831cccdbb5a482c45
     fullPath: E:\Github\U1\Library\Artifacts\eb\eb6d6b04c9b37d8831cccdbb5a482c45
     projectPath: Library\Artifacts\eb\eb6d6b04c9b37d8831cccdbb5a482c45
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ec\eca656f65ea1f89975b414ea9f6a05b0
     fullPath: E:\Github\U1\Library\Artifacts\ec\eca656f65ea1f89975b414ea9f6a05b0
     projectPath: Library\Artifacts\ec\eca656f65ea1f89975b414ea9f6a05b0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ec\ecbc99c2bcb5a05559e1f1043067c369
     fullPath: E:\Github\U1\Library\Artifacts\ec\ecbc99c2bcb5a05559e1f1043067c369
     projectPath: Library\Artifacts\ec\ecbc99c2bcb5a05559e1f1043067c369
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ec\ecdc7bd252fafedf0a19ec88c03f58ab
     fullPath: E:\Github\U1\Library\Artifacts\ec\ecdc7bd252fafedf0a19ec88c03f58ab
     projectPath: Library\Artifacts\ec\ecdc7bd252fafedf0a19ec88c03f58ab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ed\ed89fd7a75d5d05cde70c39db252064d
     fullPath: E:\Github\U1\Library\Artifacts\ed\ed89fd7a75d5d05cde70c39db252064d
     projectPath: Library\Artifacts\ed\ed89fd7a75d5d05cde70c39db252064d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ef\ef381d296e882fd07e58195ddf958c1b
     fullPath: E:\Github\U1\Library\Artifacts\ef\ef381d296e882fd07e58195ddf958c1b
     projectPath: Library\Artifacts\ef\ef381d296e882fd07e58195ddf958c1b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ef\ef3f75ef9830e830286106c6a0e498c2
     fullPath: E:\Github\U1\Library\Artifacts\ef\ef3f75ef9830e830286106c6a0e498c2
     projectPath: Library\Artifacts\ef\ef3f75ef9830e830286106c6a0e498c2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f0\f047f5b51668ddbb7e5e68711599204e
     fullPath: E:\Github\U1\Library\Artifacts\f0\f047f5b51668ddbb7e5e68711599204e
     projectPath: Library\Artifacts\f0\f047f5b51668ddbb7e5e68711599204e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f0\f0630e568fe9c2b005bd2f110b9b49e3
     fullPath: E:\Github\U1\Library\Artifacts\f0\f0630e568fe9c2b005bd2f110b9b49e3
     projectPath: Library\Artifacts\f0\f0630e568fe9c2b005bd2f110b9b49e3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f0\f06b5956763a19f60464dadb739fd85c
     fullPath: E:\Github\U1\Library\Artifacts\f0\f06b5956763a19f60464dadb739fd85c
     projectPath: Library\Artifacts\f0\f06b5956763a19f60464dadb739fd85c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f2\f222d03b827707422fdf3be4fa0a7b37
     fullPath: E:\Github\U1\Library\Artifacts\f2\f222d03b827707422fdf3be4fa0a7b37
     projectPath: Library\Artifacts\f2\f222d03b827707422fdf3be4fa0a7b37
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f2\f2357084ab7d048653057359386185f0
     fullPath: E:\Github\U1\Library\Artifacts\f2\f2357084ab7d048653057359386185f0
     projectPath: Library\Artifacts\f2\f2357084ab7d048653057359386185f0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f2\f26c6e53b11b2e667af46fb69bc92620
     fullPath: E:\Github\U1\Library\Artifacts\f2\f26c6e53b11b2e667af46fb69bc92620
     projectPath: Library\Artifacts\f2\f26c6e53b11b2e667af46fb69bc92620
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f2\f2dbe673314fbe340c83fb01a7256a51
     fullPath: E:\Github\U1\Library\Artifacts\f2\f2dbe673314fbe340c83fb01a7256a51
     projectPath: Library\Artifacts\f2\f2dbe673314fbe340c83fb01a7256a51
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f3\f366148dff7bd52dc9f38fd4a6a46087
     fullPath: E:\Github\U1\Library\Artifacts\f3\f366148dff7bd52dc9f38fd4a6a46087
     projectPath: Library\Artifacts\f3\f366148dff7bd52dc9f38fd4a6a46087
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f3\f37dcb6666c4eb61b381af1ea4598425
     fullPath: E:\Github\U1\Library\Artifacts\f3\f37dcb6666c4eb61b381af1ea4598425
     projectPath: Library\Artifacts\f3\f37dcb6666c4eb61b381af1ea4598425
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f4\f464f7942611c407b84bd77a1f1805ff
     fullPath: E:\Github\U1\Library\Artifacts\f4\f464f7942611c407b84bd77a1f1805ff
     projectPath: Library\Artifacts\f4\f464f7942611c407b84bd77a1f1805ff
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f4\f48aa437b1b5f29fd5e813071748ec47
     fullPath: E:\Github\U1\Library\Artifacts\f4\f48aa437b1b5f29fd5e813071748ec47
     projectPath: Library\Artifacts\f4\f48aa437b1b5f29fd5e813071748ec47
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f5\f5d2092278a3ab107820eae6be28bdf3
     fullPath: E:\Github\U1\Library\Artifacts\f5\f5d2092278a3ab107820eae6be28bdf3
     projectPath: Library\Artifacts\f5\f5d2092278a3ab107820eae6be28bdf3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f5\f5e4e7376d4a43b3051619012b495219
     fullPath: E:\Github\U1\Library\Artifacts\f5\f5e4e7376d4a43b3051619012b495219
     projectPath: Library\Artifacts\f5\f5e4e7376d4a43b3051619012b495219
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f7\f7b5ed16ee914a882b96d35aad1de429
     fullPath: E:\Github\U1\Library\Artifacts\f7\f7b5ed16ee914a882b96d35aad1de429
     projectPath: Library\Artifacts\f7\f7b5ed16ee914a882b96d35aad1de429
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f7\f7bffc88d2c78db77dc248c6500272cf
     fullPath: E:\Github\U1\Library\Artifacts\f7\f7bffc88d2c78db77dc248c6500272cf
     projectPath: Library\Artifacts\f7\f7bffc88d2c78db77dc248c6500272cf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f7\f7e02ec2443b2ab52bae8da203373e79
     fullPath: E:\Github\U1\Library\Artifacts\f7\f7e02ec2443b2ab52bae8da203373e79
     projectPath: Library\Artifacts\f7\f7e02ec2443b2ab52bae8da203373e79
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f8\f817c0350d9a5fb070e6ec3834edc61c
     fullPath: E:\Github\U1\Library\Artifacts\f8\f817c0350d9a5fb070e6ec3834edc61c
     projectPath: Library\Artifacts\f8\f817c0350d9a5fb070e6ec3834edc61c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f8\f8afeb5af686b1c7afcb98fce082b69c
     fullPath: E:\Github\U1\Library\Artifacts\f8\f8afeb5af686b1c7afcb98fce082b69c
     projectPath: Library\Artifacts\f8\f8afeb5af686b1c7afcb98fce082b69c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f8\f8e8b1f22da1afc246ea31f4766a6d0c
     fullPath: E:\Github\U1\Library\Artifacts\f8\f8e8b1f22da1afc246ea31f4766a6d0c
     projectPath: Library\Artifacts\f8\f8e8b1f22da1afc246ea31f4766a6d0c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f9\f9274639c83e79b71894b18b34b86440
     fullPath: E:\Github\U1\Library\Artifacts\f9\f9274639c83e79b71894b18b34b86440
     projectPath: Library\Artifacts\f9\f9274639c83e79b71894b18b34b86440
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f9\f9c9209cbc13e887fc4dea7c524010b0
     fullPath: E:\Github\U1\Library\Artifacts\f9\f9c9209cbc13e887fc4dea7c524010b0
     projectPath: Library\Artifacts\f9\f9c9209cbc13e887fc4dea7c524010b0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f9\f9f9b76aa9c2bd43e4982e2cb69d21aa
     fullPath: E:\Github\U1\Library\Artifacts\f9\f9f9b76aa9c2bd43e4982e2cb69d21aa
     projectPath: Library\Artifacts\f9\f9f9b76aa9c2bd43e4982e2cb69d21aa
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\fb\fb202467253a26f26ae12a956c974031
     fullPath: E:\Github\U1\Library\Artifacts\fb\fb202467253a26f26ae12a956c974031
     projectPath: Library\Artifacts\fb\fb202467253a26f26ae12a956c974031
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\fb\fb9fc8b819aae7080b88a6cd0e7e8223
     fullPath: E:\Github\U1\Library\Artifacts\fb\fb9fc8b819aae7080b88a6cd0e7e8223
     projectPath: Library\Artifacts\fb\fb9fc8b819aae7080b88a6cd0e7e8223
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\fc\fc609735874b4d7254ddc4f72a5a3a48
     fullPath: E:\Github\U1\Library\Artifacts\fc\fc609735874b4d7254ddc4f72a5a3a48
     projectPath: Library\Artifacts\fc\fc609735874b4d7254ddc4f72a5a3a48
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\fc\fc6ba90e20bd5cba4c167b36643ab5b8
     fullPath: E:\Github\U1\Library\Artifacts\fc\fc6ba90e20bd5cba4c167b36643ab5b8
     projectPath: Library\Artifacts\fc\fc6ba90e20bd5cba4c167b36643ab5b8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\fd\fd24d91f5c25b0b142dd7ccbdcaffb03
     fullPath: E:\Github\U1\Library\Artifacts\fd\fd24d91f5c25b0b142dd7ccbdcaffb03
     projectPath: Library\Artifacts\fd\fd24d91f5c25b0b142dd7ccbdcaffb03
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\fe\fe1a3bf0eadd6e29a6422290cd314338
     fullPath: E:\Github\U1\Library\Artifacts\fe\fe1a3bf0eadd6e29a6422290cd314338
     projectPath: Library\Artifacts\fe\fe1a3bf0eadd6e29a6422290cd314338
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\fe\fe3b1f9a6f4ccee756a14e9c93d67402
     fullPath: E:\Github\U1\Library\Artifacts\fe\fe3b1f9a6f4ccee756a14e9c93d67402
     projectPath: Library\Artifacts\fe\fe3b1f9a6f4ccee756a14e9c93d67402
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\fe\fef142e52a664afd62b0d20f3577d180
     fullPath: E:\Github\U1\Library\Artifacts\fe\fef142e52a664afd62b0d20f3577d180
     projectPath: Library\Artifacts\fe\fef142e52a664afd62b0d20f3577d180
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Bee\backend1.traceevents
     fullPath: E:\Github\U1\Library\Bee\backend1.traceevents
     projectPath: Library\Bee\backend1.traceevents
@@ -3268,48 +3220,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\GridBrush\Last\0.asset
-    fullPath: E:\Github\U1\Library\GridBrush\Last\0.asset
-    projectPath: Library\GridBrush\Last\0.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\GridBrush\Last\1.asset
-    fullPath: E:\Github\U1\Library\GridBrush\Last\1.asset
-    projectPath: Library\GridBrush\Last\1.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\GridBrush\Last\2.asset
     fullPath: E:\Github\U1\Library\GridBrush\Last\2.asset
     projectPath: Library\GridBrush\Last\2.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\GridBrush\Last\3.asset
-    fullPath: E:\Github\U1\Library\GridBrush\Last\3.asset
-    projectPath: Library\GridBrush\Last\3.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\GridBrush\Last\4.asset
-    fullPath: E:\Github\U1\Library\GridBrush\Last\4.asset
-    projectPath: Library\GridBrush\Last\4.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\GridBrush\Pick\Default.asset
-    fullPath: E:\Github\U1\Library\GridBrush\Pick\Default.asset
-    projectPath: Library\GridBrush\Pick\Default.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
     fullPath: E:\Github\U1\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
     projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ilpp.pid
     fullPath: E:\Github\U1\Library\ilpp.pid
     projectPath: Library\ilpp.pid
@@ -3346,42 +3268,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\PrefabStageHierarchy\9a\9a103a8b9e2bfb0687d5044f48a5ad18.json
-    fullPath: E:\Github\U1\Library\StateCache\PrefabStageHierarchy\9a\9a103a8b9e2bfb0687d5044f48a5ad18.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\9a\9a103a8b9e2bfb0687d5044f48a5ad18.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\PrefabStageHierarchy\a7\a7b1cc13b1ab1575f2873ed8834eb391.json
-    fullPath: E:\Github\U1\Library\StateCache\PrefabStageHierarchy\a7\a7b1cc13b1ab1575f2873ed8834eb391.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\a7\a7b1cc13b1ab1575f2873ed8834eb391.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\StateCache\SceneView\7d\7d772baaa7badde245b37bad75fff3fb.json
     fullPath: E:\Github\U1\Library\StateCache\SceneView\7d\7d772baaa7badde245b37bad75fff3fb.json
     projectPath: Library\StateCache\SceneView\7d\7d772baaa7badde245b37bad75fff3fb.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\bb\bbc2ee9738d0a8f56dcfc5c58e6560a4.json
-    fullPath: E:\Github\U1\Library\StateCache\SceneView\bb\bbc2ee9738d0a8f56dcfc5c58e6560a4.json
-    projectPath: Library\StateCache\SceneView\bb\bbc2ee9738d0a8f56dcfc5c58e6560a4.json
+  - path: Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
+    fullPath: E:\Github\U1\Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\e2\e2e2ea881c22a10e586bd8d6ad37e03f.json
-    fullPath: E:\Github\U1\Library\StateCache\SceneView\e2\e2e2ea881c22a10e586bd8d6ad37e03f.json
-    projectPath: Library\StateCache\SceneView\e2\e2e2ea881c22a10e586bd8d6ad37e03f.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\UIElements\EditorWindows\UnityEditor.Tilemaps.GridPaintPaletteWindow.pref
-    fullPath: E:\Github\U1\Library\UIElements\EditorWindows\UnityEditor.Tilemaps.GridPaintPaletteWindow.pref
-    projectPath: Library\UIElements\EditorWindows\UnityEditor.Tilemaps.GridPaintPaletteWindow.pref
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker0.log
     fullPath: E:\Github\U1\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
@@ -3418,27 +3316,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    fullPath: E:\Github\U1\Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: ProjectSettings\TagManager.asset
     fullPath: E:\Github\U1\ProjectSettings\TagManager.asset
     projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\FSTimeGet-3975296b5f0c7d644867c12fffdf054d
-    fullPath: E:\Github\U1\Temp\FSTimeGet-3975296b5f0c7d644867c12fffdf054d
-    projectPath: Temp\FSTimeGet-3975296b5f0c7d644867c12fffdf054d
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: E:\Github\U1\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-9a4098668d185e04a8dbc330e8621238
-    fullPath: E:\Github\U1\Temp\FSTimeGet-9a4098668d185e04a8dbc330e8621238
-    projectPath: Temp\FSTimeGet-9a4098668d185e04a8dbc330e8621238
+  - path: Temp\FSTimeGet-8f443008c6b3d034a90057176111830f
+    fullPath: E:\Github\U1\Temp\FSTimeGet-8f443008c6b3d034a90057176111830f
+    projectPath: Temp\FSTimeGet-8f443008c6b3d034a90057176111830f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-ab8d09f906d5e854ca2bea0866c93c3f
-    fullPath: E:\Github\U1\Temp\FSTimeGet-ab8d09f906d5e854ca2bea0866c93c3f
-    projectPath: Temp\FSTimeGet-ab8d09f906d5e854ca2bea0866c93c3f
+  - path: Temp\FSTimeGet-aca184a8b16063e45a7df30adb219407
+    fullPath: E:\Github\U1\Temp\FSTimeGet-aca184a8b16063e45a7df30adb219407
+    projectPath: Temp\FSTimeGet-aca184a8b16063e45a7df30adb219407
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\FSTimeGet-cdb8221dabffff944bdaa01cce1b5d1e
+    fullPath: E:\Github\U1\Temp\FSTimeGet-cdb8221dabffff944bdaa01cce1b5d1e
+    projectPath: Temp\FSTimeGet-cdb8221dabffff944bdaa01cce1b5d1e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
