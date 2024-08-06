@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2024-08-06T11:12:03.327+02:00
-  initializedAtString: 2024-08-06T11:04:56.624+02:00
+  lastUpdatedAtString: 2024-08-06T17:55:32.398+02:00
+  initializedAtString: 2024-08-06T11:13:45.344+02:00
   entries:
   - path: Assets\Scenes\Black3.unity
     fullPath: E:\Github\U1\Assets\Scenes\Black3.unity
@@ -22,42 +22,72 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\SFX\Kevin MacLeod - 8bit Dungeon Level.mp3
+    fullPath: E:\Github\U1\Assets\SFX\Kevin MacLeod - 8bit Dungeon Level.mp3
+    projectPath: Assets\SFX\Kevin MacLeod - 8bit Dungeon Level.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SFX\Kevin MacLeod - 8bit Dungeon Level.mp3.meta
+    fullPath: E:\Github\U1\Assets\SFX\Kevin MacLeod - 8bit Dungeon Level.mp3.meta
+    projectPath: Assets\SFX\Kevin MacLeod - 8bit Dungeon Level.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SFX\Kevin MacLeod - Itty Bitty 8 Bit.mp3
+    fullPath: E:\Github\U1\Assets\SFX\Kevin MacLeod - Itty Bitty 8 Bit.mp3
+    projectPath: Assets\SFX\Kevin MacLeod - Itty Bitty 8 Bit.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SFX\Kevin MacLeod - Itty Bitty 8 Bit.mp3.meta
+    fullPath: E:\Github\U1\Assets\SFX\Kevin MacLeod - Itty Bitty 8 Bit.mp3.meta
+    projectPath: Assets\SFX\Kevin MacLeod - Itty Bitty 8 Bit.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: E:\Github\U1\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\0a\0aa93d5a8441029b51a9759f0befb9a9
-    fullPath: E:\Github\U1\Library\Artifacts\0a\0aa93d5a8441029b51a9759f0befb9a9
-    projectPath: Library\Artifacts\0a\0aa93d5a8441029b51a9759f0befb9a9
+  - path: Library\Artifacts\49\4989e9e240e8a202ee17aaa5267a6131
+    fullPath: E:\Github\U1\Library\Artifacts\49\4989e9e240e8a202ee17aaa5267a6131
+    projectPath: Library\Artifacts\49\4989e9e240e8a202ee17aaa5267a6131
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\23\23b3f7d628a7f691d500fdcae06e3ce5
-    fullPath: E:\Github\U1\Library\Artifacts\23\23b3f7d628a7f691d500fdcae06e3ce5
-    projectPath: Library\Artifacts\23\23b3f7d628a7f691d500fdcae06e3ce5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5e\5e8375fbd3fe284e9c67d7da072b22c1
+    fullPath: E:\Github\U1\Library\Artifacts\5e\5e8375fbd3fe284e9c67d7da072b22c1
+    projectPath: Library\Artifacts\5e\5e8375fbd3fe284e9c67d7da072b22c1
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\62\62a7b56cac6e6b2e809a4094313a8a43
-    fullPath: E:\Github\U1\Library\Artifacts\62\62a7b56cac6e6b2e809a4094313a8a43
-    projectPath: Library\Artifacts\62\62a7b56cac6e6b2e809a4094313a8a43
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\64\64d170c1b31550290151a5778ee915b6
+    fullPath: E:\Github\U1\Library\Artifacts\64\64d170c1b31550290151a5778ee915b6
+    projectPath: Library\Artifacts\64\64d170c1b31550290151a5778ee915b6
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\85\85962628a048775bf35be6f199985f1f
-    fullPath: E:\Github\U1\Library\Artifacts\85\85962628a048775bf35be6f199985f1f
-    projectPath: Library\Artifacts\85\85962628a048775bf35be6f199985f1f
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\73\7352a4c90813b1c4b531fd310e9d027a
+    fullPath: E:\Github\U1\Library\Artifacts\73\7352a4c90813b1c4b531fd310e9d027a
+    projectPath: Library\Artifacts\73\7352a4c90813b1c4b531fd310e9d027a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\98\9805460f0fce4ede5b57e46a5abbfdfd
-    fullPath: E:\Github\U1\Library\Artifacts\98\9805460f0fce4ede5b57e46a5abbfdfd
-    projectPath: Library\Artifacts\98\9805460f0fce4ede5b57e46a5abbfdfd
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7bb6b0a45ca5e3c6f0070c91fd5a3b26
+    fullPath: E:\Github\U1\Library\Artifacts\7b\7bb6b0a45ca5e3c6f0070c91fd5a3b26
+    projectPath: Library\Artifacts\7b\7bb6b0a45ca5e3c6f0070c91fd5a3b26
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b8\b87c37a15903f659206c09de731fce58
+    fullPath: E:\Github\U1\Library\Artifacts\b8\b87c37a15903f659206c09de731fce58
+    projectPath: Library\Artifacts\b8\b87c37a15903f659206c09de731fce58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Bee\backend1.traceevents
     fullPath: E:\Github\U1\Library\Bee\backend1.traceevents
     projectPath: Library\Bee\backend1.traceevents
@@ -82,9 +112,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: E:\Github\U1\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: E:\Github\U1\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: E:\Github\U1\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -178,27 +220,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    fullPath: E:\Github\U1\Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: E:\Github\U1\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-6b34914b1aaaebd498e848675615437c
-    fullPath: E:\Github\U1\Temp\FSTimeGet-6b34914b1aaaebd498e848675615437c
-    projectPath: Temp\FSTimeGet-6b34914b1aaaebd498e848675615437c
+  - path: Temp\FSTimeGet-734179fef94c6d742ab2ad639dce99ac
+    fullPath: E:\Github\U1\Temp\FSTimeGet-734179fef94c6d742ab2ad639dce99ac
+    projectPath: Temp\FSTimeGet-734179fef94c6d742ab2ad639dce99ac
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-9c7d9ab941dbd584384c0aad4ac699b2
-    fullPath: E:\Github\U1\Temp\FSTimeGet-9c7d9ab941dbd584384c0aad4ac699b2
-    projectPath: Temp\FSTimeGet-9c7d9ab941dbd584384c0aad4ac699b2
+  - path: Temp\FSTimeGet-8e8fe633a21f51c4a97c9020d95facda
+    fullPath: E:\Github\U1\Temp\FSTimeGet-8e8fe633a21f51c4a97c9020d95facda
+    projectPath: Temp\FSTimeGet-8e8fe633a21f51c4a97c9020d95facda
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-df68c00dfdd414b47838b5ede1177fff
-    fullPath: E:\Github\U1\Temp\FSTimeGet-df68c00dfdd414b47838b5ede1177fff
-    projectPath: Temp\FSTimeGet-df68c00dfdd414b47838b5ede1177fff
+  - path: Temp\FSTimeGet-c531c3088d170334ca07c72783e60b5a
+    fullPath: E:\Github\U1\Temp\FSTimeGet-c531c3088d170334ca07c72783e60b5a
+    projectPath: Temp\FSTimeGet-c531c3088d170334ca07c72783e60b5a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
