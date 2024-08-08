@@ -474,6 +474,7 @@
 "Assets/Scripts/ReturnToMainMenu.cs"
 "Assets/Scripts/StartButton.cs"
 "Assets/Scripts/TeleportMenu.cs"
+"Assets/Scripts/TeleportTrap.cs"
 "Assets/Scripts/TypeCheck.cs"
 "Assets/TeleportHeadBounce.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
