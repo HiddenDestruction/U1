@@ -14,6 +14,8 @@ public class nagant : MonoBehaviour {
     private float timeBtwShots;
     public float startTimeBtwShots;
 
+    public AudioSource shot;
+
     private void Update()
     {
         // Handles the weapon rotation
@@ -29,6 +31,8 @@ public class nagant : MonoBehaviour {
             //     camAnim.SetTrigger("shake");
                 Instantiate(projectile, shotPoint.position, transform.rotation);
                 timeBtwShots = startTimeBtwShots;
+
+                shot.Play();
             }
         }
         else {
