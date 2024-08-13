@@ -18956,8 +18956,8 @@ GameObject:
   m_Component:
   - component: {fileID: 418326303}
   - component: {fileID: 418326305}
-  - component: {fileID: 418326304}
-  - component: {fileID: 418326306}
+  - component: {fileID: 418326307}
+  - component: {fileID: 418326308}
   m_Layer: 0
   m_Name: TX Village Props - Spike Plate (2)
   m_TagString: Untagged
@@ -18980,73 +18980,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 833148328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &418326304
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 418326302}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.03125, y: 0.34375}
-    newSize: {x: 1.03125, y: 0.34375}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39269638, y: 0.34562874}
-      - {x: -0.39409065, y: 0.34574986}
-      - {x: -0.39406013, y: 0.31472015}
-      - {x: -0.4241314, y: 0.3155222}
-      - {x: -0.42337418, y: 0.25157547}
-      - {x: -0.45429993, y: 0.25371456}
-      - {x: -0.45433617, y: 0.16004848}
-      - {x: -0.48646736, y: 0.16060925}
-      - {x: -0.4862175, y: 0.12800026}
-      - {x: -0.51755905, y: 0.12605858}
-      - {x: -0.515625, y: 0}
-      - {x: 0.515625, y: 0}
-      - {x: 0.5186386, y: 0.12913895}
-      - {x: 0.48870468, y: 0.12897491}
-      - {x: 0.48683548, y: 0.16140556}
-      - {x: 0.45742226, y: 0.1611805}
-      - {x: 0.4567852, y: 0.25070572}
-      - {x: 0.42332077, y: 0.25186348}
-      - {x: 0.42419243, y: 0.3130169}
-      - {x: 0.394001, y: 0.31472492}
-  m_UseDelaunayMesh: 0
 --- !u!212 &418326305
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19102,7 +19035,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &418326306
+--- !u!65 &418326307
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 418326302}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.03125, y: 0.34375, z: 0.2}
+  m_Center: {x: 0, y: 0.171875, z: 0}
+--- !u!114 &418326308
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -19111,10 +19065,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 418326302}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 188f48fa5c8ab9d439654e19778415b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 635bcfcd4eefe6d43aa95310a6e481c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportTarget: {fileID: 79683144}
+  teleportDestination: {fileID: 0}
+  grandpa: {fileID: 0}
+  trapSound: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!1 &422185051
 GameObject:
   m_ObjectHideFlags: 0
@@ -21783,8 +21740,8 @@ GameObject:
   m_Component:
   - component: {fileID: 473330664}
   - component: {fileID: 473330666}
-  - component: {fileID: 473330665}
-  - component: {fileID: 473330667}
+  - component: {fileID: 473330668}
+  - component: {fileID: 473330669}
   m_Layer: 0
   m_Name: TX Village Props - Spike Plate (5)
   m_TagString: Untagged
@@ -21807,73 +21764,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 833148328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &473330665
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 473330663}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.03125, y: 0.34375}
-    newSize: {x: 1.03125, y: 0.34375}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39269638, y: 0.34562874}
-      - {x: -0.39409065, y: 0.34574986}
-      - {x: -0.39406013, y: 0.31472015}
-      - {x: -0.4241314, y: 0.3155222}
-      - {x: -0.42337418, y: 0.25157547}
-      - {x: -0.45429993, y: 0.25371456}
-      - {x: -0.45433617, y: 0.16004848}
-      - {x: -0.48646736, y: 0.16060925}
-      - {x: -0.4862175, y: 0.12800026}
-      - {x: -0.51755905, y: 0.12605858}
-      - {x: -0.515625, y: 0}
-      - {x: 0.515625, y: 0}
-      - {x: 0.5186386, y: 0.12913895}
-      - {x: 0.48870468, y: 0.12897491}
-      - {x: 0.48683548, y: 0.16140556}
-      - {x: 0.45742226, y: 0.1611805}
-      - {x: 0.4567852, y: 0.25070572}
-      - {x: 0.42332077, y: 0.25186348}
-      - {x: 0.42419243, y: 0.3130169}
-      - {x: 0.394001, y: 0.31472492}
-  m_UseDelaunayMesh: 0
 --- !u!212 &473330666
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21929,7 +21819,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &473330667
+--- !u!65 &473330668
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 473330663}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.03125, y: 0.34375, z: 0.2}
+  m_Center: {x: 0, y: 0.171875, z: 0}
+--- !u!114 &473330669
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -21938,10 +21849,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 473330663}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 188f48fa5c8ab9d439654e19778415b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 635bcfcd4eefe6d43aa95310a6e481c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportTarget: {fileID: 79683144}
+  teleportDestination: {fileID: 0}
+  grandpa: {fileID: 0}
+  trapSound: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!1 &473733664
 GameObject:
   m_ObjectHideFlags: 0
@@ -33369,8 +33283,8 @@ GameObject:
   m_Component:
   - component: {fileID: 735922977}
   - component: {fileID: 735922979}
-  - component: {fileID: 735922978}
-  - component: {fileID: 735922980}
+  - component: {fileID: 735922981}
+  - component: {fileID: 735922982}
   m_Layer: 0
   m_Name: TX Village Props - Spike Plate (8)
   m_TagString: Untagged
@@ -33393,73 +33307,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 833148328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &735922978
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 735922976}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.03125, y: 0.34375}
-    newSize: {x: 1.03125, y: 0.34375}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39269638, y: 0.34562874}
-      - {x: -0.39409065, y: 0.34574986}
-      - {x: -0.39406013, y: 0.31472015}
-      - {x: -0.4241314, y: 0.3155222}
-      - {x: -0.42337418, y: 0.25157547}
-      - {x: -0.45429993, y: 0.25371456}
-      - {x: -0.45433617, y: 0.16004848}
-      - {x: -0.48646736, y: 0.16060925}
-      - {x: -0.4862175, y: 0.12800026}
-      - {x: -0.51755905, y: 0.12605858}
-      - {x: -0.515625, y: 0}
-      - {x: 0.515625, y: 0}
-      - {x: 0.5186386, y: 0.12913895}
-      - {x: 0.48870468, y: 0.12897491}
-      - {x: 0.48683548, y: 0.16140556}
-      - {x: 0.45742226, y: 0.1611805}
-      - {x: 0.4567852, y: 0.25070572}
-      - {x: 0.42332077, y: 0.25186348}
-      - {x: 0.42419243, y: 0.3130169}
-      - {x: 0.394001, y: 0.31472492}
-  m_UseDelaunayMesh: 0
 --- !u!212 &735922979
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -33515,7 +33362,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &735922980
+--- !u!65 &735922981
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 735922976}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.03125, y: 0.34375, z: 0.2}
+  m_Center: {x: 0, y: 0.171875, z: 0}
+--- !u!114 &735922982
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -33524,10 +33392,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 735922976}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 188f48fa5c8ab9d439654e19778415b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 635bcfcd4eefe6d43aa95310a6e481c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportTarget: {fileID: 79683144}
+  teleportDestination: {fileID: 0}
+  grandpa: {fileID: 0}
+  trapSound: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!1 &742719244
 GameObject:
   m_ObjectHideFlags: 0
@@ -42812,8 +42683,8 @@ GameObject:
   m_Component:
   - component: {fileID: 929679024}
   - component: {fileID: 929679026}
-  - component: {fileID: 929679025}
-  - component: {fileID: 929679027}
+  - component: {fileID: 929679028}
+  - component: {fileID: 929679029}
   m_Layer: 0
   m_Name: TX Village Props - Spike Plate (1)
   m_TagString: Untagged
@@ -42836,73 +42707,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 833148328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &929679025
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 929679023}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.03125, y: 0.34375}
-    newSize: {x: 1.03125, y: 0.34375}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39269638, y: 0.34562874}
-      - {x: -0.39409065, y: 0.34574986}
-      - {x: -0.39406013, y: 0.31472015}
-      - {x: -0.4241314, y: 0.3155222}
-      - {x: -0.42337418, y: 0.25157547}
-      - {x: -0.45429993, y: 0.25371456}
-      - {x: -0.45433617, y: 0.16004848}
-      - {x: -0.48646736, y: 0.16060925}
-      - {x: -0.4862175, y: 0.12800026}
-      - {x: -0.51755905, y: 0.12605858}
-      - {x: -0.515625, y: 0}
-      - {x: 0.515625, y: 0}
-      - {x: 0.5186386, y: 0.12913895}
-      - {x: 0.48870468, y: 0.12897491}
-      - {x: 0.48683548, y: 0.16140556}
-      - {x: 0.45742226, y: 0.1611805}
-      - {x: 0.4567852, y: 0.25070572}
-      - {x: 0.42332077, y: 0.25186348}
-      - {x: 0.42419243, y: 0.3130169}
-      - {x: 0.394001, y: 0.31472492}
-  m_UseDelaunayMesh: 0
 --- !u!212 &929679026
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -42958,7 +42762,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &929679027
+--- !u!65 &929679028
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 929679023}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.03125, y: 0.34375, z: 0.2}
+  m_Center: {x: 0, y: 0.171875, z: 0}
+--- !u!114 &929679029
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -42967,10 +42792,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 929679023}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 188f48fa5c8ab9d439654e19778415b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 635bcfcd4eefe6d43aa95310a6e481c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportTarget: {fileID: 79683144}
+  teleportDestination: {fileID: 0}
+  grandpa: {fileID: 0}
+  trapSound: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!1 &932036893
 GameObject:
   m_ObjectHideFlags: 0
@@ -46727,8 +46555,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1009392251}
   - component: {fileID: 1009392253}
-  - component: {fileID: 1009392252}
-  - component: {fileID: 1009392254}
+  - component: {fileID: 1009392255}
+  - component: {fileID: 1009392256}
   m_Layer: 0
   m_Name: TX Village Props - Spike Plate (10)
   m_TagString: Untagged
@@ -46751,73 +46579,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 833148328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &1009392252
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1009392250}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.03125, y: 0.34375}
-    newSize: {x: 1.03125, y: 0.34375}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39269638, y: 0.34562874}
-      - {x: -0.39409065, y: 0.34574986}
-      - {x: -0.39406013, y: 0.31472015}
-      - {x: -0.4241314, y: 0.3155222}
-      - {x: -0.42337418, y: 0.25157547}
-      - {x: -0.45429993, y: 0.25371456}
-      - {x: -0.45433617, y: 0.16004848}
-      - {x: -0.48646736, y: 0.16060925}
-      - {x: -0.4862175, y: 0.12800026}
-      - {x: -0.51755905, y: 0.12605858}
-      - {x: -0.515625, y: 0}
-      - {x: 0.515625, y: 0}
-      - {x: 0.5186386, y: 0.12913895}
-      - {x: 0.48870468, y: 0.12897491}
-      - {x: 0.48683548, y: 0.16140556}
-      - {x: 0.45742226, y: 0.1611805}
-      - {x: 0.4567852, y: 0.25070572}
-      - {x: 0.42332077, y: 0.25186348}
-      - {x: 0.42419243, y: 0.3130169}
-      - {x: 0.394001, y: 0.31472492}
-  m_UseDelaunayMesh: 0
 --- !u!212 &1009392253
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -46873,7 +46634,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1009392254
+--- !u!65 &1009392255
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1009392250}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.03125, y: 0.34375, z: 0.2}
+  m_Center: {x: 0, y: 0.171875, z: 0}
+--- !u!114 &1009392256
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -46882,10 +46664,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1009392250}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 188f48fa5c8ab9d439654e19778415b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 635bcfcd4eefe6d43aa95310a6e481c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportTarget: {fileID: 79683144}
+  teleportDestination: {fileID: 0}
+  grandpa: {fileID: 0}
+  trapSound: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!1 &1009568331
 GameObject:
   m_ObjectHideFlags: 0
@@ -48330,8 +48115,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1031789688}
   - component: {fileID: 1031789690}
-  - component: {fileID: 1031789689}
-  - component: {fileID: 1031789691}
+  - component: {fileID: 1031789692}
+  - component: {fileID: 1031789693}
   m_Layer: 0
   m_Name: TX Village Props - Spike Plate (6)
   m_TagString: Untagged
@@ -48354,73 +48139,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 833148328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &1031789689
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1031789687}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.03125, y: 0.34375}
-    newSize: {x: 1.03125, y: 0.34375}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39269638, y: 0.34562874}
-      - {x: -0.39409065, y: 0.34574986}
-      - {x: -0.39406013, y: 0.31472015}
-      - {x: -0.4241314, y: 0.3155222}
-      - {x: -0.42337418, y: 0.25157547}
-      - {x: -0.45429993, y: 0.25371456}
-      - {x: -0.45433617, y: 0.16004848}
-      - {x: -0.48646736, y: 0.16060925}
-      - {x: -0.4862175, y: 0.12800026}
-      - {x: -0.51755905, y: 0.12605858}
-      - {x: -0.515625, y: 0}
-      - {x: 0.515625, y: 0}
-      - {x: 0.5186386, y: 0.12913895}
-      - {x: 0.48870468, y: 0.12897491}
-      - {x: 0.48683548, y: 0.16140556}
-      - {x: 0.45742226, y: 0.1611805}
-      - {x: 0.4567852, y: 0.25070572}
-      - {x: 0.42332077, y: 0.25186348}
-      - {x: 0.42419243, y: 0.3130169}
-      - {x: 0.394001, y: 0.31472492}
-  m_UseDelaunayMesh: 0
 --- !u!212 &1031789690
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -48476,7 +48194,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1031789691
+--- !u!65 &1031789692
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1031789687}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.03125, y: 0.34375, z: 0.2}
+  m_Center: {x: 0, y: 0.171875, z: 0}
+--- !u!114 &1031789693
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -48485,10 +48224,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1031789687}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 188f48fa5c8ab9d439654e19778415b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 635bcfcd4eefe6d43aa95310a6e481c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportTarget: {fileID: 79683144}
+  teleportDestination: {fileID: 0}
+  grandpa: {fileID: 0}
+  trapSound: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!1 &1032595199
 GameObject:
   m_ObjectHideFlags: 0
@@ -56947,6 +56689,7 @@ GameObject:
   - component: {fileID: 1180349651}
   - component: {fileID: 1180349650}
   - component: {fileID: 1180349653}
+  - component: {fileID: 1180349655}
   m_Layer: 0
   m_Name: granpa
   m_TagString: Player
@@ -57038,7 +56781,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4d50a4191625c247b0601ae2a01e858, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
+  rb: {fileID: 1180349652}
   speed: 6
   jumpForce: 10
   isGrounded: 0
@@ -57051,6 +56794,7 @@ MonoBehaviour:
   lowJumpMultiplier: 2
   isFacingRight: 0
   thrust: 40
+  jumpSound: {fileID: 1180349655}
 --- !u!60 &1180349651
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -57191,6 +56935,103 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   teleportTarget: {fileID: 1294425283}
   fallThreshold: -20
+--- !u!82 &1180349655
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1180349647}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 4d2c77bd6f8e2994d82b47ffd04144c1, type: 3}
+  m_Resource: {fileID: 8300000, guid: 4d2c77bd6f8e2994d82b47ffd04144c1, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1181078480
 GameObject:
   m_ObjectHideFlags: 0
@@ -65308,8 +65149,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1374352891}
   - component: {fileID: 1374352893}
-  - component: {fileID: 1374352892}
-  - component: {fileID: 1374352894}
+  - component: {fileID: 1374352895}
+  - component: {fileID: 1374352896}
   m_Layer: 0
   m_Name: TX Village Props - Spike Plate (7)
   m_TagString: Untagged
@@ -65332,73 +65173,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 833148328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &1374352892
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1374352890}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.03125, y: 0.34375}
-    newSize: {x: 1.03125, y: 0.34375}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39269638, y: 0.34562874}
-      - {x: -0.39409065, y: 0.34574986}
-      - {x: -0.39406013, y: 0.31472015}
-      - {x: -0.4241314, y: 0.3155222}
-      - {x: -0.42337418, y: 0.25157547}
-      - {x: -0.45429993, y: 0.25371456}
-      - {x: -0.45433617, y: 0.16004848}
-      - {x: -0.48646736, y: 0.16060925}
-      - {x: -0.4862175, y: 0.12800026}
-      - {x: -0.51755905, y: 0.12605858}
-      - {x: -0.515625, y: 0}
-      - {x: 0.515625, y: 0}
-      - {x: 0.5186386, y: 0.12913895}
-      - {x: 0.48870468, y: 0.12897491}
-      - {x: 0.48683548, y: 0.16140556}
-      - {x: 0.45742226, y: 0.1611805}
-      - {x: 0.4567852, y: 0.25070572}
-      - {x: 0.42332077, y: 0.25186348}
-      - {x: 0.42419243, y: 0.3130169}
-      - {x: 0.394001, y: 0.31472492}
-  m_UseDelaunayMesh: 0
 --- !u!212 &1374352893
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -65454,7 +65228,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1374352894
+--- !u!65 &1374352895
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1374352890}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.03125, y: 0.34375, z: 0.2}
+  m_Center: {x: 0, y: 0.171875, z: 0}
+--- !u!114 &1374352896
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -65463,10 +65258,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1374352890}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 188f48fa5c8ab9d439654e19778415b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 635bcfcd4eefe6d43aa95310a6e481c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportTarget: {fileID: 79683144}
+  teleportDestination: {fileID: 0}
+  grandpa: {fileID: 0}
+  trapSound: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!1 &1375106905
 GameObject:
   m_ObjectHideFlags: 0
@@ -74425,8 +74223,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1529926764}
   - component: {fileID: 1529926766}
-  - component: {fileID: 1529926765}
-  - component: {fileID: 1529926767}
+  - component: {fileID: 1529926768}
+  - component: {fileID: 1529926769}
   m_Layer: 0
   m_Name: TX Village Props - Spike Plate (3)
   m_TagString: Untagged
@@ -74449,73 +74247,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 833148328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &1529926765
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1529926763}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.03125, y: 0.34375}
-    newSize: {x: 1.03125, y: 0.34375}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39269638, y: 0.34562874}
-      - {x: -0.39409065, y: 0.34574986}
-      - {x: -0.39406013, y: 0.31472015}
-      - {x: -0.4241314, y: 0.3155222}
-      - {x: -0.42337418, y: 0.25157547}
-      - {x: -0.45429993, y: 0.25371456}
-      - {x: -0.45433617, y: 0.16004848}
-      - {x: -0.48646736, y: 0.16060925}
-      - {x: -0.4862175, y: 0.12800026}
-      - {x: -0.51755905, y: 0.12605858}
-      - {x: -0.515625, y: 0}
-      - {x: 0.515625, y: 0}
-      - {x: 0.5186386, y: 0.12913895}
-      - {x: 0.48870468, y: 0.12897491}
-      - {x: 0.48683548, y: 0.16140556}
-      - {x: 0.45742226, y: 0.1611805}
-      - {x: 0.4567852, y: 0.25070572}
-      - {x: 0.42332077, y: 0.25186348}
-      - {x: 0.42419243, y: 0.3130169}
-      - {x: 0.394001, y: 0.31472492}
-  m_UseDelaunayMesh: 0
 --- !u!212 &1529926766
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -74571,7 +74302,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1529926767
+--- !u!65 &1529926768
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1529926763}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.03125, y: 0.34375, z: 0.2}
+  m_Center: {x: 0, y: 0.171875, z: 0}
+--- !u!114 &1529926769
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -74580,10 +74332,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1529926763}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 188f48fa5c8ab9d439654e19778415b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 635bcfcd4eefe6d43aa95310a6e481c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportTarget: {fileID: 79683144}
+  teleportDestination: {fileID: 0}
+  grandpa: {fileID: 0}
+  trapSound: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!1 &1532981250
 GameObject:
   m_ObjectHideFlags: 0
@@ -75557,8 +75312,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1546627312}
   - component: {fileID: 1546627314}
-  - component: {fileID: 1546627313}
-  - component: {fileID: 1546627315}
+  - component: {fileID: 1546627316}
+  - component: {fileID: 1546627317}
   m_Layer: 0
   m_Name: TX Village Props - Spike Plate (9)
   m_TagString: Untagged
@@ -75581,73 +75336,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 833148328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &1546627313
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1546627311}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.03125, y: 0.34375}
-    newSize: {x: 1.03125, y: 0.34375}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39269638, y: 0.34562874}
-      - {x: -0.39409065, y: 0.34574986}
-      - {x: -0.39406013, y: 0.31472015}
-      - {x: -0.4241314, y: 0.3155222}
-      - {x: -0.42337418, y: 0.25157547}
-      - {x: -0.45429993, y: 0.25371456}
-      - {x: -0.45433617, y: 0.16004848}
-      - {x: -0.48646736, y: 0.16060925}
-      - {x: -0.4862175, y: 0.12800026}
-      - {x: -0.51755905, y: 0.12605858}
-      - {x: -0.515625, y: 0}
-      - {x: 0.515625, y: 0}
-      - {x: 0.5186386, y: 0.12913895}
-      - {x: 0.48870468, y: 0.12897491}
-      - {x: 0.48683548, y: 0.16140556}
-      - {x: 0.45742226, y: 0.1611805}
-      - {x: 0.4567852, y: 0.25070572}
-      - {x: 0.42332077, y: 0.25186348}
-      - {x: 0.42419243, y: 0.3130169}
-      - {x: 0.394001, y: 0.31472492}
-  m_UseDelaunayMesh: 0
 --- !u!212 &1546627314
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -75703,7 +75391,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1546627315
+--- !u!65 &1546627316
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546627311}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.03125, y: 0.34375, z: 0.2}
+  m_Center: {x: 0, y: 0.171875, z: 0}
+--- !u!114 &1546627317
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -75712,10 +75421,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1546627311}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 188f48fa5c8ab9d439654e19778415b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 635bcfcd4eefe6d43aa95310a6e481c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportTarget: {fileID: 79683144}
+  teleportDestination: {fileID: 0}
+  grandpa: {fileID: 0}
+  trapSound: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!1 &1548350591
 GameObject:
   m_ObjectHideFlags: 0
@@ -77522,8 +77234,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1576251147}
   - component: {fileID: 1576251149}
-  - component: {fileID: 1576251148}
-  - component: {fileID: 1576251150}
+  - component: {fileID: 1576251151}
+  - component: {fileID: 1576251152}
   m_Layer: 0
   m_Name: TX Village Props - Spike Plate (4)
   m_TagString: Untagged
@@ -77546,73 +77258,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 833148328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &1576251148
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1576251146}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.03125, y: 0.34375}
-    newSize: {x: 1.03125, y: 0.34375}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39269638, y: 0.34562874}
-      - {x: -0.39409065, y: 0.34574986}
-      - {x: -0.39406013, y: 0.31472015}
-      - {x: -0.4241314, y: 0.3155222}
-      - {x: -0.42337418, y: 0.25157547}
-      - {x: -0.45429993, y: 0.25371456}
-      - {x: -0.45433617, y: 0.16004848}
-      - {x: -0.48646736, y: 0.16060925}
-      - {x: -0.4862175, y: 0.12800026}
-      - {x: -0.51755905, y: 0.12605858}
-      - {x: -0.515625, y: 0}
-      - {x: 0.515625, y: 0}
-      - {x: 0.5186386, y: 0.12913895}
-      - {x: 0.48870468, y: 0.12897491}
-      - {x: 0.48683548, y: 0.16140556}
-      - {x: 0.45742226, y: 0.1611805}
-      - {x: 0.4567852, y: 0.25070572}
-      - {x: 0.42332077, y: 0.25186348}
-      - {x: 0.42419243, y: 0.3130169}
-      - {x: 0.394001, y: 0.31472492}
-  m_UseDelaunayMesh: 0
 --- !u!212 &1576251149
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -77668,7 +77313,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1576251150
+--- !u!65 &1576251151
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1576251146}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.03125, y: 0.34375, z: 0.2}
+  m_Center: {x: 0, y: 0.171875, z: 0}
+--- !u!114 &1576251152
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -77677,10 +77343,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1576251146}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 188f48fa5c8ab9d439654e19778415b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 635bcfcd4eefe6d43aa95310a6e481c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportTarget: {fileID: 79683144}
+  teleportDestination: {fileID: 0}
+  grandpa: {fileID: 0}
+  trapSound: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!1 &1583767531
 GameObject:
   m_ObjectHideFlags: 0
@@ -101612,9 +101281,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2007151800}
   - component: {fileID: 2007151802}
-  - component: {fileID: 2007151801}
-  - component: {fileID: 2007151803}
-  m_Layer: 0
+  - component: {fileID: 2007151804}
+  - component: {fileID: 2007151805}
+  m_Layer: 6
   m_Name: TX Village Props - Spike Plate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -101630,79 +101299,12 @@ Transform:
   m_GameObject: {fileID: 2007151799}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 88.35, y: 31.72, z: -1}
+  m_LocalPosition: {x: 88.35, y: 31.91, z: -1}
   m_LocalScale: {x: 2, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 833148328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &2007151801
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2007151799}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.03125, y: 0.34375}
-    newSize: {x: 1.03125, y: 0.34375}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.39269638, y: 0.34562874}
-      - {x: -0.39409065, y: 0.34574986}
-      - {x: -0.39406013, y: 0.31472015}
-      - {x: -0.4241314, y: 0.3155222}
-      - {x: -0.42337418, y: 0.25157547}
-      - {x: -0.45429993, y: 0.25371456}
-      - {x: -0.45433617, y: 0.16004848}
-      - {x: -0.48646736, y: 0.16060925}
-      - {x: -0.4862175, y: 0.12800026}
-      - {x: -0.51755905, y: 0.12605858}
-      - {x: -0.515625, y: 0}
-      - {x: 0.515625, y: 0}
-      - {x: 0.5186386, y: 0.12913895}
-      - {x: 0.48870468, y: 0.12897491}
-      - {x: 0.48683548, y: 0.16140556}
-      - {x: 0.45742226, y: 0.1611805}
-      - {x: 0.4567852, y: 0.25070572}
-      - {x: 0.42332077, y: 0.25186348}
-      - {x: 0.42419243, y: 0.3130169}
-      - {x: 0.394001, y: 0.31472492}
-  m_UseDelaunayMesh: 0
 --- !u!212 &2007151802
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -101758,7 +101360,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2007151803
+--- !u!65 &2007151804
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2007151799}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.03125, y: 0.34375, z: 0.2}
+  m_Center: {x: 0, y: 0.171875, z: 0}
+--- !u!114 &2007151805
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -101767,10 +101390,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 2007151799}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 188f48fa5c8ab9d439654e19778415b8, type: 3}
+  m_Script: {fileID: 11500000, guid: 635bcfcd4eefe6d43aa95310a6e481c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportTarget: {fileID: 79683144}
+  teleportDestination: {fileID: 79683144}
+  grandpa: {fileID: 1180349647}
+  trapSound: {fileID: 8300000, guid: 4dd9e56e71076184aa0ea3da61d719ff, type: 3}
+  audioSource: {fileID: 0}
 --- !u!1 &2010279007
 GameObject:
   m_ObjectHideFlags: 0
@@ -108747,6 +108373,6 @@ SceneRoots:
   - {fileID: 1868587355}
   - {fileID: 323338325}
   - {fileID: 454953896}
+  - {fileID: 833148328}
   - {fileID: 1187218551}
   - {fileID: 789023837}
-  - {fileID: 833148328}

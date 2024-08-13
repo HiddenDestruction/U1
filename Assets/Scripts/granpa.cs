@@ -16,13 +16,15 @@ public float lowJumpMultiplier = 2f;
 public bool isFacingRight;
 
 public int thrust = 4;
-// [SerializeField] private Transform respawn;
-// public Vector3 respawn = Vector3.zero;
+
+public AudioSource jumpSound;
+    // [SerializeField] private Transform respawn;
+    // public Vector3 respawn = Vector3.zero;
 
 
 
 
-void Start() { 
+    void Start() { 
     rb = GetComponent<Rigidbody2D>(); 
     
     // respawn = GameObject.Find("Respawn").transform.position;
@@ -43,8 +45,10 @@ void Move() {
 }
 void Jump() { 
     if (Input.GetKeyDown(KeyCode.Space) && isGrounded) { 
-        rb.velocity = new Vector2(rb.velocity.x, jumpForce); 
-    } 
+        rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+
+        jumpSound.Play();
+        } 
 }
 void BetterJump() {
     if (rb.velocity.y < 0) {
