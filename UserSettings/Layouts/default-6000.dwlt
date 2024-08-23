@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Project
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 47
+  controlID: 93
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ConsoleWindow
+  m_Name: ProjectBrowser
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -148,14 +148,14 @@ MonoBehaviour:
     y: 635
     width: 1401
     height: 316
-  m_MinSize: {x: 101, y: 126}
-  m_MaxSize: {x: 4001, y: 4026}
-  m_ActualView: {fileID: 18}
+  m_MinSize: {x: 231, y: 276}
+  m_MaxSize: {x: 10001, y: 10026}
+  m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
   - {fileID: 18}
   - {fileID: 12}
-  m_Selected: 1
+  m_Selected: 0
   m_LastSelected: 2
 --- !u!114 &7
 MonoBehaviour:
@@ -319,8 +319,8 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_MixersTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 90f7ffff
-    m_LastClickedID: -2160
+    m_SelectedIDs: b4e9ffff
+    m_LastClickedID: -5708
     m_ExpandedIDs: 12eb343c
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -437,7 +437,7 @@ MonoBehaviour:
       oldMaxSizes: 
       oldSplitSize: 0
     m_HorizontalSplitter:
-      ID: 256
+      ID: 71
       splitterInitialOffset: 0
       currentActiveSplitter: -1
       realSizes:
@@ -615,7 +615,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/SFX
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -625,16 +625,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/SFX
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Github\U1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 54}
-    m_SelectedIDs: fc8e0000
-    m_LastClickedID: 36604
-    m_ExpandedIDs: 00000000848e0000868e0000888e00008a8e00008c8e00008e8e000000ca9a3b
+    m_SelectedIDs: 16cb0000
+    m_LastClickedID: 51990
+    m_ExpandedIDs: 00000000ce8e0000d08e0000d28e0000d48e0000d68e0000d88e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -663,7 +663,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000848e0000868e0000888e00008a8e00008c8e00008e8e0000
+    m_ExpandedIDs: 00000000ce8e0000d08e0000d28e0000d48e0000d68e0000d88e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -689,10 +689,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 8ef7ffff
-    m_LastClickedInstanceID: -2162
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c62300002a530000807b0000000000003a8c0000408c00000e79000098780000e28b000030ae0000648900002e86000028ac000020b30000ac770000c4f30000b6060100bc7e0000c87b000020d30300b88d0000
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c62300002a530000807b0000000000003a8c0000408c00000e79000098780000e28b000030ae0000648900002e86000028ac000020b30000ac770000c4f30000b6060100bc7e0000c87b000020d30300b88d0000b4e9ffff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -811,9 +811,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 16a1ffff
-      m_LastClickedID: -24298
-      m_ExpandedIDs: 16a1ffff02a3ffffecf0ffffeaf8ffff10f9ffff80f9ffffc0faffff249100005c9100009a930000149400000095000012960000080501002e050100
+      m_SelectedIDs: 74620000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 94f4ffffb8f7ffffc0faffff32810000588100009a880000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
