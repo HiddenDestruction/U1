@@ -27343,6 +27343,7 @@ GameObject:
   m_Component:
   - component: {fileID: 578322720}
   - component: {fileID: 578322719}
+  - component: {fileID: 578322721}
   m_Layer: 5
   m_Name: Slider
   m_TagString: Untagged
@@ -27400,7 +27401,19 @@ MonoBehaviour:
   m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 578322721}
+        m_TargetAssemblyTypeName: AudioScript, Assembly-CSharp
+        m_MethodName: SetVolume
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!224 &578322720
 RectTransform:
   m_ObjectHideFlags: 0
@@ -27424,6 +27437,19 @@ RectTransform:
   m_AnchoredPosition: {x: -470.46, y: -284.65}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &578322721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 578322718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4d0f3e3947de5e4eb9436e19273014d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myAudioMixer: {fileID: 24100000, guid: e30dfe4ed2be2c34c92a6dc41b96ebba, type: 2}
 --- !u!1 &579574273
 GameObject:
   m_ObjectHideFlags: 0
@@ -57384,7 +57410,7 @@ AudioSource:
   m_GameObject: {fileID: 1180349647}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -4233238933228793513, guid: e30dfe4ed2be2c34c92a6dc41b96ebba,
+  OutputAudioMixerGroup: {fileID: 24300002, guid: e30dfe4ed2be2c34c92a6dc41b96ebba,
     type: 2}
   m_audioClip: {fileID: 8300000, guid: 4d2c77bd6f8e2994d82b47ffd04144c1, type: 3}
   m_Resource: {fileID: 8300000, guid: 4d2c77bd6f8e2994d82b47ffd04144c1, type: 3}
@@ -72688,37 +72714,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1489481310
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1489481311}
-  m_Layer: 0
-  m_Name: Suwak
-  m_TagString: Player
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1489481311
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1489481310}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.136882, y: 11.77605, z: 0.7203171}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1490027098
 GameObject:
   m_ObjectHideFlags: 0
@@ -92359,7 +92354,7 @@ AudioSource:
   m_GameObject: {fileID: 1853797243}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -4233238933228793513, guid: e30dfe4ed2be2c34c92a6dc41b96ebba,
+  OutputAudioMixerGroup: {fileID: 24300002, guid: e30dfe4ed2be2c34c92a6dc41b96ebba,
     type: 2}
   m_audioClip: {fileID: 8300000, guid: ec620c7318a2efc49a01b701b05a68b7, type: 3}
   m_Resource: {fileID: 8300000, guid: ec620c7318a2efc49a01b701b05a68b7, type: 3}
@@ -92630,7 +92625,7 @@ AudioSource:
   m_GameObject: {fileID: 1857310621}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -4233238933228793513, guid: e30dfe4ed2be2c34c92a6dc41b96ebba,
+  OutputAudioMixerGroup: {fileID: 24300002, guid: e30dfe4ed2be2c34c92a6dc41b96ebba,
     type: 2}
   m_audioClip: {fileID: 8300000, guid: 4bc03589677894248abbe45547e69971, type: 3}
   m_Resource: {fileID: 8300000, guid: 4bc03589677894248abbe45547e69971, type: 3}
@@ -109084,4 +109079,3 @@ SceneRoots:
   - {fileID: 1187218551}
   - {fileID: 789023837}
   - {fileID: 1464669709}
-  - {fileID: 1489481311}

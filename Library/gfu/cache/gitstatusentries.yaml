@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2024-08-23T17:12:51.042+02:00
-  initializedAtString: 2024-08-23T16:29:52.352+02:00
+  lastUpdatedAtString: 2024-08-23T17:24:09.025+02:00
+  initializedAtString: 2024-08-23T17:15:17.354+02:00
   entries:
   - path: .vs\U1\v17\.suo
     fullPath: E:\Github\U1\.vs\U1\v17\.suo
@@ -34,45 +34,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\AudioScript.cs
-    fullPath: E:\Github\U1\Assets\AudioScript.cs
-    projectPath: Assets\AudioScript.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\AudioScript.cs.meta
-    fullPath: E:\Github\U1\Assets\AudioScript.cs.meta
-    projectPath: Assets\AudioScript.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Assets\Scenes\Black3.unity
     fullPath: E:\Github\U1\Assets\Scenes\Black3.unity
     projectPath: Assets\Scenes\Black3.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\AudioScript.cs
-    fullPath: E:\Github\U1\Assets\Scripts\AudioScript.cs
-    projectPath: Assets\Scripts\AudioScript.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\AudioScript.cs.meta
-    fullPath: E:\Github\U1\Assets\Scripts\AudioScript.cs.meta
-    projectPath: Assets\Scripts\AudioScript.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SFX\MasterMixer.mixer
-    fullPath: E:\Github\U1\Assets\SFX\MasterMixer.mixer
-    projectPath: Assets\SFX\MasterMixer.mixer
+  - path: Assets\Scripts\VolumeControl.cs
+    fullPath: E:\Github\U1\Assets\Scripts\VolumeControl.cs
+    projectPath: Assets\Scripts\VolumeControl.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Assets\SFX\MasterMixer.mixer.meta
-    fullPath: E:\Github\U1\Assets\SFX\MasterMixer.mixer.meta
-    projectPath: Assets\SFX\MasterMixer.mixer.meta
+  - path: Assets\Scripts\VolumeControl.cs.meta
+    fullPath: E:\Github\U1\Assets\Scripts\VolumeControl.cs.meta
+    projectPath: Assets\Scripts\VolumeControl.cs.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -80,14 +56,8 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Assets\SFX\MasterMusic.mixer
     projectPath: Assets\SFX\MasterMusic.mixer
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SFX\MasterMusic.mixer.meta
-    fullPath: E:\Github\U1\Assets\SFX\MasterMusic.mixer.meta
-    projectPath: Assets\SFX\MasterMusic.mixer.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: E:\Github\U1\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -112,9 +82,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\500b0aE.dag_fsmtime
-    fullPath: E:\Github\U1\Library\Bee\500b0aE.dag_fsmtime
-    projectPath: Library\Bee\500b0aE.dag_fsmtime
+  - path: Library\Bee\500b0aE.dag_derived
+    fullPath: E:\Github\U1\Library\Bee\500b0aE.dag_derived
+    projectPath: Library\Bee\500b0aE.dag_derived
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -158,14 +128,14 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor.pdb
     projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor.pdb
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor.ref.dll
     fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor.ref.dll
     projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor.ref.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.dll
     fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.dll
     projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.dll
@@ -220,12 +190,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\tundra.digestcache.tmp
-    fullPath: E:\Github\U1\Library\Bee\tundra.digestcache.tmp
-    projectPath: Library\Bee\tundra.digestcache.tmp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Bee\tundra.log.json
     fullPath: E:\Github\U1\Library\Bee\tundra.log.json
     projectPath: Library\Bee\tundra.log.json
@@ -262,21 +226,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: E:\Github\U1\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: E:\Github\U1\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: E:\Github\U1\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -285,7 +237,7 @@ MonoBehaviour:
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: E:\Github\U1\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
@@ -362,8 +314,8 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker1.log
     fullPath: E:\Github\U1\Logs\AssetImportWorker1.log
     projectPath: Logs\AssetImportWorker1.log
@@ -374,8 +326,8 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Logs\AssetImportWorker1-prev.log
     projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-AssetImportWorker0-0.log
     fullPath: E:\Github\U1\Logs\shadercompiler-AssetImportWorker0-0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0-0.log
@@ -388,27 +340,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    fullPath: E:\Github\U1\Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: E:\Github\U1\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-150871bdcc9616e48bf9d047e21ce90e
-    fullPath: E:\Github\U1\Temp\FSTimeGet-150871bdcc9616e48bf9d047e21ce90e
-    projectPath: Temp\FSTimeGet-150871bdcc9616e48bf9d047e21ce90e
+  - path: Temp\FSTimeGet-6a6ba6b6a20f9944e9276b23b607ed3d
+    fullPath: E:\Github\U1\Temp\FSTimeGet-6a6ba6b6a20f9944e9276b23b607ed3d
+    projectPath: Temp\FSTimeGet-6a6ba6b6a20f9944e9276b23b607ed3d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-9a5c706c9be8126489fbe3531244412f
-    fullPath: E:\Github\U1\Temp\FSTimeGet-9a5c706c9be8126489fbe3531244412f
-    projectPath: Temp\FSTimeGet-9a5c706c9be8126489fbe3531244412f
+  - path: Temp\FSTimeGet-d16edef31c4186d46bdf1aeccb1cad1c
+    fullPath: E:\Github\U1\Temp\FSTimeGet-d16edef31c4186d46bdf1aeccb1cad1c
+    projectPath: Temp\FSTimeGet-d16edef31c4186d46bdf1aeccb1cad1c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-cebf653f60503ec4f8614008939cb297
-    fullPath: E:\Github\U1\Temp\FSTimeGet-cebf653f60503ec4f8614008939cb297
-    projectPath: Temp\FSTimeGet-cebf653f60503ec4f8614008939cb297
+  - path: Temp\FSTimeGet-f72d52563edab2a4387c85ea06fcd036
+    fullPath: E:\Github\U1\Temp\FSTimeGet-f72d52563edab2a4387c85ea06fcd036
+    projectPath: Temp\FSTimeGet-f72d52563edab2a4387c85ea06fcd036
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
