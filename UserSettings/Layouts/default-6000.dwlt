@@ -319,7 +319,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_MixersTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 80730000
+    m_SelectedIDs: 
     m_LastClickedID: 29568
     m_ExpandedIDs: 12eb343c
     m_RenameOverlay:
@@ -634,7 +634,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 54}
     m_SelectedIDs: 588f0000
     m_LastClickedID: 36696
-    m_ExpandedIDs: 00000000dc8e0000de8e0000e08e0000e28e0000e48e0000e68e000000ca9a3b
+    m_ExpandedIDs: 00000000d48e0000d68e0000d88e0000da8e0000dc8e0000de8e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -663,7 +663,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000dc8e0000de8e0000e08e0000e28e0000e48e0000e68e0000
+    m_ExpandedIDs: 00000000d48e0000d68e0000d88e0000da8e0000dc8e0000de8e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -811,9 +811,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2c7a0000
-      m_LastClickedID: 31276
-      m_ExpandedIDs: c0faffff2c7a0000b07d00003c810000a8880000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: c0faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
