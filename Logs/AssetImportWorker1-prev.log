@@ -15,7 +15,7 @@ E:/Github/U1
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-63485
+49956
 -job-worker-count
 7
 -background-job-worker-count
@@ -59,20 +59,20 @@ E:/Github/U1
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [31036]  Target information:
+Player connection [37236]  Target information:
 
-Player connection [31036]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1257180272 [EditorId] 1257180272 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-DVOTR2F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [37236]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3094066517 [EditorId] 3094066517 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-DVOTR2F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [31036]  * "[IP] 172.30.48.1 [Port] 0 [Flags] 2 [Guid] 1257180272 [EditorId] 1257180272 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-DVOTR2F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [37236]  * "[IP] 172.30.48.1 [Port] 0 [Flags] 2 [Guid] 3094066517 [EditorId] 3094066517 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-DVOTR2F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [31036]  * "[IP] 192.168.1.211 [Port] 0 [Flags] 2 [Guid] 1257180272 [EditorId] 1257180272 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-DVOTR2F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [37236]  * "[IP] 192.168.1.211 [Port] 0 [Flags] 2 [Guid] 3094066517 [EditorId] 3094066517 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-DVOTR2F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [31036] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [31036] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [37236] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [37236] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 7
 Library Redirect Path: Library/
 [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
-Refreshing native plugins compatible for Editor in 11.66 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 3.51 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.7f1 (7dd95c051e11)
 [Subsystems] Discovering subsystems at path E:/Unity/6000.0.7f1/Editor/Data/Resources/UnitySubsystems
@@ -88,43 +88,43 @@ Initialize mono
 Mono path[0] = 'E:/Unity/6000.0.7f1/Editor/Data/Managed'
 Mono path[1] = 'E:/Unity/6000.0.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'E:/Unity/6000.0.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56412
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56264
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: E:/Unity/6000.0.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006401 seconds.
-- Loaded All Assemblies, in  0.777 seconds
+Registered in 0.002916 seconds.
+- Loaded All Assemblies, in  0.386 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.810 seconds
-Domain Reload Profiling: 1587ms
-	BeginReloadAssembly (302ms)
+- Finished resetting the current domain, in  0.393 seconds
+Domain Reload Profiling: 778ms
+	BeginReloadAssembly (135ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (58ms)
-	RebuildNativeTypeToScriptingClass (22ms)
-	initialDomainReloadingComplete (70ms)
-	LoadAllAssembliesAndSetupDomain (324ms)
-		LoadAssemblies (300ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (151ms)
+		LoadAssemblies (134ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (319ms)
-			TypeCache.Refresh (316ms)
-				TypeCache.ScanAssembly (290ms)
-			BuildScriptInfoCaches (1ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (811ms)
+		AnalyzeDomain (148ms)
+			TypeCache.Refresh (147ms)
+				TypeCache.ScanAssembly (134ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (393ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (697ms)
+		SetupLoadedEditorAssemblies (349ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (52ms)
-			SetLoadedEditorAssemblies (9ms)
-			BeforeProcessingInitializeOnLoad (11ms)
-			ProcessInitializeOnLoadAttributes (304ms)
-			ProcessInitializeOnLoadMethodAttributes (321ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (159ms)
+			ProcessInitializeOnLoadMethodAttributes (161ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -133,218 +133,1665 @@ Domain Reload Profiling: 1587ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-Could not allocate 655360 bytes
-Crash!!!
-SymInit: Symbol-SearchPath: 'E:/Unity/6000.0.7f1/Editor/Data/Mono;.;E:\Github\U1;E:\Github\U1\Library\BurstCache\JIT;E:\Unity\6000.0.7f1\Editor;C:\Windows;C:\Windows\system32;', symOptions: 534, UserName: 'Kotson'
-OS-Version: 10.0.0
-E:\Unity\6000.0.7f1\Editor\Unity.exe:Unity.exe (00007FF61EF00000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6000.0.7.55644
-C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FF9E1A10000), size: 2064384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4522
-C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF9E1060000), size: 790528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF9DF360000), size: 3133440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Windows\System32\USER32.dll:USER32.dll (00007FF9E0280000), size: 1691648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Windows\System32\win32u.dll:win32u.dll (00007FF9DF820000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Windows\System32\GDI32.dll:GDI32.dll (00007FF9E0240000), size: 176128 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.4474
-C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FF9DF140000), size: 1142784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FF9DF780000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FF9DF260000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.786 seconds
+Refreshing native plugins compatible for Editor in 1.67 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.90 ms, found 5 plugins.
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.705 seconds
+Domain Reload Profiling: 1491ms
+	BeginReloadAssembly (376ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (327ms)
+		LoadAssemblies (290ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (135ms)
+			TypeCache.Refresh (106ms)
+				TypeCache.ScanAssembly (93ms)
+			BuildScriptInfoCaches (23ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (706ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (497ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (29ms)
+			ProcessInitializeOnLoadAttributes (283ms)
+			ProcessInitializeOnLoadMethodAttributes (178ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.83 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2941 unused Assets / (0.7 MB). Loaded Objects now: 3554.
+Memory consumption went from 113.0 MB to 112.3 MB.
+Total: 5.958200 ms (FindLiveObjects: 0.333600 ms CreateObjectMapping: 0.176200 ms MarkObjects: 4.801500 ms  DeleteObjects: 0.646000 ms)
 
-========== OUTPUTTING STACK TRACE ==================
+========================================================================
+Received Import Request.
+  Time since last request: 596176.551338 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity
+  artifactKey: Guid(54e994244b4b467e8583cf2da6dcc716) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity using Guid(54e994244b4b467e8583cf2da6dcc716) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '120346422948dc4ef06adaed8fc28e66') in 0.0771889 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
-SymInit: Symbol-SearchPath: 'E:/Unity/6000.0.7f1/Editor/Data/Mono;.;E:\Github\U1;E:\Github\U1\Library\BurstCache\JIT;E:\Unity\6000.0.7f1\Editor;C:\Windows;C:\Windows\system32;', symOptions: 534, UserName: 'Kotson'
-OS-Version: 10.0.0
-E:\Unity\6000.0.7f1\Editor\Unity.exe:Unity.exe (00007FF61EF00000), size: 188416 (result: 0), SymType: 'PDB', PDB: 'E:\Unity\6000.0.7f1\Editor\Unity_exe_x64.pdb', fileVersion: 6000.0.7.55644
-C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FF9E1A10000), size: 2064384 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 10.0.19041.4522
-C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF9E1060000), size: 790528 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\KERNEL32.DLL', fileVersion: 10.0.19041.4717
-C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF9DF360000), size: 3133440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\KERNELBASE.dll', fileVersion: 10.0.19041.4717
-C:\Windows\System32\USER32.dll:USER32.dll (00007FF9E0280000), size: 1691648 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\USER32.dll', fileVersion: 10.0.19041.4717
-C:\Windows\System32\win32u.dll:win32u.dll (00007FF9DF820000), size: 139264 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\win32u.dll', fileVersion: 10.0.19041.4717
-C:\Windows\System32\GDI32.dll:GDI32.dll (00007FF9E0240000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
-C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FF9DF140000), size: 1142784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\gdi32full.dll', fileVersion: 10.0.19041.4717
-C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FF9DF780000), size: 643072 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\msvcp_win.dll', fileVersion: 10.0.19041.3636
-C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FF9DF260000), size: 1048576 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\ucrtbase.dll', fileVersion: 10.0.19041.3636
-C:\Windows\System32\IMM32.DLL:IMM32.DLL (00007FF9E08C0000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
-E:\Unity\6000.0.7f1\Editor\Unity.dll:Unity.dll (00007FF920B30000), size: 86351872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6000.0.7.55644
-C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FF9DF850000), size: 1433600 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
-C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FF9DF0C0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FF9E1270000), size: 720896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
-E:\Unity\6000.0.7f1\Editor\libfbxsdk.dll:libfbxsdk.dll (00007FF94C450000), size: 8019968 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.3.7.0
-C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FF9DFFE0000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.3636
-E:\Unity\6000.0.7f1\Editor\etccompress.dll:etccompress.dll (00007FF94BF70000), size: 5070848 (result: 0), SymType: '-deferred-', PDB: ''
-C:\Windows\System32\sechost.dll:sechost.dll (00007FF9DFB20000), size: 655360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
-E:\Unity\6000.0.7f1\Editor\s3tcompress.dll:s3tcompress.dll (00007FF9BB670000), size: 180224 (result: 8), SymType: '-unknown-', PDB: ''
-E:\Unity\6000.0.7f1\Editor\ispc_texcomp.dll:ispc_texcomp.dll (00007FF973B10000), size: 1826816 (result: 0), SymType: '-deferred-', PDB: ''
-E:\Unity\6000.0.7f1\Editor\compress_bc7e.dll:compress_bc7e.dll (00007FF968570000), size: 1433600 (result: 0), SymType: '-deferred-', PDB: ''
-C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FF9E00A0000), size: 1191936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
-E:\Unity\6000.0.7f1\Editor\FreeImage.dll:FreeImage.dll (0000000180000000), size: 5783552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.18.0.0
-E:\Unity\6000.0.7f1\Editor\WinPixEventRuntime.dll:WinPixEventRuntime.dll (00007FF9BB660000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2201.24001
-E:\Unity\6000.0.7f1\Editor\umbraoptimizer64.dll:umbraoptimizer64.dll (00007FF967CF0000), size: 1187840 (result: 0), SymType: '-deferred-', PDB: ''
-C:\Windows\System32\ole32.dll:ole32.dll (00007FF9E1140000), size: 1224704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FF9E01D0000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\System32\combase.dll:combase.dll (00007FF9E0420000), size: 3485696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FF9E1320000), size: 4644864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Windows\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FF9C6E40000), size: 577536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.40.33810.0
-C:\Windows\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FF9C7F00000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.40.33810.0
-C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (00007FF9DF0F0000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3996
-C:\Windows\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FF9C7E60000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.40.33810.0
-C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FF9E08F0000), size: 7794688 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.4780
-C:\Windows\SYSTEM32\d3d12.dll:d3d12.dll (00007FF9A32A0000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FF9DADB0000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FF9DCDF0000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FF9E0780000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FF9DFBD0000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FF9DD900000), size: 1007616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Windows\SYSTEM32\HID.DLL:HID.DLL (00007FF9DD8A0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FF9DE410000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\System32\WINTRUST.dll:WINTRUST.dll (00007FF9DF660000), size: 430080 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4780
-C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FF9BBBB0000), size: 1212416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF9DCF00000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3758
-C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FF9D96A0000), size: 1101824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FF9D6F20000), size: 159744 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FF9CDE40000), size: 180224 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.3636
-E:\Unity\6000.0.7f1\Editor\SketchUpAPI.dll:SketchUpAPI.dll (00007FF94B6D0000), size: 8990720 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 23.0.0.0
-E:\Unity\6000.0.7f1\Editor\NativeProxyHelper.dll:NativeProxyHelper.dll (00007FF965890000), size: 1789952 (result: 8), SymType: '-unknown-', PDB: ''
-C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FF9D8760000), size: 40960 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\SYSTEM32\WSOCK32.dll:WSOCK32.dll (00007FF9B4A50000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
-E:\Unity\6000.0.7f1\Editor\SketchUpCommonPreferences.dll:SketchUpCommonPreferences.dll (00007FF98B650000), size: 499712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 23.0.0.0
-C:\Windows\SYSTEM32\Secur32.dll:Secur32.dll (00007FF9CAAC0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FF9DEF90000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4239
-E:\Unity\6000.0.7f1\Editor\OpenRL.dll:OpenRL.dll (0000020FE0B20000), size: 12779520 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.5.0.2907
-C:\Windows\SYSTEM32\MSVCR100.dll:MSVCR100.dll (00000000577C0000), size: 856064 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.30319.1
-E:\Unity\6000.0.7f1\Editor\embree.dll:embree.dll (00007FF92A340000), size: 16711680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.14.0.0
-C:\Windows\SYSTEM32\MSVCP100.dll:MSVCP100.dll (00000000578A0000), size: 622592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.30319.1
-C:\Windows\SYSTEM32\MSWSOCK.DLL:MSWSOCK.DLL (00007FF9DE710000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-E:\Unity\6000.0.7f1\Editor\tbb.dll:tbb.dll (00007FF988700000), size: 303104 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.3.2022.1111
-E:\Unity\6000.0.7f1\Editor\OpenRL_pthread.dll:OpenRL_pthread.dll (0000020FE1770000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.9.0.0
-C:\Windows\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FF9DEBA0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\System32\bcryptprimitives.dll:bcryptprimitives.dll (00007FF9DF9B0000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FF9DC990000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4529
-C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FF9DD100000), size: 7991296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4780
-C:\Windows\SYSTEM32\Wldp.dll:Wldp.dll (00007FF9DE980000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4780
-C:\Windows\System32\SHCORE.dll:SHCORE.dll (00007FF9DFCA0000), size: 708608 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.4522
-C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FF9DEFF0000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Windows\system32\IconCodecService.dll:IconCodecService.dll (00007FF9DBE70000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
-C:\Windows\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FF9DC730000), size: 1794048 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4648
-C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FF9DFED0000), size: 692224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
-C:\Windows\System32\netprofm.dll:netprofm.dll (00007FF9DC690000), size: 258048 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Windows\System32\npmproxy.dll:npmproxy.dll (00007FF9D4970000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4239
-C:\Windows\System32\NSI.dll:NSI.dll (00007FF9DFBC0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FF9D9DF0000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Próbowano uzyskać dostęp do nieprawidłowego adresu.' (Address: 00007FF9DF39B699)
-0x00007FF9DF39B699 (KERNELBASE) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949A10C1C)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949A10C1C)
-0x00007FF949A10C1C ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF9499FC822)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF9499FC822)
-0x00007FF9499FC822 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF9499FC888)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF9499FC888)
-0x00007FF9499FC888 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949C14888)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949C14888)
-0x00007FF949C14888 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949C5275F)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949C5275F)
-0x00007FF949C5275F ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949C1BBC0)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949C1BBC0)
-0x00007FF949C1BBC0 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949C1D507)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949C1D507)
-0x00007FF949C1D507 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949C2435E)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949C2435E)
-0x00007FF949C2435E ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949C261EF)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949C261EF)
-0x00007FF949C261EF ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949B68444)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949B68444)
-0x00007FF949B68444 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949B63325)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949B63325)
-0x00007FF949B63325 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949C1DA75)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949C1DA75)
-0x00007FF949C1DA75 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949C2435E)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949C2435E)
-0x00007FF949C2435E ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949D1E8D4)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949D1E8D4)
-0x00007FF949D1E8D4 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949D1F1FA)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949D1F1FA)
-0x00007FF949D1F1FA ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 000002116F3D03A6)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 000002116F3D03A6)
-0x000002116F3D03A6 ((<unknown>)) (function-name not available)
-0x0000021195C57643 (Mono JIT Code) UnityEngine.IMGUITextHandle:ConvertGUIStyleToGenerationSettings (UnityEngine.TextCore.Text.TextGenerationSettings,UnityEngine.GUIStyle,UnityEngine.Color,string,UnityEngine.Rect)
-0x0000021195C5638B (Mono JIT Code) UnityEngine.IMGUITextHandle:GetTextHandle (UnityEngine.GUIStyle,UnityEngine.Rect,string,UnityEngine.Color32)
-0x0000021195C55723 (Mono JIT Code) UnityEngine.TextEditor:.ctor ()
-0x0000021195C5551B (Mono JIT Code) UnityEditor.EditorGUI/RecycledTextEditor:.ctor ()
-0x0000021195C515B3 (Mono JIT Code) UnityEditor.EditorGUI:get_s_RecycledEditor ()
-0x0000021195C51183 (Mono JIT Code) UnityEditor.ScriptReloadProperties:ManagedStore ()
-0x0000021195C51053 (Mono JIT Code) UnityEditor.ScriptReloadProperties:Store ()
-0x000002119445CBAD (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_object (object,intptr,intptr,intptr)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949C2694E)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949C2694E)
-0x00007FF949C2694E ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949B68444)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949B68444)
-0x00007FF949B68444 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF949B68530)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Procedura inicjowania biblioteki dołączanej dynamicznie (DLL) nie powiodła się.' (Address: 00007FF949B68530)
-0x00007FF949B68530 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Unknown error [-529697949]' (Address: 00007FF921A66094)
-0x00007FF921A66094 (Unity) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF921A3E263)
-0x00007FF921A3E263 (Unity) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF921A3935E)
-0x00007FF921A3935E (Unity) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Unknown error [-529697949]' (Address: 00007FF921BB6265)
-0x00007FF921BB6265 (Unity) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Unknown error [-529697949]' (Address: 00007FF921A28AAD)
-0x00007FF921A28AAD (Unity) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Unknown error [-529697949]' (Address: 00007FF921A31F95)
-0x00007FF921A31F95 (Unity) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Unknown error [-529697949]' (Address: 00007FF922C5A1A1)
-0x00007FF922C5A1A1 (Unity) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Unknown error [-529697949]' (Address: 00007FF922FA4E49)
-0x00007FF922FA4E49 (Unity) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Unknown error [-529697949]' (Address: 00007FF922F7FEF7)
-0x00007FF922F7FEF7 (Unity) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Unknown error [-529697949]' (Address: 00007FF923061F9E)
-0x00007FF923061F9E (Unity) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Unknown error [-529697949]' (Address: 00007FF92304F82A)
-0x00007FF92304F82A (Unity) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Unknown error [-529697949]' (Address: 00007FF923050B5E)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Za mało zasobów pamięci, aby można było przetworzyć to polecenie.' (Address: 00007FF923050B5E)
-0x00007FF923050B5E ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF9230605BC)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Za mało zasobów pamięci, aby można było przetworzyć to polecenie.' (Address: 00007FF9230605BC)
-0x00007FF9230605BC ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF922FA8AE6)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Za mało zasobów pamięci, aby można było przetworzyć to polecenie.' (Address: 00007FF922FA8AE6)
-0x00007FF922FA8AE6 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF922FA8BAB)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Za mało zasobów pamięci, aby można było przetworzyć to polecenie.' (Address: 00007FF922FA8BAB)
-0x00007FF922FA8BAB ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF9227AFD45)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Za mało zasobów pamięci, aby można było przetworzyć to polecenie.' (Address: 00007FF9227AFD45)
-0x00007FF9227AFD45 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Nie można odnaleźć określonego modułu.' (Address: 00007FF922DBB705)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Za mało zasobów pamięci, aby można było przetworzyć to polecenie.' (Address: 00007FF922DBB705)
-0x00007FF922DBB705 ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Unknown error [-529697949]' (Address: 00007FF61EF02FBA)
-  ERROR: SymGetModuleInfo64, GetLastError: 'Za mało zasobów pamięci, aby można było przetworzyć to polecenie.' (Address: 00007FF61EF02FBA)
-0x00007FF61EF02FBA ((<unknown>)) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Próbowano uzyskać dostęp do nieprawidłowego adresu.' (Address: 00007FF9E1077374)
-0x00007FF9E1077374 (KERNEL32) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Próbowano uzyskać dostęp do nieprawidłowego adresu.' (Address: 00007FF9E1A5CC91)
-0x00007FF9E1A5CC91 (ntdll) (function-name not available)
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs
+  artifactKey: Guid(790744c462254b7ba8038e6ed28b3db2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs using Guid(790744c462254b7ba8038e6ed28b3db2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '05447da181f9732f400c0d8658194b19') in 0.0300671 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
-========== END OF STACKTRACE ===========
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+  artifactKey: Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader using Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '484f1e4af9934180ba6cd0db61960b9a') in 0.0144145 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
-A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/Kotson/AppData/Local/Temp/Unity/Editor/Crashes
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/TextMesh Pro/Resources/TMP Settings.asset
+  artifactKey: Guid(3f5b5dff67a942289a9defa416b206f3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/TMP Settings.asset using Guid(3f5b5dff67a942289a9defa416b206f3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd53fea586cab6e6714e12b5117dd3a75') in 0.0726008 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+  artifactKey: Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt using Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1a06efdcf4ec90cb6928a7b1b625b75e') in 0.0324693 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity
+  artifactKey: Guid(c3f814e1d12c45568daf3dd9a86a0e61) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity using Guid(c3f814e1d12c45568daf3dd9a86a0e61) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0081793a8f79f72d5a4dde24f2d08183') in 0.0474505 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs
+  artifactKey: Guid(686ec78b56aa445795335fbadafcfaa4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs using Guid(686ec78b56aa445795335fbadafcfaa4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bd74ac0f2f863370809a6628334987b1') in 0.0130942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity
+  artifactKey: Guid(f9b4c22e15cff344ba9fc6542a58dd07) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity using Guid(f9b4c22e15cff344ba9fc6542a58dd07) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd349a1fc5f1f13df0a8b6fe0dbf484e3') in 0.0325735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '772cfb97d3cf4b95da6235347866d735') in 0.0254529 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/TextMesh Pro/Sprites
+  artifactKey: Guid(d0603b6d5186471b96c778c3949c7ce2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Sprites using Guid(d0603b6d5186471b96c778c3949c7ce2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1d53fb737c9bada17528c9d27b474cdd') in 0.0134484 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'dccf329bda2907c2b1bf468534d88aa4') in 0.0606198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat
+  artifactKey: Guid(749b9069dc4742c5bfa5c74644049926) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat using Guid(749b9069dc4742c5bfa5c74644049926) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '34e50abd5af7e03863bcde6fc70ba993') in 0.056627 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+  artifactKey: Guid(b06f0e6c1dfa4356ac918da1bb32c603) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab using Guid(b06f0e6c1dfa4356ac918da1bb32c603) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cb41c03a3e1b17795cbda1abe5df174d') in 0.0849588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+  artifactKey: Guid(a3d800b099a06e0478fb790c5e79057a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph using Guid(a3d800b099a06e0478fb790c5e79057a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3450017ad7ba1d4d205bce4c0f96d359') in 0.0090094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
+  artifactKey: Guid(a00013af81304728b2be1f4309ee2433) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat using Guid(a00013af81304728b2be1f4309ee2433) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '438e22b2602dd661a5e1202fcb923893') in 0.0176431 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png
+  artifactKey: Guid(c76d18757a194d618355f05f815cb0a1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png using Guid(c76d18757a194d618355f05f815cb0a1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '182a7cf3915f30a8a7782a88ed392b5d') in 0.0437894 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+  artifactKey: Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt using Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e1c8a12d292452530a538583fd9f8b6a') in 0.0126964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity
+  artifactKey: Guid(9442cda25baa4a0bb544c4d095b00caa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity using Guid(9442cda25baa4a0bb544c4d095b00caa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f502f019dad9fcce48114fd4f0a5c4b4') in 0.0163547 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Scenes/GameSceneSettings.lighting
+  artifactKey: Guid(a8043980b300beb47a213067632bec68) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/GameSceneSettings.lighting using Guid(a8043980b300beb47a213067632bec68) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '18a1f62bc0307301e66130795f0b09b2') in 0.0188752 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs
+  artifactKey: Guid(f7cfa58e417a46ea8889989684c2522e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs using Guid(f7cfa58e417a46ea8889989684c2522e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '104432b9c12979165ecb80fc752e77a9') in 0.0125863 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+  artifactKey: Guid(85187c2149c549c5b33f0cdb02836b17) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader using Guid(85187c2149c549c5b33f0cdb02836b17) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bc93cdee89d89a886c3aab4d0789ed80') in 0.0102099 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs
+  artifactKey: Guid(24b0dc2d1d494adbbec1f4db26b4cf83) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs using Guid(24b0dc2d1d494adbbec1f4db26b4cf83) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e0759ca1ff69f2d2c2ff4eb420d3279d') in 0.0088244 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt
+  artifactKey: Guid(d2cf87a8a7a94aa8b80dff1c807c1178) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt using Guid(d2cf87a8a7a94aa8b80dff1c807c1178) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '46e01a117351a230d8cbed1849515957') in 0.0133193 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e5ed8e995a8462ae564cf9b2f7b01dd8') in 0.0204775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '09c9f9dc6f61b629b8985703ed0ddee2') in 0.007873 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.json
+  artifactKey: Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.json using Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8d01db63e6634ab70efb990e78cbd91f') in 0.0132703 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+  artifactKey: Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader using Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '18286dc8641714c31f058da3fe0ea3d4') in 0.0092005 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs
+  artifactKey: Guid(1a7eb92a01ed499a987bde9def05fbce) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs using Guid(1a7eb92a01ed499a987bde9def05fbce) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1577c5b1ad8d35f9eac6d9c8bc9cfaff') in 0.0094346 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro.cginc
+  artifactKey: Guid(407bc68d299748449bbf7f48ee690f8d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMPro.cginc using Guid(407bc68d299748449bbf7f48ee690f8d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b27b18020209d16c4b46972670d7139b') in 0.0133098 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold - License.txt
+  artifactKey: Guid(f0303f887b8fa7243a51432c478ff2f3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold - License.txt using Guid(f0303f887b8fa7243a51432c478ff2f3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b2282c2cf9d435f718d48f0fdf7ef238') in 0.012432 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg
+  artifactKey: Guid(8878a782f4334ecbbcf683b3ac780966) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg using Guid(8878a782f4334ecbbcf683b3ac780966) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9cd870ee524f3126c16a648577b6dae4') in 0.0169775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat
+  artifactKey: Guid(c719e38f25a9480abd2480ab621a2949) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat using Guid(c719e38f25a9480abd2480ab621a2949) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a37073541b27cdef6177c444ab10eb7b') in 0.0332485 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c530a017c3af81f34cac11d6c7d8442f') in 0.0135035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
+  artifactKey: Guid(124c112a6e8f1a54e8b0870e881b56d8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph using Guid(124c112a6e8f1a54e8b0870e881b56d8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a4fd72f2c248db96bda6123ed2fb4e73') in 0.0095612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs
+  artifactKey: Guid(e32c266ee6204b21a427753cb0694c81) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs using Guid(e32c266ee6204b21a427753cb0694c81) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5d74b701fa254e0d5692008444671e66') in 0.0087312 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+  artifactKey: Guid(48bb5f55d8670e349b6e614913f9d910) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader using Guid(48bb5f55d8670e349b6e614913f9d910) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '59d561a812cfcdb0649400a2aa9c8981') in 0.0090606 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs
+  artifactKey: Guid(6f2c5b59b6874405865e2616e4ec276a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs using Guid(6f2c5b59b6874405865e2616e4ec276a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '05447df54b69840bd1a48a08838128ee') in 0.0093181 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity
+  artifactKey: Guid(875684baf40f4d008ce806d03e2a81b2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity using Guid(875684baf40f4d008ce806d03e2a81b2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ee1da8541fd7a2851d4af3089930a38b') in 0.0150635 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Sprites
+  artifactKey: Guid(701e577af2ba48b689972d42efb95456) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Sprites using Guid(701e577af2ba48b689972d42efb95456) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6b0de22750b615adec5801c69b0cc383') in 0.007834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+  artifactKey: Guid(0178fcb869bafef4690d177d31d17db8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader using Guid(0178fcb869bafef4690d177d31d17db8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '175870f41333ddb379e7891e66e8a8ba') in 0.009611 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+  artifactKey: Guid(10c49fcd9c64421db7c0133e61e55f97) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd using Guid(10c49fcd9c64421db7c0133e61e55f97) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '49f59a83afbd9f50f1d8f58652c4b502') in 0.0177874 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity
+  artifactKey: Guid(6250f98e58fe4abbaada5d84b7ca846d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity using Guid(6250f98e58fe4abbaada5d84b7ca846d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '22567019a04d94138bf206b025f66c75') in 0.0141915 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+  artifactKey: Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph using Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '69cf2aeff6f36667d145a23967b1f893') in 0.0091737 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity
+  artifactKey: Guid(03ec435d4b7140e9b2d87f79136d8374) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity using Guid(03ec435d4b7140e9b2d87f79136d8374) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7ebaf65ca6e3c667b27e6c83770e55e4') in 0.0153768 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures
+  artifactKey: Guid(6e5c6d5e25574122a7a12dbdbbeed156) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures using Guid(6e5c6d5e25574122a7a12dbdbbeed156) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd6cd1880e40907dca13a9d9558e9dfd0') in 0.0075318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+  artifactKey: Guid(fdad9d952ae84cafb74c63f2e694d042) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab using Guid(fdad9d952ae84cafb74c63f2e694d042) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ee3f78eeee4d158c9971b76b3223fe7c') in 0.0819849 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e94063a370b661cd40de28099841603f') in 0.0241958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.937306 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity
+  artifactKey: Guid(3e2e4d7b0bed4cf9ab827e9f32448f69) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity using Guid(3e2e4d7b0bed4cf9ab827e9f32448f69) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8ed517a5643f2fbcd69617af9174da7c') in 0.0217785 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset
+  artifactKey: Guid(14aa93acbb234d16aaef0e8b46814db6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset using Guid(14aa93acbb234d16aaef0e8b46814db6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fed2da92ce87886a81362e8d0b97a75f') in 0.0336781 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Prefabs/HeadBounce.prefab
+  artifactKey: Guid(c86162b2247de824eb45907dea67d81e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs/HeadBounce.prefab using Guid(c86162b2247de824eb45907dea67d81e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f9b2c5ed3e6fddb80957041a8e20fb32') in 0.0576227 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity
+  artifactKey: Guid(8c4969fd8ba94a68b07cf11f3e7a5137) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity using Guid(8c4969fd8ba94a68b07cf11f3e7a5137) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '438bc5b0f09a02725dd053094a005767') in 0.0283311 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt
+  artifactKey: Guid(efe0bf4ac872451e91612d1ae593f480) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt using Guid(efe0bf4ac872451e91612d1ae593f480) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5a80d79cea37d8de6b32cd92227fa601') in 0.018343 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+  artifactKey: Guid(997a43b767814dd0a7642ec9b78cba41) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf using Guid(997a43b767814dd0a7642ec9b78cba41) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4e8a3ba79d5967489d7b24768fb41fb3') in 0.0217613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras
+  artifactKey: Guid(ce51c8e33b734b4db6086586558c53a3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras using Guid(ce51c8e33b734b4db6086586558c53a3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'dad5da4136dff59d349a3090265ddc48') in 0.0103416 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity
+  artifactKey: Guid(84ed36ad77dd4956b2ffe3769f759879) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity using Guid(84ed36ad77dd4956b2ffe3769f759879) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bc2ccff41fa2309d5488f79800904303') in 0.0199855 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b6af503b59b9e9e1533b27eff9316040') in 0.0291209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg
+  artifactKey: Guid(03d0538de6e24c0f819bfc9ce084dfa9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg using Guid(03d0538de6e24c0f819bfc9ce084dfa9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e1f7009b9610bbb3dc4a72d7186a7047') in 0.026527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+  artifactKey: Guid(bb8dfcd263ad4eb383a33d74a720be6f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd using Guid(bb8dfcd263ad4eb383a33d74a720be6f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cd51ded992848aac6c9033f55a89c42b') in 0.0306598 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs
+  artifactKey: Guid(a73109742c8d47ac822895a473300c29) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs using Guid(a73109742c8d47ac822895a473300c29) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7df0d99ed7838a241488d948bf8f1a98') in 0.012419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+  artifactKey: Guid(125cb55b44b24c4393181402bc6200e6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset using Guid(125cb55b44b24c4393181402bc6200e6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '10a45c552f23d4cf875482372d3d94d0') in 0.0244043 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts
+  artifactKey: Guid(b63e0053080646b9819789bf3bf9fa17) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts using Guid(b63e0053080646b9819789bf3bf9fa17) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bc9284b4664f9ef74a056549be7040ec') in 0.0119645 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Unity.ttf
+  artifactKey: Guid(f4eec857a4fdf2f43be0e9f3d1a984e7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Unity.ttf using Guid(f4eec857a4fdf2f43be0e9f3d1a984e7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9bd22a1e183a15dd93cdcf4a282243f9') in 0.0244576 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat
+  artifactKey: Guid(42df1c7856584b6b8db9a509b6b10074) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat using Guid(42df1c7856584b6b8db9a509b6b10074) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ed02fec2b04cc4e07c7b19ca52125602') in 0.0346213 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e8df0ec6b60564644b79412ef118d69d') in 0.0233072 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Prefabs
+  artifactKey: Guid(5bff2544887143f5807c7d5059d07f79) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs using Guid(5bff2544887143f5807c7d5059d07f79) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '955d1e591ea445190702b19f33e018ee') in 0.0118258 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity
+  artifactKey: Guid(70615243e2be4a81afaab9bf5d273d65) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity using Guid(70615243e2be4a81afaab9bf5d273d65) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '40d09cd435c2fe52aa226c74691c6bb5') in 0.0266748 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg
+  artifactKey: Guid(6eb184de103d4b3f812b38561065192f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg using Guid(6eb184de103d4b3f812b38561065192f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b1d0940f9171e9d58eb7b35be8382320') in 0.0249912 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity
+  artifactKey: Guid(2ac8cf212df6445e8aebbe3cb832e993) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity using Guid(2ac8cf212df6445e8aebbe3cb832e993) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '761930981c02c0f5c7d5172dabdd923d') in 0.0214506 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HorizontalLineAttributeProcessor.cs
+  artifactKey: Guid(ae9d18acdc457450ea42f886ab9a9158) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HorizontalLineAttributeProcessor.cs using Guid(ae9d18acdc457450ea42f886ab9a9158) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a6947276d64ca3278758c8c795ba7b18') in 0.013235 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/BoxGroupAttribute.cs
+  artifactKey: Guid(f3a7b70a9819341948c6c1f617307359) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/BoxGroupAttribute.cs using Guid(f3a7b70a9819341948c6c1f617307359) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e4ba0a72da1b2348302a4d78a0ec0ea2') in 0.0169953 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/OnValueChangedAttributeProcessor.cs
+  artifactKey: Guid(3d257440bc9b64dc9a8e3c0ec7ecab97) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/OnValueChangedAttributeProcessor.cs using Guid(3d257440bc9b64dc9a8e3c0ec7ecab97) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '19afa4033e315b63a0a1e0efec6e582a') in 0.0119123 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HelpBoxIfAttributeProcessor.cs
+  artifactKey: Guid(7d6392ca7b5094ba0b13c8e20d83ccd4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HelpBoxIfAttributeProcessor.cs using Guid(7d6392ca7b5094ba0b13c8e20d83ccd4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6d52788068f095f98621be1803919a12') in 0.0136419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(5d323469836131046afee3191792cf82) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs using Guid(5d323469836131046afee3191792cf82) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '217db3ad539e21ef6b1e2ff824d53e99') in 0.0101552 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor
+  artifactKey: Guid(8d3d98e8e45af4d73979ff529b984130) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor using Guid(8d3d98e8e45af4d73979ff529b984130) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3547b8e2dcaa97f483bf5553cd2aedab') in 0.0191619 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(720712be6e31c444f88f57bb85bf5fa5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins using Guid(720712be6e31c444f88f57bb85bf5fa5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8fef65f4a15b95375994dbee712071c6') in 0.0104621 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Animations/CatLoading.anim
+  artifactKey: Guid(f5783508ee9575745bd08994d9887c07) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/CatLoading.anim using Guid(f5783508ee9575745bd08994d9887c07) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'aa38a5fdf51cd988e84c86413e843205') in 0.0209735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(2f7b9d1f4d9e58347b2d4293b1f795d2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts using Guid(2f7b9d1f4d9e58347b2d4293b1f795d2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '50f1931a48ace800d11495ef2da2dfd7') in 0.0113982 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/XR
+  artifactKey: Guid(10897882d6061ac4a88a2c2c98c92199) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/XR using Guid(10897882d6061ac4a88a2c2c98c92199) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8ff55ae7f00bb2212e20b26acc8d7fd0') in 0.0099311 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/EditorIcons.cs
+  artifactKey: Guid(35da294de93e241ddad74d97647c0672) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/EditorIcons.cs using Guid(35da294de93e241ddad74d97647c0672) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'df43fd2e6516b3a5709c9ff434d9b1a7') in 0.0119714 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Animations/tlo2.controller
+  artifactKey: Guid(51604e388bc361442a8b6b6a70f4a705) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/tlo2.controller using Guid(51604e388bc361442a8b6b6a70f4a705) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '08edc941b38bd15f986d6e463e3326d3') in 0.0120372 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Animations/HeadDead_0.controller
+  artifactKey: Guid(e092c9947798a794c8d795cd4cb8c114) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/HeadDead_0.controller using Guid(e092c9947798a794c8d795cd4cb8c114) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '665582c34749a98d881955666d5f0dd8') in 0.0127208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/IndentAttributeProcessor.cs
+  artifactKey: Guid(c5248ff57c43c4e6fa6108ce82ad2181) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/IndentAttributeProcessor.cs using Guid(c5248ff57c43c4e6fa6108ce82ad2181) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '143797d030fbed69949ad659bd1bd8ed') in 0.0132232 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+  artifactKey: Guid(dae2ecee8a704dd59797e26554ff8606) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/GitHub/Editor/ExtensionLoader.cs using Guid(dae2ecee8a704dd59797e26554ff8606) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bf44aab8dc962cdf0235e28cc4854b6a') in 0.0122769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Prefabs/explosion.prefab
+  artifactKey: Guid(772a84aeca5b90f44815a129feeb3059) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs/explosion.prefab using Guid(772a84aeca5b90f44815a129feeb3059) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '830a8c2e76b91a658041486988bd8ce0') in 0.0430427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Utils/InspectorPropertyUtil.cs
+  artifactKey: Guid(cb96b6984d4004d9c855f20b38e1b75c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Utils/InspectorPropertyUtil.cs using Guid(cb96b6984d4004d9c855f20b38e1b75c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c6da218ef8d5e273b381a393d8dab5a3') in 0.0122025 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Plugins/GitHub
+  artifactKey: Guid(18e096a98c2704c40a818dd1214cd179) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/GitHub using Guid(18e096a98c2704c40a818dd1214cd179) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '557cac73b2daafed5b86bd57180bd7c6') in 0.010778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/BlockquoteAttribute.cs
+  artifactKey: Guid(47b0239bff3ab402ba57bb4e0fb79b8e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/BlockquoteAttribute.cs using Guid(47b0239bff3ab402ba57bb4e0fb79b8e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '778fae0f0ae8afa6dce40039f29c3346') in 0.0132916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/LabelTextAttribute.cs
+  artifactKey: Guid(8d22bd82ea1fe413d924d171177e9dcd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/LabelTextAttribute.cs using Guid(8d22bd82ea1fe413d924d171177e9dcd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6dbacb843eddf958a84e8dd03f3539bc') in 0.0129991 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Scenes/Black1.unity
+  artifactKey: Guid(653cb5c346c6bc74ca9301837ce66ab2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/Black1.unity using Guid(653cb5c346c6bc74ca9301837ce66ab2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a2e824f2b3f76fbb1da597a51886ac53') in 0.0365924 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Animations/New Animation.anim
+  artifactKey: Guid(765bae4c3da68434c85c80432d5bc3d2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/New Animation.anim using Guid(765bae4c3da68434c85c80432d5bc3d2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '33f90b79c683d882c9afe32642adb2ed') in 0.013175 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/DisableInEditModeAttribute.cs
+  artifactKey: Guid(04a456283dded4db2ad580307f041cc8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/DisableInEditModeAttribute.cs using Guid(04a456283dded4db2ad580307f041cc8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2693e8aecd13f07e1b8f961edc38b51d') in 0.0178981 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/DisableInEditModeAttributeProcessor.cs
+  artifactKey: Guid(fa2ac94d8dc9d4c0fa7e5289272fd97b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/DisableInEditModeAttributeProcessor.cs using Guid(fa2ac94d8dc9d4c0fa7e5289272fd97b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4154b6ee7286448db7aba6fa8bd9f787') in 0.0128912 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity
+  artifactKey: Guid(349f38d3606449708c7340d26740e1e2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity using Guid(349f38d3606449708c7340d26740e1e2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2cfe6f8f837cbe1b95a032aa0aa3be93') in 0.0215068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset
+  artifactKey: Guid(69a525efa7e6472eab268f6ea605f06e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset using Guid(69a525efa7e6472eab268f6ea605f06e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f8a5e4a54b0b81be8c1292f35bab210c') in 0.0205043 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Prefabs/HeadBounceDead.prefab
+  artifactKey: Guid(f349418c6b09d0c40ad009a61c984a2b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs/HeadBounceDead.prefab using Guid(f349418c6b09d0c40ad009a61c984a2b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f7f5811ddea2fed823558e189a89f622') in 0.0332851 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat
+  artifactKey: Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat using Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ef4a6f973cdb0f6d2634a6817feb6871') in 0.0218372 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/PropertyGroupAttribute.cs
+  artifactKey: Guid(7b392fbe0b30f41f5a72d7f6d4eb3164) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/PropertyGroupAttribute.cs using Guid(7b392fbe0b30f41f5a72d7f6d4eb3164) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6c2e9b6dae2d8f3f34152b18006a2dd7') in 0.0125393 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/LucidEditorPrefs.cs
+  artifactKey: Guid(440549d8b0a5a4e4ca2a56d26b539708) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/LucidEditorPrefs.cs using Guid(440549d8b0a5a4e4ca2a56d26b539708) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '57d87b9d293343481ae7dcc80ca346e7') in 0.0120904 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HorizontalGroupAttributeProcessor.cs
+  artifactKey: Guid(ba7ac005c37994f3080a24e976c6f223) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HorizontalGroupAttributeProcessor.cs using Guid(ba7ac005c37994f3080a24e976c6f223) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '309ed987db58dd5f591ecf0dc4f191bb') in 0.0145989 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/TitleHeaderAttributeProcessor.cs
+  artifactKey: Guid(4bf9692430a8b4778bf1d8710eed95f4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/TitleHeaderAttributeProcessor.cs using Guid(4bf9692430a8b4778bf1d8710eed95f4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4db52d6edeb141cda7d9206ad06146e9') in 0.0141996 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HelpBoxAttributeProcessor.cs
+  artifactKey: Guid(cd2f68c11fb2d4dfe9dcbbf14f1bcbcd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HelpBoxAttributeProcessor.cs using Guid(cd2f68c11fb2d4dfe9dcbbf14f1bcbcd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '06ec0a482c66045c94a43aefd623b1cc') in 0.0185104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/PropertyProcessor.cs
+  artifactKey: Guid(061615b3be8c1451989253905362b0a1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/PropertyProcessor.cs using Guid(061615b3be8c1451989253905362b0a1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'edc392d3017da5d220afd583f17f2ac7') in 0.011816 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HelpBoxIfAttribute.cs
+  artifactKey: Guid(c0f4e5582478f44ec975f0308daad725) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HelpBoxIfAttribute.cs using Guid(c0f4e5582478f44ec975f0308daad725) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cae0fb36db300c86ba394e0e8059dec5') in 0.0122983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Map - K/Texture
+  artifactKey: Guid(4fb7661537e28884697bca33184bdaa0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Map - K/Texture using Guid(4fb7661537e28884697bca33184bdaa0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd91bf797617b6da97109aa6343a01835') in 0.0100874 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/AssetsOnlyAttributeProcessor.cs
+  artifactKey: Guid(fd9e1c6dc2e2a6f41993a36ad5dad550) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/AssetsOnlyAttributeProcessor.cs using Guid(fd9e1c6dc2e2a6f41993a36ad5dad550) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '14403fd88dacb6015a0188505bfac577') in 0.0118829 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF.asset
+  artifactKey: Guid(c9adb1f542a93ae489bacfeae21e8394) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF.asset using Guid(c9adb1f542a93ae489bacfeae21e8394) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '91d96c4e9cf550f6764042c6543afb5c') in 0.0521967 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Plugins/GitHub/Editor/x86
+  artifactKey: Guid(99b48d4d4f6a66340ab06bd487d70a45) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/GitHub/Editor/x86 using Guid(99b48d4d4f6a66340ab06bd487d70a45) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8108488124d996cd4a82e752e2b644fc') in 0.0112959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Animations/test111.anim
+  artifactKey: Guid(9da759672109f3b46884adf0177285e3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/test111.anim using Guid(9da759672109f3b46884adf0177285e3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3f28b32701ac656c271a5336933129ad') in 0.0209822 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ShowInInspectorAttribute.cs
+  artifactKey: Guid(ec165e79e1de34fc1bbe7483fde76337) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ShowInInspectorAttribute.cs using Guid(ec165e79e1de34fc1bbe7483fde76337) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fc2362d99bb6aae6dd0615ce6af84893') in 0.0220393 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Animations/Crossfade.controller
+  artifactKey: Guid(208259a3511074e47bd5b42ad495343c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Crossfade.controller using Guid(208259a3511074e47bd5b42ad495343c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b7d653093cf293809128db582d7061af') in 0.0138679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs
+  artifactKey: Guid(2787a46a4dc848c1b4b7b9307b614bfd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs using Guid(2787a46a4dc848c1b4b7b9307b614bfd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cf4518873035e218439baca2104816ef') in 0.0125711 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(62862bce61f31cc4da087f2a4da484af) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Materials using Guid(62862bce61f31cc4da087f2a4da484af) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8cdd9076fc26fe4ef1708fabe514ebf3') in 0.0113371 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/PropertyOrderAttributeProcessor.cs
+  artifactKey: Guid(66e1690dd88604788ba6880d96dedf78) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/PropertyOrderAttributeProcessor.cs using Guid(66e1690dd88604788ba6880d96dedf78) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3b4dc5fe3915f7e8420a0f6d612ca703') in 0.0138772 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/InspectorProperty/InspectorProperty.cs
+  artifactKey: Guid(ffcdb64de16564251aeda3d6c3fd9861) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/InspectorProperty/InspectorProperty.cs using Guid(ffcdb64de16564251aeda3d6c3fd9861) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '74867a5e8de5dfc2162bbb1b7e197e7a') in 0.0143828 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Plugins/GitHub/Editor
+  artifactKey: Guid(cad92998c5182496e8b989b406d9f156) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/GitHub/Editor using Guid(cad92998c5182496e8b989b406d9f156) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8dc745ed415bd40fa267e86cd92b4c52') in 0.0122924 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Animations/HeadBounceDead.anim
+  artifactKey: Guid(32827e0e5f4bca343b8b43892c217e0f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/HeadBounceDead.anim using Guid(32827e0e5f4bca343b8b43892c217e0f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '37774aaaff3098ffb1de87daf67763ea') in 0.017115 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - HDRP Unlit.mat
+  artifactKey: Guid(2ddca8f46aa0838419d568affb0ca6b4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - HDRP Unlit.mat using Guid(2ddca8f46aa0838419d568affb0ca6b4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '32af56ccaf10df88bb6afd65b7c1b9c9') in 0.0279709 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HelpBoxAttribute.cs
+  artifactKey: Guid(e0c030ea97c614276b4dc9e458a48dad) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HelpBoxAttribute.cs using Guid(e0c030ea97c614276b4dc9e458a48dad) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4d56a84ee3700299aca44bd21acf69fc') in 0.0121554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Plugins/GitHub/Editor/eula.txt
+  artifactKey: Guid(136dc24f151211d438acee17aff4e934) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/GitHub/Editor/eula.txt using Guid(136dc24f151211d438acee17aff4e934) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '89dba5e6d70bc76bb2bfa77277a4d54b') in 0.0188374 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs
+  artifactKey: Guid(2ed57967c52645d390a89dcf8f61ba73) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs using Guid(2ed57967c52645d390a89dcf8f61ba73) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f9168a6e58cd8a9359e0e8607a6058e4') in 0.0146187 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity
+  artifactKey: Guid(39a1fa96ad2a449b908fca29d4297a74) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity using Guid(39a1fa96ad2a449b908fca29d4297a74) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'accd3885b70cdc5a2e4cf585c6103d24') in 0.0240533 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Animations/HeadBounce_0.controller
+  artifactKey: Guid(9f24b284ab237b84b988d7e194928e38) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/HeadBounce_0.controller using Guid(9f24b284ab237b84b988d7e194928e38) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bd6cb82fef499819d8d942835e4ee7d8') in 0.0127428 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity
+  artifactKey: Guid(9747140c28254be2adc582210dfb89b8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity using Guid(9747140c28254be2adc582210dfb89b8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a15703f106893b9e39de342f0b83b35c') in 0.0224802 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat
+  artifactKey: Guid(aadd5a709a48466c887296bb5b1b8110) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat using Guid(aadd5a709a48466c887296bb5b1b8110) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '29095dd372ff0665b87eae08152e9b6b') in 0.039769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Map - K/Texture/lawa4.PNG
+  artifactKey: Guid(5d5f993706519e04c8a5c00c31b24890) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Map - K/Texture/lawa4.PNG using Guid(5d5f993706519e04c8a5c00c31b24890) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '087197c0561a4c41727bd3c54c2179fc') in 0.0416774 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Enum.cs
+  artifactKey: Guid(79f719a60f0084736a0f921bbba77274) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Enum.cs using Guid(79f719a60f0084736a0f921bbba77274) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c8886e64b88ec592feddebc4db8f8777') in 0.0120305 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Cainos
+  artifactKey: Guid(33a01e42851e7b346b31a05ded519448) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos using Guid(33a01e42851e7b346b31a05ded519448) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '15e489e81b9a6e936fdc8d44f230e226') in 0.0110312 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/FoldoutGroupAttribute.cs
+  artifactKey: Guid(fe1f3a8dfb58c449090899088d5112a5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/FoldoutGroupAttribute.cs using Guid(fe1f3a8dfb58c449090899088d5112a5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e41b8acb9fb45cb21b148baf83e8bc31') in 0.0131591 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/TabGroupAttributeProcessor.cs
+  artifactKey: Guid(d45600b0c539d4c6fa756bdd48e5d574) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/TabGroupAttributeProcessor.cs using Guid(d45600b0c539d4c6fa756bdd48e5d574) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9cdbf51fbb8bbbb6217231d341c768a1') in 0.0128514 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/SectionHeaderAttribute.cs
+  artifactKey: Guid(f30c7a1e0a0b64733866abf0e57a0fde) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/SectionHeaderAttribute.cs using Guid(f30c7a1e0a0b64733866abf0e57a0fde) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '937a8fac7c2d7185dbbb89ed60bcbdc0') in 0.013526 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Animations/Loading1.anim
+  artifactKey: Guid(4a178c91109ffb748816cdcd6eea58b8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Loading1.anim using Guid(4a178c91109ffb748816cdcd6eea58b8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '01c45406e5fb7ade4ee78e4f842980e4') in 0.0142612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Scenes/Black3.unity
+  artifactKey: Guid(5d0dacccf8777014e964afa893f4cb92) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/Black3.unity using Guid(5d0dacccf8777014e964afa893f4cb92) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '31acc216e89f71e8085c55952d9a06f3') in 0.0716876 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/TextMesh Pro/Fonts/Crumbled-Pixels.ttf
+  artifactKey: Guid(4951f642e53d01745a07448ee78039aa) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Fonts/Crumbled-Pixels.ttf using Guid(4951f642e53d01745a07448ee78039aa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b867cc5609f7284f9b6bb4691c169e8d') in 0.0258727 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Scenes/OpeningScene.unity
+  artifactKey: Guid(641a9b5ad2a04f54c9165a3bfc2de2fb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/OpeningScene.unity using Guid(641a9b5ad2a04f54c9165a3bfc2de2fb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '554f4ce507a0f60c78eb9f2e9d2ba7a1') in 0.0219198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Animations/head1d_0.controller
+  artifactKey: Guid(d2d5c4445675cf64397127cea4ede6f7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/head1d_0.controller using Guid(d2d5c4445675cf64397127cea4ede6f7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4670c275c3cd40bdfdf0c79fdb43a633') in 0.0130594 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Cainos/Common/Texture/Utils
+  artifactKey: Guid(f4866c9c87e6f2b479013c1e0ac75abc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Common/Texture/Utils using Guid(f4866c9c87e6f2b479013c1e0ac75abc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '38c3d1679924d5122f5349fcde94e191') in 0.0108391 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Map - K/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Map - K/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '60f71fd12fded148087a7684d165cc4e') in 0.4351493 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 193
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Map - K/Texture/TX Tileset Ground.png
+  artifactKey: Guid(157cbc340d2b7e64ab85168e80e95550) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Map - K/Texture/TX Tileset Ground.png using Guid(157cbc340d2b7e64ab85168e80e95550) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'aa146127f5ae70febfb0f5399634f1fd') in 0.310799 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 167
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/SFX/barrel-exploding-soundbible.mp3
+  artifactKey: Guid(e2fdc7c6c3393d647829f485dc148e63) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/SFX/barrel-exploding-soundbible.mp3 using Guid(e2fdc7c6c3393d647829f485dc148e63) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9d91d9f48145cd9062ec4d13c9b903ba') in 0.0420004 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ValidateInputAttribute.cs
+  artifactKey: Guid(63c421ef8437043589a631c5b71eb4fb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ValidateInputAttribute.cs using Guid(63c421ef8437043589a631c5b71eb4fb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f49212539a7b7cc6a7fbab2954f43f9b') in 0.0123252 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/BoxGroupAttributeProcessor.cs
+  artifactKey: Guid(aa8e0443ca95e4acb8ff72f33ad827a7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/BoxGroupAttributeProcessor.cs using Guid(aa8e0443ca95e4acb8ff72f33ad827a7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '51f0f64154f7ecd60c730988699d0e7f') in 0.0137614 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/SFX/dungeonAudioSource.mp3
+  artifactKey: Guid(ec620c7318a2efc49a01b701b05a68b7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/SFX/dungeonAudioSource.mp3 using Guid(ec620c7318a2efc49a01b701b05a68b7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8e8daf8263adf9ea7b2f462e27f3e3f2') in 0.0376458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Cainos/Common/Script/Utils/SecondOrderDynamics.cs
+  artifactKey: Guid(2534c9c5f1c7abc46893edf3791a98cd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Common/Script/Utils/SecondOrderDynamics.cs using Guid(2534c9c5f1c7abc46893edf3791a98cd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '06da6c296afbec40e1fb4f2ea55c38c0') in 0.0136758 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Cainos/Common/Script/Utils
+  artifactKey: Guid(8e1857fb5adc1744885c19f73a68a869) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Common/Script/Utils using Guid(8e1857fb5adc1744885c19f73a68a869) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '16f2265416492575c7dc222b9c345022') in 0.0124403 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/GroupAttributeProcessor.cs
+  artifactKey: Guid(881f22c00ad84426d9c0ac07a3a097e1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/GroupAttributeProcessor.cs using Guid(881f22c00ad84426d9c0ac07a3a097e1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b1dcf622d89e1ad5eb461bddcf829b45') in 0.0138103 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/OnValueChangedAttribute.cs
+  artifactKey: Guid(1a23e0219082d4783867105c8a74b1d7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/OnValueChangedAttribute.cs using Guid(1a23e0219082d4783867105c8a74b1d7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2d444cbb5510a6aac92e5968017f8649') in 0.0133594 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs
+  artifactKey: Guid(43bcd35a1c0c40ccb6d472893fe2093f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs using Guid(43bcd35a1c0c40ccb6d472893fe2093f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7ea5f2681598ee8a4398781ff00c8d66') in 0.0127896 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt
+  artifactKey: Guid(73a79399807f4e8388c2cbb5494681ca) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt using Guid(73a79399807f4e8388c2cbb5494681ca) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5d5a5a4f7c15f9c896b0dabfc44949d3') in 0.0198875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+  artifactKey: Guid(c9f6d0e7bc8541498c9a4799ba184ede) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf using Guid(c9f6d0e7bc8541498c9a4799ba184ede) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ec2fdd385686eae3e71669670dd00795') in 0.0166634 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/LucidGUIEvent.cs
+  artifactKey: Guid(4eeb1ca2f96dc4b5eafd655ef421493a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/LucidGUIEvent.cs using Guid(4eeb1ca2f96dc4b5eafd655ef421493a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '243b97c83e160a487bb0f40b2259b18d') in 0.0134651 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs
+  artifactKey: Guid(e4e0d9ccee5f4950be8979268c9014e0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs using Guid(e4e0d9ccee5f4950be8979268c9014e0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fa68573194d0a987eddd31245246b536') in 0.0169991 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Extensions/SerializedPropertyExtensions.cs
+  artifactKey: Guid(f5e8e6d54dc4c477cb5b6a472790e6bf) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Extensions/SerializedPropertyExtensions.cs using Guid(f5e8e6d54dc4c477cb5b6a472790e6bf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3bf4a3ee639ea4918081bd94be516873') in 0.0116807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Cainos/Common/Texture/Utils/TX Utils Checker.png
+  artifactKey: Guid(9f38ccca1cb4ef644b486a69e9cef663) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Common/Texture/Utils/TX Utils Checker.png using Guid(9f38ccca1cb4ef644b486a69e9cef663) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '06bfcf56f583f228585a88e519916af5') in 0.0251451 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/InspectorProperty/InspectorButton.cs
+  artifactKey: Guid(caf111390d23e46798c4df039cd07324) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/InspectorProperty/InspectorButton.cs using Guid(caf111390d23e46798c4df039cd07324) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cbe5b57458246ced42f341fd4eeceb39') in 0.0114861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat
+  artifactKey: Guid(f2dcf029949142e28b974630369c8b4e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat using Guid(f2dcf029949142e28b974630369c8b4e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e4baaf17812c4f5591ce4ad53bfdf2d8') in 0.0217787 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HideIfAttribute.cs
+  artifactKey: Guid(00a6385f3e58a408e85760e29c92acda) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HideIfAttribute.cs using Guid(00a6385f3e58a408e85760e29c92acda) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'eb0701775615f133fe0969ffcb14ef8d') in 0.0116844 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ShowIfAttribute.cs
+  artifactKey: Guid(feeefb731cdeb4976b8c98e1a0cbf45e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ShowIfAttribute.cs using Guid(feeefb731cdeb4976b8c98e1a0cbf45e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e12100ceff92e59d780e91fd28771daa') in 0.0121975 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs
+  artifactKey: Guid(dc20866c0d5e413ab7559440e15333ae) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs using Guid(dc20866c0d5e413ab7559440e15333ae) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8e7b8702f8cc8d1836ce93bbeab246b4') in 0.0185318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg
+  artifactKey: Guid(f88677df267a41d6be1e7a6133e7d227) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg using Guid(f88677df267a41d6be1e7a6133e7d227) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3be866ac0c6f893ab2f10b2df75c034d') in 0.0184849 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs
+  artifactKey: Guid(a05dcd8be7ec4ccbb35c26219884aa37) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs using Guid(a05dcd8be7ec4ccbb35c26219884aa37) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8e679961542169c798b80d940928ecfc') in 0.0129642 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs
+  artifactKey: Guid(d736ce056cf444ca96e424f4d9c42b76) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs using Guid(d736ce056cf444ca96e424f4d9c42b76) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8aaa338c7a9f4e30893064d7df444cae') in 0.0127191 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/XR/XRGeneralSettingsPerBuildTarget.asset
+  artifactKey: Guid(e2b9308c6e11917429a6ab2e1382c352) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/XR/XRGeneralSettingsPerBuildTarget.asset using Guid(e2b9308c6e11917429a6ab2e1382c352) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3dbf9ef65de934cabbeb7c0932bd5446') in 0.0366549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Cainos/Third Party
+  artifactKey: Guid(65ad284595c106a4c92f70122338ff9f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party using Guid(65ad284595c106a4c92f70122338ff9f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd9bfbb404c8db83ce32c89983616558f') in 0.0106583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/SerializedPropertyUtility.cs
+  artifactKey: Guid(077275b0319ec3c40811ead35de88b65) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/SerializedPropertyUtility.cs using Guid(077275b0319ec3c40811ead35de88b65) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5b5c84655f372f4953d4cd99976207a4') in 0.0121364 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/LabelWidthAttribute.cs
+  artifactKey: Guid(7430b1710086a44739b7aadb5ec311dd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/LabelWidthAttribute.cs using Guid(7430b1710086a44739b7aadb5ec311dd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'adc629d838a6e7ca91cd91ccc89c6409') in 0.0115791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/RequiredAttributeProcessor.cs
+  artifactKey: Guid(9a9f019eeb7b7447c869ced7a62600ec) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/RequiredAttributeProcessor.cs using Guid(9a9f019eeb7b7447c869ced7a62600ec) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5cec23536c86479947db65301a27b42f') in 0.011632 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/LucidEditor.cs
+  artifactKey: Guid(f1c419d127e634bb7807d7e507a43a0b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/LucidEditor.cs using Guid(f1c419d127e634bb7807d7e507a43a0b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5b586c7b5c1f8859b6ab2a7463840587') in 0.0117735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets
+  artifactKey: Guid(7f422cd1388b01047a58cd07c7a23d9d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets using Guid(7f422cd1388b01047a58cd07c7a23d9d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '78583d4b80ef143da5a9479ffff7e21f') in 0.0117166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs
+  artifactKey: Guid(e8538afcddc14efbb5d9e94b7ae50197) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs using Guid(e8538afcddc14efbb5d9e94b7ae50197) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '750d68f86b9b36a3c2513a4b665abdde') in 0.0189626 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/BlockquoteAttributeProcessor.cs
+  artifactKey: Guid(0ed2d80f5f80a459faf430e73df69e01) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/BlockquoteAttributeProcessor.cs using Guid(0ed2d80f5f80a459faf430e73df69e01) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '88e62a35f26b7434635ee6eab4fcee90') in 0.0484407 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/LabelWidthAttributeProcessor.cs
+  artifactKey: Guid(fa081df837cda49f39fffedcc6eb4eb8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/LabelWidthAttributeProcessor.cs using Guid(fa081df837cda49f39fffedcc6eb4eb8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7c68e475bf07b7760a4be54924393201') in 0.0265595 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Animations/test.anim
+  artifactKey: Guid(877e571b9784c444c92ae2b0cd35c176) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/test.anim using Guid(877e571b9784c444c92ae2b0cd35c176) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0dc3cac6e986d362e7b505561d30ada5') in 0.0263002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/LeverLoader.cs
+  artifactKey: Guid(30c36885355d41d44b233165ad9a2576) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/LeverLoader.cs using Guid(30c36885355d41d44b233165ad9a2576) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cf3ba34e049ed7706a788dc2958092f9') in 0.0321635 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat
+  artifactKey: Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat using Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6094931da22fddacf58235701d6b63b9') in 0.0365268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ButtonAttribute.cs
+  artifactKey: Guid(3450506bfd5c940439d2a7f9f1878f92) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ButtonAttribute.cs using Guid(3450506bfd5c940439d2a7f9f1878f92) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a9b1f09d3df4b1e8d5b53c11ec08cdfc') in 0.019167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Scripts/granpa.cs
+  artifactKey: Guid(f4d50a4191625c247b0601ae2a01e858) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/granpa.cs using Guid(f4d50a4191625c247b0601ae2a01e858) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cde3208fcca0839fcc3ddf7bc785ca59') in 0.0192816 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow - 2 Pass.mat
+  artifactKey: Guid(947a44964e53bf0448ff698b2a2219c0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow - 2 Pass.mat using Guid(947a44964e53bf0448ff698b2a2219c0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4352479aa6fea18e0be53b487b814d94') in 0.0280385 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SFX/skyblockAudioSource.mp3
+  artifactKey: Guid(4bc03589677894248abbe45547e69971) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/SFX/skyblockAudioSource.mp3 using Guid(4bc03589677894248abbe45547e69971) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8e6d7f104b9e5defe9bba2c37f8b983d') in 0.0470617 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+

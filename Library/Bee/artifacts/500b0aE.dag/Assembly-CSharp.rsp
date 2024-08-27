@@ -478,6 +478,7 @@
 "Assets/Scripts/TeleportMenu.cs"
 "Assets/Scripts/TrapScript.cs"
 "Assets/Scripts/TypeCheck.cs"
+"Assets/Scripts/VolumeControl.cs"
 "Assets/TeleportHeadBounce.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
