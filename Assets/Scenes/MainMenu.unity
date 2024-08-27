@@ -9221,8 +9221,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09faa6a7d2cbc6646a1523b38ddac1a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  volumeSlider: {fileID: 2072169472}
-  audioMixer: {fileID: 24100000, guid: 0854856e7f321d9479bdd579dec1722b, type: 2}
 --- !u!4 &632804232
 Transform:
   m_ObjectHideFlags: 0
@@ -14396,7 +14394,6 @@ GameObject:
   - component: {fileID: 1055414274}
   - component: {fileID: 1055414275}
   - component: {fileID: 1055414276}
-  - component: {fileID: 1055414277}
   m_Layer: 0
   m_Name: CloudButton
   m_TagString: Ground
@@ -14666,20 +14663,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1055414276
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1055414268}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e929f86363a31db47976c68a8e4b2495, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targetScene: Clouds
-  targetPosition: {x: 0, y: 0, z: 0}
---- !u!114 &1055414277
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -28127,7 +28110,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5.1799927, y: 0.6300049}
+  m_AnchoredPosition: {x: -18.99, y: 4.21}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2072169472

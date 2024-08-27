@@ -23,6 +23,11 @@ public class nagant : MonoBehaviour {
         float rotZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.Euler(0f, 0f, rotZ + offset);
 
+        if (MixerAudio.Instance != null)
+        {
+            shot.volume = MixerAudio.Instance.Volume; // Przypisanie głośności z AudioManager
+        }
+
         if (timeBtwShots <= 0)
         {
             if (Input.GetMouseButtonDown(0))
@@ -31,7 +36,7 @@ public class nagant : MonoBehaviour {
             //     camAnim.SetTrigger("shake");
                 Instantiate(projectile, shotPoint.position, transform.rotation);
                 timeBtwShots = startTimeBtwShots;
-
+                
                 shot.Play();
             }
         }

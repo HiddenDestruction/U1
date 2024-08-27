@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\Github\\U1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\MixerAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MixerAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\nagant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\nagant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\AudioScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AudioScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,36 +27,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AudioScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\VolumeSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\VolumeSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\nagant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\nagant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\granpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\granpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\TrapScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TrapScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\KillHeadBounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\KillHeadBounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\TeleportMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TeleportMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\GranpaTeleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GranpaTeleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,6 +43,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MixerAudio.cs",
+              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\MixerAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MixerAudio.cs",
+              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\MixerAudio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MixerAudio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:28:11.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nagant.cs",
+              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\nagant.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\nagant.cs",
+              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\nagant.cs",
+              "RelativeToolTip": "Assets\\Scripts\\nagant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:19:34.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:05:03.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AudioScript.cs",
+              "DocumentMoniker": "E:\\Github\\U1\\Assets\\AudioScript.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioScript.cs",
+              "ToolTip": "E:\\Github\\U1\\Assets\\AudioScript.cs",
+              "RelativeToolTip": "Assets\\AudioScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:50:19.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VolumeControl.cs",
+              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\VolumeControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VolumeControl.cs",
+              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\VolumeControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VolumeControl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:35:21.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AudioScript.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\AudioScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AudioScript.cs",
@@ -71,102 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VolumeControl.cs",
-              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\VolumeControl.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\VolumeControl.cs",
-              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\VolumeControl.cs",
-              "RelativeToolTip": "Assets\\Scripts\\VolumeControl.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:35:21.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AudioScript.cs",
-              "DocumentMoniker": "E:\\Github\\U1\\Assets\\AudioScript.cs",
-              "RelativeDocumentMoniker": "Assets\\AudioScript.cs",
-              "ToolTip": "E:\\Github\\U1\\Assets\\AudioScript.cs",
-              "RelativeToolTip": "Assets\\AudioScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T10:50:19.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VolumeSetting.cs",
-              "DocumentMoniker": "E:\\Github\\U1\\Assets\\VolumeSetting.cs",
-              "RelativeDocumentMoniker": "Assets\\VolumeSetting.cs",
-              "ToolTip": "E:\\Github\\U1\\Assets\\VolumeSetting.cs",
-              "RelativeToolTip": "Assets\\VolumeSetting.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T13:50:43.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "granpa.cs",
-              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\granpa.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\granpa.cs",
-              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\granpa.cs",
-              "RelativeToolTip": "Assets\\Scripts\\granpa.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T15:20:08.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "nagant.cs",
-              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\nagant.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\nagant.cs",
-              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\nagant.cs",
-              "RelativeToolTip": "Assets\\Scripts\\nagant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T15:19:34.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "KillHeadBounce.cs",
-              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\KillHeadBounce.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\KillHeadBounce.cs",
-              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\KillHeadBounce.cs",
-              "RelativeToolTip": "Assets\\Scripts\\KillHeadBounce.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T15:15:33.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TeleportMenu.cs",
-              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\TeleportMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TeleportMenu.cs",
-              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\TeleportMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TeleportMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:51:59.124Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TrapScript.cs",
-              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\TrapScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TrapScript.cs",
-              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\TrapScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TrapScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:27:09.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "GranpaTeleport.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\GranpaTeleport.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GranpaTeleport.cs",
@@ -175,18 +126,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T11:46:05.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AudioManager.cs",
-              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
-              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T11:05:03.928Z"
             }
           ]
         }

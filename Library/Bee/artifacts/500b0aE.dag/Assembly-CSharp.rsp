@@ -466,6 +466,7 @@
 "Assets/Scripts/KillHeadBounce.cs"
 "Assets/Scripts/LevelLoader.cs"
 "Assets/Scripts/MainUpdate.cs"
+"Assets/Scripts/MixerAudio.cs"
 "Assets/Scripts/nagant.cs"
 "Assets/Scripts/playerCollider.cs"
 "Assets/Scripts/PlayerPositionSetter.cs"
