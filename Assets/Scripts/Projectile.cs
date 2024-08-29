@@ -2,16 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Projectile : MonoBehaviour {
-
+public class Projectile : MonoBehaviour
+{
     public float speed;
     public float lifeTime;
     public float distance;
     public int damage;
     public LayerMask whatIsSolid;
     public GameObject explosion;
-
-    // public GameObject destroyEffect;
 
     private void Start()
     {
@@ -20,40 +18,39 @@ public class Projectile : MonoBehaviour {
 
     private void Update()
     {
-        // RaycastHit2D hitInfo = Physics2D.Raycast(transform.position, transform.up, distance, whatIsSolid);
-        // if (hitInfo.collider != null) {
-        //     if (hitInfo.collider.CompareTag("Enemy")) {
-        //         hitInfo.collider.GetComponent<Enemy>().TakeDamage(damage);
-        //     }
-        //     DestroyProjectile();
-        // }
+        // Pocisk porusza się do przodu
         transform.Translate(Vector2.up * speed * Time.deltaTime);
     }
 
-    void DestroyProjectile() {
-        // Instantiate(explosion, transform.position, Quaternion.identity);
-
-         explosion = (GameObject) Instantiate(explosion, transform.position, Quaternion.identity);
-         Destroy(explosion, 1.3f);
-
+    void DestroyProjectile()
+    {
+        // Tworzenie efektu wybuchu i niszczenie pocisku
+        explosion = (GameObject)Instantiate(explosion, transform.position, Quaternion.identity);
+        Destroy(explosion, 1.3f);
         Destroy(gameObject);
-
-
-
-
-
-
-
-
     }
+
+    // Wykrywanie kolizji
     void OnTriggerEnter2D(Collider2D other)
     {
-        
-        DestroyProjectile();
-        
         if (other.CompareTag("Ground"))
         {
-            print("ababa");
+            print("ababa"); // Wiadomość dla podłoża
         }
+
+        // Sprawdzenie, czy pocisk trafił w tarczę (Target)
+        if (other.CompareTag("Target"))
+        {
+            // Pobranie nazwy tarczy i ustalenie poziomu głośności
+            string targetName = other.gameObject.name;
+            if (int.TryParse(targetName.Replace("Target", ""), out int level))
+            {
+                // Ustawienie poziomu głośności w grze
+                MixerAudio.Instance.Volume = level / 10.0f;
+            }
+        }
+
+        // Zniszczenie pocisku po kolizji
+        DestroyProjectile();
     }
 }

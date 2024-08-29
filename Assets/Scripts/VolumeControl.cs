@@ -1,22 +1,32 @@
 using UnityEngine;
-using UnityEngine.UI;
 
 public class VolumeControl : MonoBehaviour
 {
     public GameObject[] volumeLevels; // Tablica obiektów odpowiadaj¹cych poziomom g³oœnoœci (0 - 10)
-    public AudioSource audioSource; // Obiekt AudioSource
     private int currentVolumeLevel = 10; // Pocz¹tkowy poziom g³oœnoœci (10 oznacza 100%)
+
+    public GameObject target0;
+    public GameObject target1;
+    public GameObject target2;
+    public GameObject target3;
+    public GameObject target4;
+    public GameObject target5;
+    public GameObject target6;
+    public GameObject target7;
+    public GameObject target8;
+    public GameObject target9;
+    public GameObject target10; 
 
     void Start()
     {
-        // Na pocz¹tku pokazujemy tylko najwy¿szy poziom g³oœnoœci (10)
+        // Na pocz¹tku ukryjemy tarczê 10 i poka¿emy pozosta³e
         UpdateVolumeVisibility();
-        audioSource.volume = 1.0f; // G³oœnoœæ na 100%
+        SetVolume(currentVolumeLevel);
     }
 
     void Update()
     {
-        // Sprawdzanie strza³u
+        // Sprawdzanie klikniêcia
         if (Input.GetMouseButtonDown(0))
         {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -42,17 +52,22 @@ public class VolumeControl : MonoBehaviour
     void SetVolume(int level)
     {
         currentVolumeLevel = level;
-        audioSource.volume = level / 10.0f; // Przeliczanie na wartoœæ z zakresu 0.0 - 1.0
+        // Ustaw globaln¹ g³oœnoœæ poprzez MixerAudio
+        MixerAudio.Instance.Volume = level / 10.0f;
         UpdateVolumeVisibility();
     }
 
     // Funkcja aktualizuj¹ca widocznoœæ obiektów g³oœnoœci
     void UpdateVolumeVisibility()
     {
+        // Pêtla przechodz¹ca przez wszystkie tarcze w tablicy volumeLevels
         for (int i = 0; i < volumeLevels.Length; i++)
         {
-            // Tylko aktualny poziom g³oœnoœci jest widoczny
-            volumeLevels[i].SetActive(i == currentVolumeLevel);
+            // Ustaw ka¿d¹ tarczê na aktywn¹ (widoczn¹)
+            volumeLevels[i].SetActive(true);
         }
     }
+
+
+
 }
