@@ -1,5 +1,6 @@
 using System.IO;
 using UnityEngine;
+using System;
 
 public class MixerAudio : MonoBehaviour
 {
@@ -15,6 +16,20 @@ public class MixerAudio : MonoBehaviour
         {
             volume = Mathf.Clamp(value, 0f, 1f);
             Debug.Log("Volume set to: " + volume);
+            try
+            {
+                StreamWriter sw = new StreamWriter("Test.txt");
+                sw.WriteLine("Volume");
+                sw.Close();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Exception: " + e.Message);
+            }
+            finally
+            {
+                Console.WriteLine("Executing finally block.");
+            }
             UpdateVolume(); // Aktualizuj g³oœnoœæ we wszystkich AudioSource
             SaveVolume(); // Zapisz now¹ wartoœæ g³oœnoœci do pliku
         }
