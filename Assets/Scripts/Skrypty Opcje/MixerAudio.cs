@@ -7,7 +7,7 @@ public class MixerAudio : MonoBehaviour
     public static MixerAudio Instance { get; private set; }
 
     private float volume = 1f;  // Domyœlna wartoœæ g³oœnoœci (od 0 do 1)
-    private const string VolumeFileName = "volume.txt";  // Nazwa pliku, w którym zapisujemy g³oœnoœæ
+    private const string VolumeFileName = "Test.txt";  // Nazwa pliku, w którym zapisujemy g³oœnoœæ
 
     public float Volume
     {
@@ -16,33 +16,34 @@ public class MixerAudio : MonoBehaviour
         {
             volume = Mathf.Clamp(value, 0f, 1f);
             Debug.Log("Volume set to: " + volume);
+
             try
             {
-                StreamWriter sw = new StreamWriter("Test.txt");
-                sw.WriteLine("Volume");
+                // Zapisz aktualn¹ wartoœæ g³oœnoœci do pliku
+                StreamWriter sw = new StreamWriter(VolumeFileName);
+                sw.WriteLine(volume.ToString());
                 sw.Close();
             }
             catch (Exception e)
             {
-                Console.WriteLine("Exception: " + e.Message);
+                Debug.LogError("Exception: " + e.Message);
             }
             finally
             {
-                Console.WriteLine("Executing finally block.");
+                Debug.Log("Executing finally block.");
             }
-            UpdateVolume(); // Aktualizuj g³oœnoœæ we wszystkich AudioSource
-            SaveVolume(); // Zapisz now¹ wartoœæ g³oœnoœci do pliku
+
+            UpdateVolume(); // Aktualizuj g³oœnoœæ w grze
         }
     }
 
-    private void Awake()
+    // Inicjalizacja singletona
+    void Awake()
     {
-        // Upewnij siê, ¿e istnieje tylko jedna instancja MixerAudio
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject); // Zachowaj ten obiekt podczas zmiany scen
-            LoadVolume(); // Wczytaj wartoœæ g³oœnoœci przy uruchamianiu
+            DontDestroyOnLoad(gameObject);
         }
         else
         {
@@ -50,44 +51,42 @@ public class MixerAudio : MonoBehaviour
         }
     }
 
-    // Metoda do aktualizacji g³oœnoœci we wszystkich AudioSource
+    // Metoda do aktualizacji g³oœnoœci w grze
     private void UpdateVolume()
     {
-        AudioSource[] audioSources = FindObjectsByType<AudioSource>(FindObjectsSortMode.None);
-        foreach (AudioSource audioSource in audioSources)
-        {
-            audioSource.volume = volume;
-        }
+        // Tutaj mo¿esz dodaæ kod, który aktualizuje g³oœnoœæ w zale¿noœci od tego, co kontrolujesz.
     }
 
-    // Metoda do zapisywania wartoœci g³oœnoœci do pliku
-    private void SaveVolume()
+    // Metoda do wczytywania g³oœnoœci z pliku
+    public void LoadVolume()
     {
-        string path = Path.Combine(Application.persistentDataPath, VolumeFileName);
-        using (StreamWriter writer = new StreamWriter(path))
+        if (File.Exists(VolumeFileName))
         {
-            writer.WriteLine(volume);
-        }
-    }
-
-    // Metoda do wczytywania wartoœci g³oœnoœci z pliku
-    private void LoadVolume()
-    {
-        string path = Path.Combine(Application.persistentDataPath, VolumeFileName);
-        if (File.Exists(path))
-        {
-            using (StreamReader reader = new StreamReader(path))
+            try
             {
-                if (float.TryParse(reader.ReadLine(), out float loadedVolume))
+                StreamReader sr = new StreamReader(VolumeFileName);
+                string volumeString = sr.ReadLine();
+                sr.Close();
+
+                if (float.TryParse(volumeString, out float loadedVolume))
                 {
-                    volume = Mathf.Clamp(loadedVolume, 0f, 1f);
-                    Debug.Log("Loaded Volume: " + volume);
+                    volume = loadedVolume;
+                    Debug.Log("Volume loaded: " + volume);
+                    UpdateVolume(); // Aktualizuj g³oœnoœæ po wczytaniu
                 }
+                else
+                {
+                    Debug.LogWarning("Nie uda³o siê przekonwertowaæ wartoœci g³oœnoœci.");
+                }
+            }
+            catch (Exception e)
+            {
+                Debug.LogError("Exception podczas wczytywania g³oœnoœci: " + e.Message);
             }
         }
         else
         {
-            Debug.Log("No volume file found. Using default volume.");
+            Debug.LogWarning("Plik z g³oœnoœci¹ nie istnieje.");
         }
     }
 }
