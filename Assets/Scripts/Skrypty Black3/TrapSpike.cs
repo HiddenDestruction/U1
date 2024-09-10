@@ -1,19 +1,14 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class TrapSpike : MonoBehaviour
+public class Trap : MonoBehaviour
 {
-    public Transform startPoint; // Ustaw w inspectorze pozycjê startow¹, gdzie gracz ma zostaæ przeniesiony
+    public Transform startPosition;
 
-    void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player")) // Sprawdzamy, czy obiekt to gracz
+        if (other.CompareTag("Player"))
         {
-            print("Gracz wszed³ w pu³apkê!");
-
-            // Przenosimy gracza na pozycjê startow¹
-            other.transform.position = startPoint.position;
+            other.transform.position = startPosition.position;
         }
     }
 }

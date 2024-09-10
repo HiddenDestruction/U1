@@ -13,42 +13,456 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2024-09-04T11:59:04.318+02:00
-  initializedAtString: 2024-09-04T11:58:59.910+02:00
+  lastUpdatedAtString: 2024-09-10T14:40:11.597+02:00
+  initializedAtString: 2024-09-10T13:41:04.942+02:00
   entries:
+  - path: .vs\U1\v17\.suo
+    fullPath: E:\Github\U1\.vs\U1\v17\.suo
+    projectPath: .vs\U1\v17\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\U1\v17\DocumentLayout.json
+    fullPath: E:\Github\U1\.vs\U1\v17\DocumentLayout.json
+    projectPath: .vs\U1\v17\DocumentLayout.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: E:\Github\U1\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\explosion.prefab
+    fullPath: E:\Github\U1\Assets\Prefabs\explosion.prefab
+    projectPath: Assets\Prefabs\explosion.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\KEKW.prefab
+    fullPath: E:\Github\U1\Assets\Prefabs\KEKW.prefab
+    projectPath: Assets\Prefabs\KEKW.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Black3.unity
+    fullPath: E:\Github\U1\Assets\Scenes\Black3.unity
+    projectPath: Assets\Scenes\Black3.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\MainMenu.unity
+    fullPath: E:\Github\U1\Assets\Scenes\MainMenu.unity
+    projectPath: Assets\Scenes\MainMenu.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Options.unity
+    fullPath: E:\Github\U1\Assets\Scenes\Options.unity
+    projectPath: Assets\Scenes\Options.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\nagant.cs
+    fullPath: E:\Github\U1\Assets\Scripts\nagant.cs
+    projectPath: Assets\Scripts\nagant.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\olumeInitializer.cs
+    fullPath: E:\Github\U1\Assets\Scripts\olumeInitializer.cs
+    projectPath: Assets\Scripts\olumeInitializer.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\olumeInitializer.cs.meta
+    fullPath: E:\Github\U1\Assets\Scripts\olumeInitializer.cs.meta
+    projectPath: Assets\Scripts\olumeInitializer.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Skrypty Black3\TrapSpike.cs
+    fullPath: E:\Github\U1\Assets\Scripts\Skrypty Black3\TrapSpike.cs
+    projectPath: Assets\Scripts\Skrypty Black3\TrapSpike.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Skrypty Opcje\iryt.cs
+    fullPath: E:\Github\U1\Assets\Scripts\Skrypty Opcje\iryt.cs
+    projectPath: Assets\Scripts\Skrypty Opcje\iryt.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Skrypty Opcje\iryt.cs.meta
+    fullPath: E:\Github\U1\Assets\Scripts\Skrypty Opcje\iryt.cs.meta
+    projectPath: Assets\Scripts\Skrypty Opcje\iryt.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Skrypty Opcje\Obiekty.cs
+    fullPath: E:\Github\U1\Assets\Scripts\Skrypty Opcje\Obiekty.cs
+    projectPath: Assets\Scripts\Skrypty Opcje\Obiekty.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Skrypty Opcje\Obiekty.cs.meta
+    fullPath: E:\Github\U1\Assets\Scripts\Skrypty Opcje\Obiekty.cs.meta
+    projectPath: Assets\Scripts\Skrypty Opcje\Obiekty.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Skrypty Opcje\olumeInitializer.cs
+    fullPath: E:\Github\U1\Assets\Scripts\Skrypty Opcje\olumeInitializer.cs
+    projectPath: Assets\Scripts\Skrypty Opcje\olumeInitializer.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Skrypty Opcje\olumeInitializer.cs.meta
+    fullPath: E:\Github\U1\Assets\Scripts\Skrypty Opcje\olumeInitializer.cs.meta
+    projectPath: Assets\Scripts\Skrypty Opcje\olumeInitializer.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: E:\Github\U1\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\5a\5a5297e0e89de483c780b32b0ab65628
-    fullPath: E:\Github\U1\Library\Artifacts\5a\5a5297e0e89de483c780b32b0ab65628
-    projectPath: Library\Artifacts\5a\5a5297e0e89de483c780b32b0ab65628
+  - path: Library\Artifacts\08\0882e2d304a707d82ee57f6113fec9dd
+    fullPath: E:\Github\U1\Library\Artifacts\08\0882e2d304a707d82ee57f6113fec9dd
+    projectPath: Library\Artifacts\08\0882e2d304a707d82ee57f6113fec9dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0b\0be24decc229561175ec77bff2d1583c
+    fullPath: E:\Github\U1\Library\Artifacts\0b\0be24decc229561175ec77bff2d1583c
+    projectPath: Library\Artifacts\0b\0be24decc229561175ec77bff2d1583c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\12\12972d73e108998640d0be021940e934
+    fullPath: E:\Github\U1\Library\Artifacts\12\12972d73e108998640d0be021940e934
+    projectPath: Library\Artifacts\12\12972d73e108998640d0be021940e934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2b\2b9d3787ebe97d6c5e0c007a32af0967
+    fullPath: E:\Github\U1\Library\Artifacts\2b\2b9d3787ebe97d6c5e0c007a32af0967
+    projectPath: Library\Artifacts\2b\2b9d3787ebe97d6c5e0c007a32af0967
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2c\2cb3ab2340c769367becd5725e59913d
+    fullPath: E:\Github\U1\Library\Artifacts\2c\2cb3ab2340c769367becd5725e59913d
+    projectPath: Library\Artifacts\2c\2cb3ab2340c769367becd5725e59913d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d5b2144d4d4b6e2f01d66a67a0ff69d
+    fullPath: E:\Github\U1\Library\Artifacts\2d\2d5b2144d4d4b6e2f01d66a67a0ff69d
+    projectPath: Library\Artifacts\2d\2d5b2144d4d4b6e2f01d66a67a0ff69d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2f\2fa960f01644e9e3de7595b15415af8e
+    fullPath: E:\Github\U1\Library\Artifacts\2f\2fa960f01644e9e3de7595b15415af8e
+    projectPath: Library\Artifacts\2f\2fa960f01644e9e3de7595b15415af8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\32\32758364414ac94f4f914642e0f3fa19
+    fullPath: E:\Github\U1\Library\Artifacts\32\32758364414ac94f4f914642e0f3fa19
+    projectPath: Library\Artifacts\32\32758364414ac94f4f914642e0f3fa19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3a\3a54d5ed9edc34c5f2b423551153a609
+    fullPath: E:\Github\U1\Library\Artifacts\3a\3a54d5ed9edc34c5f2b423551153a609
+    projectPath: Library\Artifacts\3a\3a54d5ed9edc34c5f2b423551153a609
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3b\3bd0cadca0935100c353a634d60978f9
+    fullPath: E:\Github\U1\Library\Artifacts\3b\3bd0cadca0935100c353a634d60978f9
+    projectPath: Library\Artifacts\3b\3bd0cadca0935100c353a634d60978f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3b\3beefa51068007fffe78df087cf673bd
+    fullPath: E:\Github\U1\Library\Artifacts\3b\3beefa51068007fffe78df087cf673bd
+    projectPath: Library\Artifacts\3b\3beefa51068007fffe78df087cf673bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3f\3ff47f3bc5d02a286c4bc97620fdedb7
+    fullPath: E:\Github\U1\Library\Artifacts\3f\3ff47f3bc5d02a286c4bc97620fdedb7
+    projectPath: Library\Artifacts\3f\3ff47f3bc5d02a286c4bc97620fdedb7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4f\4fa6a9dfb9fc499670a4d17d7514e653
+    fullPath: E:\Github\U1\Library\Artifacts\4f\4fa6a9dfb9fc499670a4d17d7514e653
+    projectPath: Library\Artifacts\4f\4fa6a9dfb9fc499670a4d17d7514e653
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\53\533102431f809992120f208ee2cd82dc
+    fullPath: E:\Github\U1\Library\Artifacts\53\533102431f809992120f208ee2cd82dc
+    projectPath: Library\Artifacts\53\533102431f809992120f208ee2cd82dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\54a4f6cc9031c52bf21416dcf3378b0d
+    fullPath: E:\Github\U1\Library\Artifacts\54\54a4f6cc9031c52bf21416dcf3378b0d
+    projectPath: Library\Artifacts\54\54a4f6cc9031c52bf21416dcf3378b0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\58\58953b5581cbb2ac1fb50cbeafcf91b2
+    fullPath: E:\Github\U1\Library\Artifacts\58\58953b5581cbb2ac1fb50cbeafcf91b2
+    projectPath: Library\Artifacts\58\58953b5581cbb2ac1fb50cbeafcf91b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5a\5ab2fdea9a03a514bdc2b41cdaaf0b9c
+    fullPath: E:\Github\U1\Library\Artifacts\5a\5ab2fdea9a03a514bdc2b41cdaaf0b9c
+    projectPath: Library\Artifacts\5a\5ab2fdea9a03a514bdc2b41cdaaf0b9c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5b9a3bb7a6c28b5800bce8d448d6f895
+    fullPath: E:\Github\U1\Library\Artifacts\5b\5b9a3bb7a6c28b5800bce8d448d6f895
+    projectPath: Library\Artifacts\5b\5b9a3bb7a6c28b5800bce8d448d6f895
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\64\64e09bf43c2f64a4dfc90e52d81703a8
+    fullPath: E:\Github\U1\Library\Artifacts\64\64e09bf43c2f64a4dfc90e52d81703a8
+    projectPath: Library\Artifacts\64\64e09bf43c2f64a4dfc90e52d81703a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\88\8800f3a4f5b2dd31eb13f1e528ed847d
+    fullPath: E:\Github\U1\Library\Artifacts\88\8800f3a4f5b2dd31eb13f1e528ed847d
+    projectPath: Library\Artifacts\88\8800f3a4f5b2dd31eb13f1e528ed847d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\88\88e60fd953f6609095fe171274222ddc
+    fullPath: E:\Github\U1\Library\Artifacts\88\88e60fd953f6609095fe171274222ddc
+    projectPath: Library\Artifacts\88\88e60fd953f6609095fe171274222ddc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8ebe9e34fef8ca2b081a66c9cdf3a5d3
+    fullPath: E:\Github\U1\Library\Artifacts\8e\8ebe9e34fef8ca2b081a66c9cdf3a5d3
+    projectPath: Library\Artifacts\8e\8ebe9e34fef8ca2b081a66c9cdf3a5d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\932beb7179f96abdb39880b3bc1551bb
+    fullPath: E:\Github\U1\Library\Artifacts\93\932beb7179f96abdb39880b3bc1551bb
+    projectPath: Library\Artifacts\93\932beb7179f96abdb39880b3bc1551bb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\bc\bcbbbc32724ec7b3971cee66b93b55d6
-    fullPath: E:\Github\U1\Library\Artifacts\bc\bcbbbc32724ec7b3971cee66b93b55d6
-    projectPath: Library\Artifacts\bc\bcbbbc32724ec7b3971cee66b93b55d6
+  - path: Library\Artifacts\94\94c135d3cea5525d931e24a6acaa64f1
+    fullPath: E:\Github\U1\Library\Artifacts\94\94c135d3cea5525d931e24a6acaa64f1
+    projectPath: Library\Artifacts\94\94c135d3cea5525d931e24a6acaa64f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a2\a2a3aaf64648ba45579055ad190eccc9
+    fullPath: E:\Github\U1\Library\Artifacts\a2\a2a3aaf64648ba45579055ad190eccc9
+    projectPath: Library\Artifacts\a2\a2a3aaf64648ba45579055ad190eccc9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a7\a707d832f4c1c2176eff206802e26fdc
+    fullPath: E:\Github\U1\Library\Artifacts\a7\a707d832f4c1c2176eff206802e26fdc
+    projectPath: Library\Artifacts\a7\a707d832f4c1c2176eff206802e26fdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\ae53af6bbe403719df3ca0fd199fb100
+    fullPath: E:\Github\U1\Library\Artifacts\ae\ae53af6bbe403719df3ca0fd199fb100
+    projectPath: Library\Artifacts\ae\ae53af6bbe403719df3ca0fd199fb100
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c0f5ba5a10febbf3dee18a1454b5e281
+    fullPath: E:\Github\U1\Library\Artifacts\c0\c0f5ba5a10febbf3dee18a1454b5e281
+    projectPath: Library\Artifacts\c0\c0f5ba5a10febbf3dee18a1454b5e281
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c232a2b53a87938f5b6953343060b897
+    fullPath: E:\Github\U1\Library\Artifacts\c2\c232a2b53a87938f5b6953343060b897
+    projectPath: Library\Artifacts\c2\c232a2b53a87938f5b6953343060b897
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ce\cea25df25cfc768dd0b7267b8bd87d0d
+    fullPath: E:\Github\U1\Library\Artifacts\ce\cea25df25cfc768dd0b7267b8bd87d0d
+    projectPath: Library\Artifacts\ce\cea25df25cfc768dd0b7267b8bd87d0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d1\d15ac8ed0231f51e46d943cb3151c7a8
+    fullPath: E:\Github\U1\Library\Artifacts\d1\d15ac8ed0231f51e46d943cb3151c7a8
+    projectPath: Library\Artifacts\d1\d15ac8ed0231f51e46d943cb3151c7a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d444003d6ac5cbc71daf16c45940b99d
+    fullPath: E:\Github\U1\Library\Artifacts\d4\d444003d6ac5cbc71daf16c45940b99d
+    projectPath: Library\Artifacts\d4\d444003d6ac5cbc71daf16c45940b99d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e49d8a64f581f5a036c49eb54c9d791e
+    fullPath: E:\Github\U1\Library\Artifacts\e4\e49d8a64f581f5a036c49eb54c9d791e
+    projectPath: Library\Artifacts\e4\e49d8a64f581f5a036c49eb54c9d791e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ee\ee392fdf84a9b29fd01862cb32f6eaab
+    fullPath: E:\Github\U1\Library\Artifacts\ee\ee392fdf84a9b29fd01862cb32f6eaab
+    projectPath: Library\Artifacts\ee\ee392fdf84a9b29fd01862cb32f6eaab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f22928bdf7ec07cc1aead976d98bcfd8
+    fullPath: E:\Github\U1\Library\Artifacts\f2\f22928bdf7ec07cc1aead976d98bcfd8
+    projectPath: Library\Artifacts\f2\f22928bdf7ec07cc1aead976d98bcfd8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f9\f92ebacc8f855fdd54bca11fb2b4f069
+    fullPath: E:\Github\U1\Library\Artifacts\f9\f92ebacc8f855fdd54bca11fb2b4f069
+    projectPath: Library\Artifacts\f9\f92ebacc8f855fdd54bca11fb2b4f069
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fe\fe747e926836eda10808c0289b132e07
+    fullPath: E:\Github\U1\Library\Artifacts\fe\fe747e926836eda10808c0289b132e07
+    projectPath: Library\Artifacts\fe\fe747e926836eda10808c0289b132e07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fe\fef2b0182d542882bff2a79ab207e81b
+    fullPath: E:\Github\U1\Library\Artifacts\fe\fef2b0182d542882bff2a79ab207e81b
+    projectPath: Library\Artifacts\fe\fef2b0182d542882bff2a79ab207e81b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\f4\f446442c95e5b5e5c99168fb8d1ce162
-    fullPath: E:\Github\U1\Library\Artifacts\f4\f446442c95e5b5e5c99168fb8d1ce162
-    projectPath: Library\Artifacts\f4\f446442c95e5b5e5c99168fb8d1ce162
+  - path: Library\Bee\500b0aE.dag
+    fullPath: E:\Github\U1\Library\Bee\500b0aE.dag
+    projectPath: Library\Bee\500b0aE.dag
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Bee\500b0aE.dag_fsmtime
-    fullPath: E:\Github\U1\Library\Bee\500b0aE.dag_fsmtime
-    projectPath: Library\Bee\500b0aE.dag_fsmtime
+    workTreeStatus: 3
+  - path: Library\Bee\500b0aE.dag.json
+    fullPath: E:\Github\U1\Library\Bee\500b0aE.dag.json
+    projectPath: Library\Bee\500b0aE.dag.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\500b0aE.dag.payloads
+    fullPath: E:\Github\U1\Library\Bee\500b0aE.dag.payloads
+    projectPath: Library\Bee\500b0aE.dag.payloads
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\500b0aE.dag_derived
+    fullPath: E:\Github\U1\Library\Bee\500b0aE.dag_derived
+    projectPath: Library\Bee\500b0aE.dag_derived
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\500b0aE-inputdata.json
+    fullPath: E:\Github\U1\Library\Bee\500b0aE-inputdata.json
+    projectPath: Library\Bee\500b0aE-inputdata.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.dll
+    fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.pdb
+    fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.ref.dll
+    fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.ref.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.ref.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.rsp
+    fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.rsp
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor.dll
+    fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor.pdb
+    fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.dll
+    fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.pdb
+    fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor.dll
+    fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor.dll
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor.pdb
+    fullPath: E:\Github\U1\Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor.pdb
+    projectPath: Library\Bee\artifacts\500b0aE.dag\post-processed\Assembly-CSharp-Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\Bee\backend1.traceevents
     fullPath: E:\Github\U1\Library\Bee\backend1.traceevents
     projectPath: Library\Bee\backend1.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\backend2.traceevents
+    fullPath: E:\Github\U1\Library\Bee\backend2.traceevents
+    projectPath: Library\Bee\backend2.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\buildprogram0.traceevents
+    fullPath: E:\Github\U1\Library\Bee\buildprogram0.traceevents
+    projectPath: Library\Bee\buildprogram0.traceevents
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -82,12 +496,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\BurstCache\JIT\Hashes\a110ffe6b760e4b56cb86ae44bc7857d.bhc
+    fullPath: E:\Github\U1\Library\BurstCache\JIT\Hashes\a110ffe6b760e4b56cb86ae44bc7857d.bhc
+    projectPath: Library\BurstCache\JIT\Hashes\a110ffe6b760e4b56cb86ae44bc7857d.bhc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\BurstCache\JIT\Hashes\f890d1fdde3a07f1cb7ddaf50227f1a0.bhc
+    fullPath: E:\Github\U1\Library\BurstCache\JIT\Hashes\f890d1fdde3a07f1cb7ddaf50227f1a0.bhc
+    projectPath: Library\BurstCache\JIT\Hashes\f890d1fdde3a07f1cb7ddaf50227f1a0.bhc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: E:\Github\U1\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: E:\Github\U1\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -97,6 +523,12 @@ MonoBehaviour:
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: E:\Github\U1\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: E:\Github\U1\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -124,9 +556,57 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: E:\Github\U1\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: E:\Github\U1\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: E:\Github\U1\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: E:\Github\U1\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: E:\Github\U1\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: E:\Github\U1\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: E:\Github\U1\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Search\98957a664bd18c47a3e41b2a0189ef53.33328.b.index
+    fullPath: E:\Github\U1\Library\Search\98957a664bd18c47a3e41b2a0189ef53.33328.b.index
+    projectPath: Library\Search\98957a664bd18c47a3e41b2a0189ef53.33328.b.index
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Search\transactions.db
+    fullPath: E:\Github\U1\Library\Search\transactions.db
+    projectPath: Library\Search\transactions.db
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -136,51 +616,87 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\de\de87bdb28e30869d60df80bcf96611e1.json
+    fullPath: E:\Github\U1\Library\StateCache\MainStageHierarchy\de\de87bdb28e30869d60df80bcf96611e1.json
+    projectPath: Library\StateCache\MainStageHierarchy\de\de87bdb28e30869d60df80bcf96611e1.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\7d\7d772baaa7badde245b37bad75fff3fb.json
+    fullPath: E:\Github\U1\Library\StateCache\SceneView\7d\7d772baaa7badde245b37bad75fff3fb.json
+    projectPath: Library\StateCache\SceneView\7d\7d772baaa7badde245b37bad75fff3fb.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
+    fullPath: E:\Github\U1\Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker0.log
     fullPath: E:\Github\U1\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: E:\Github\U1\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\AssetImportWorker1.log
     fullPath: E:\Github\U1\Logs\AssetImportWorker1.log
     projectPath: Logs\AssetImportWorker1.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\AssetImportWorker1-prev.log
     fullPath: E:\Github\U1\Logs\AssetImportWorker1-prev.log
     projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\shadercompiler-AssetImportWorker0-0.log
     fullPath: E:\Github\U1\Logs\shadercompiler-AssetImportWorker0-0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0-0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\shadercompiler-AssetImportWorker1-0.log
     fullPath: E:\Github\U1\Logs\shadercompiler-AssetImportWorker1-0.log
     projectPath: Logs\shadercompiler-AssetImportWorker1-0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
-    fullPath: E:\Github\U1\Logs\shadercompiler-UnityShaderCompiler.exe-0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: E:\Github\U1\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\FSTimeGet-0436dd50abbc16547ad9286c0f723afe
+    fullPath: E:\Github\U1\Temp\FSTimeGet-0436dd50abbc16547ad9286c0f723afe
+    projectPath: Temp\FSTimeGet-0436dd50abbc16547ad9286c0f723afe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\FSTimeGet-3eb5623df8a3f3441b22e161f13c882e
+    fullPath: E:\Github\U1\Temp\FSTimeGet-3eb5623df8a3f3441b22e161f13c882e
+    projectPath: Temp\FSTimeGet-3eb5623df8a3f3441b22e161f13c882e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\FSTimeGet-83123ff21ad3fa24f8875e3510840032
+    fullPath: E:\Github\U1\Temp\FSTimeGet-83123ff21ad3fa24f8875e3510840032
+    projectPath: Temp\FSTimeGet-83123ff21ad3fa24f8875e3510840032
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp\FSTimeGet-9b343b5ed172bdb48969737eb749885b
-    fullPath: E:\Github\U1\Temp\FSTimeGet-9b343b5ed172bdb48969737eb749885b
-    projectPath: Temp\FSTimeGet-9b343b5ed172bdb48969737eb749885b
+    workTreeStatus: 5
+  - path: Temp\FSTimeGet-8cda81d780b7a804ca0c63b187bafa22
+    fullPath: E:\Github\U1\Temp\FSTimeGet-8cda81d780b7a804ca0c63b187bafa22
+    projectPath: Temp\FSTimeGet-8cda81d780b7a804ca0c63b187bafa22
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -188,14 +704,20 @@ MonoBehaviour:
     fullPath: E:\Github\U1\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\workerlic
-    fullPath: E:\Github\U1\Temp\workerlic
-    projectPath: Temp\workerlic
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Test.txt
+    fullPath: E:\Github\U1\Test.txt
+    projectPath: Test.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: E:\Github\U1\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: UserSettings\Layouts\default-6000.dwlt
     fullPath: E:\Github\U1\UserSettings\Layouts\default-6000.dwlt
     projectPath: UserSettings\Layouts\default-6000.dwlt

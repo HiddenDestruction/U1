@@ -33,7 +33,7 @@ public class nagant : MonoBehaviour {
             if (Input.GetMouseButtonDown(0))
             {
                 // Instantiate(shotEffect, shotPoint.position, Quaternion.identity);
-            //     camAnim.SetTrigger("shake");
+                // camAnim.SetTrigger("shake");
                 Instantiate(projectile, shotPoint.position, transform.rotation);
                 timeBtwShots = startTimeBtwShots;
                 
