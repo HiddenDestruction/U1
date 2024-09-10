@@ -1,14 +1,21 @@
 using UnityEngine;
 
-public class Trap : MonoBehaviour
+public class TrapSpike : MonoBehaviour
 {
-    public Transform startPosition;
+    public Transform teleportDestination; // Punkt, do którego gracz zostanie teleportowany
 
-    private void OnTriggerEnter(Collider other)
+    void OnCollisionEnter(Collision collision)
     {
-        if (other.CompareTag("Player"))
+        // Sprawdzenie, czy obiekt, który wszed³ w pu³apkê, to gracz
+        if (collision.gameObject.name == "granpa")
         {
-            other.transform.position = startPosition.position;
+            // Teleportowanie gracza do wyznaczonego miejsca
+            collision.gameObject.transform.position = teleportDestination.position;
+        }
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            // Teleportowanie gracza do wyznaczonego miejsca
+            collision.gameObject.transform.position = teleportDestination.position;
         }
     }
 }
