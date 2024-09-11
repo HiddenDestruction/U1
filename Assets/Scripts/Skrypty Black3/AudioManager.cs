@@ -29,13 +29,13 @@ public class AudioManager : MonoBehaviour
 
         if (distanceToDungeon < activationRadius)
         {
-            dungeonTargetVolume = 0.2f;
+            dungeonTargetVolume = 0.1f;
             skyblockTargetVolume = 0.0f;
         }
         else if (distanceToSkyblock < activationRadius)
         {
             dungeonTargetVolume = 0.0f;
-            skyblockTargetVolume = 0.2f;
+            skyblockTargetVolume = 0.1f;
         }
         else
         {

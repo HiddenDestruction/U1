@@ -1,21 +1,24 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TrapSpike : MonoBehaviour
 {
-    public Transform teleportDestination; // Punkt, do którego gracz zostanie teleportowany
+    public Transform teleportDestination;
+    public AudioSource Spike;
 
-    void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Sprawdzenie, czy obiekt, który wszed³ w pu³apkê, to gracz
-        if (collision.gameObject.name == "granpa")
+        if (collision.GetComponent<granpa>() != null)
         {
-            // Teleportowanie gracza do wyznaczonego miejsca
-            collision.gameObject.transform.position = teleportDestination.position;
-        }
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            // Teleportowanie gracza do wyznaczonego miejsca
-            collision.gameObject.transform.position = teleportDestination.position;
+            if (MixerAudio.Instance != null)
+            {
+                Spike.volume = MixerAudio.Instance.Volume; 
+            }
+            collision.transform.position = teleportDestination.position;
+            Debug.Log("Knock");
+            Spike.Play();
         }
     }
 }

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\Github\\U1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\TrapSpike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty Black3\\TrapSpike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty MainMenu\\SceneTransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty MainMenu\\SceneTransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\Obiekty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty Opcje\\Obiekty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\Gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty Black3\\Gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\iryt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty Opcje\\iryt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\nagant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\nagant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\Obiekty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty Opcje\\Obiekty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\VolumeControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\olumeInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty Opcje\\olumeInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\nagant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\nagant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,30 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TrapSpike.cs",
-              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\TrapSpike.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty Black3\\TrapSpike.cs",
-              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\TrapSpike.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Skrypty Black3\\TrapSpike.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Title": "Gun.cs",
+              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty Black3\\Gun.cs",
+              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Skrypty Black3\\Gun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:02:10.378Z",
+              "WhenOpened": "2024-09-11T14:32:55.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SceneTransition.cs",
-              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty MainMenu\\SceneTransition.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty MainMenu\\SceneTransition.cs",
-              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty MainMenu\\SceneTransition.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Skrypty MainMenu\\SceneTransition.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T13:05:23.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "iryt.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\iryt.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty Opcje\\iryt.cs",
@@ -82,25 +67,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Obiekty.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\Obiekty.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty Opcje\\Obiekty.cs",
               "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\Obiekty.cs",
               "RelativeToolTip": "Assets\\Scripts\\Skrypty Opcje\\Obiekty.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T11:37:28.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "nagant.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\nagant.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\nagant.cs",
               "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\nagant.cs",
               "RelativeToolTip": "Assets\\Scripts\\nagant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T11:13:21.156Z"
             },
