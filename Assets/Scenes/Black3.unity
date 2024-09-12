@@ -63616,8 +63616,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Nagant: {fileID: 1328399999}
   Hand: {fileID: 1770024999}
-  Explosion: {fileID: 4809084385161244616, guid: 772a84aeca5b90f44815a129feeb3059,
-    type: 3}
+  nagantScript: {fileID: 1393898322}
 --- !u!61 &1328400001
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -67617,6 +67616,7 @@ MonoBehaviour:
   shotPoint: {fileID: 1668747795}
   startTimeBtwShots: 0.25
   shot: {fileID: 1393898321}
+  Sling: 0
 --- !u!1 &1394984526
 GameObject:
   m_ObjectHideFlags: 0

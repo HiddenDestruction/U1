@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -437,7 +437,7 @@ MonoBehaviour:
       oldMaxSizes: 
       oldSplitSize: 0
     m_HorizontalSplitter:
-      ID: 92
+      ID: 800
       splitterInitialOffset: 0
       currentActiveSplitter: -1
       realSizes:
@@ -514,7 +514,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -524,16 +524,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Github\U1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 127}
-    m_SelectedIDs: e48f0000
-    m_LastClickedID: 36836
-    m_ExpandedIDs: 000000006c8f00006e8f0000708f0000728f0000748f0000768f0000788f000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 708f0000
+    m_LastClickedID: 36720
+    m_ExpandedIDs: 00000000708f0000728f0000748f0000768f0000788f00007a8f00007c8f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -562,7 +562,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006c8f00006e8f0000708f0000728f0000748f0000768f0000788f0000
+    m_ExpandedIDs: 00000000708f0000728f0000748f0000768f0000788f00007a8f00007c8f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -590,7 +590,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300002a530000807b0000000000003a8c0000408c00000e79000098780000e28b000030ae0000648900002e86000028ac000020b30000ac770000c4f30000b6060100bc7e0000c87b000020d30300b88d0000b4e9ffff8c73000098730000a8730000608e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1261,9 +1261,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 53.88653, y: 18.41222, z: -49.429207}
+    m_Target: {x: 75.56134, y: 22.90224, z: -14.585862}
     speed: 2
-    m_Value: {x: 53.88653, y: 18.41222, z: -49.429207}
+    m_Value: {x: 75.56134, y: 22.90224, z: -14.585862}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1313,9 +1313,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 44.2849
+    m_Target: 59.00302
     speed: 2
-    m_Value: 44.2849
+    m_Value: 59.00302
   m_Ortho:
     m_Target: 1
     speed: 2
