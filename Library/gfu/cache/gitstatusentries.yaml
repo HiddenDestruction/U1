@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2024-09-12T16:06:07.838+02:00
-  initializedAtString: 2024-09-12T16:03:10.702+02:00
+  lastUpdatedAtString: 2024-09-13T00:03:11.862+02:00
+  initializedAtString: 2024-09-13T00:01:46.692+02:00
   entries:
   - path: Library\ArtifactDB
     fullPath: E:\Github\U1\Library\ArtifactDB
@@ -40,21 +40,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\TundraBuildState.state.map
-    fullPath: E:\Github\U1\Library\Bee\TundraBuildState.state.map
-    projectPath: Library\Bee\TundraBuildState.state.map
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: E:\Github\U1\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: E:\Github\U1\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: E:\Github\U1\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: E:\Github\U1\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -82,99 +88,57 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: E:\Github\U1\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: E:\Github\U1\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\AssetImportWorker0.log
-    fullPath: E:\Github\U1\Logs\AssetImportWorker0.log
-    projectPath: Logs\AssetImportWorker0.log
+  - path: Library\StateCache\SceneView\7d\7d772baaa7badde245b37bad75fff3fb.json
+    fullPath: E:\Github\U1\Library\StateCache\SceneView\7d\7d772baaa7badde245b37bad75fff3fb.json
+    projectPath: Library\StateCache\SceneView\7d\7d772baaa7badde245b37bad75fff3fb.json
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: E:\Github\U1\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Logs\AssetImportWorker1.log
-    fullPath: E:\Github\U1\Logs\AssetImportWorker1.log
-    projectPath: Logs\AssetImportWorker1.log
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker1-prev.log
     fullPath: E:\Github\U1\Logs\AssetImportWorker1-prev.log
     projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Logs\shadercompiler-AssetImportWorker0-0.log
-    fullPath: E:\Github\U1\Logs\shadercompiler-AssetImportWorker0-0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker0-0.log
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-AssetImportWorker1-0.log
-    fullPath: E:\Github\U1\Logs\shadercompiler-AssetImportWorker1-0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker1-0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
     fullPath: E:\Github\U1\Logs\shadercompiler-UnityShaderCompiler.exe-0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe-0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: E:\Github\U1\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\FSTimeGet-c8301e119562e94449a1afc3941f77d1
-    fullPath: E:\Github\U1\Temp\FSTimeGet-c8301e119562e94449a1afc3941f77d1
-    projectPath: Temp\FSTimeGet-c8301e119562e94449a1afc3941f77d1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\FSTimeGet-c95f9683b05a50041a33a19c11be057d
-    fullPath: E:\Github\U1\Temp\FSTimeGet-c95f9683b05a50041a33a19c11be057d
-    projectPath: Temp\FSTimeGet-c95f9683b05a50041a33a19c11be057d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\FSTimeGet-cbd7e467a7c1261498f332f4841b1866
-    fullPath: E:\Github\U1\Temp\FSTimeGet-cbd7e467a7c1261498f332f4841b1866
-    projectPath: Temp\FSTimeGet-cbd7e467a7c1261498f332f4841b1866
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\FSTimeGet-e599cdcecd9e91d41b81b335106321e4
-    fullPath: E:\Github\U1\Temp\FSTimeGet-e599cdcecd9e91d41b81b335106321e4
-    projectPath: Temp\FSTimeGet-e599cdcecd9e91d41b81b335106321e4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\FSTimeGet-e799b276bb98d4342a182821ae3aa701
-    fullPath: E:\Github\U1\Temp\FSTimeGet-e799b276bb98d4342a182821ae3aa701
-    projectPath: Temp\FSTimeGet-e799b276bb98d4342a182821ae3aa701
+  - path: Temp\FSTimeGet-23e93120845836e4aa658257be06f13c
+    fullPath: E:\Github\U1\Temp\FSTimeGet-23e93120845836e4aa658257be06f13c
+    projectPath: Temp\FSTimeGet-23e93120845836e4aa658257be06f13c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: E:\Github\U1\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\workerlic
+    fullPath: E:\Github\U1\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: E:\Github\U1\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

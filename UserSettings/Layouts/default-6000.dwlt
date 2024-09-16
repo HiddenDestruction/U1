@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -514,7 +514,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -524,15 +524,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Github\U1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 708f0000
-    m_LastClickedID: 36720
+    m_SelectedIDs: ea8f0000
+    m_LastClickedID: 36842
     m_ExpandedIDs: 00000000708f0000728f0000748f0000768f0000788f00007a8f00007c8f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1261,9 +1261,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 75.56134, y: 22.90224, z: -14.585862}
+    m_Target: {x: 108.11093, y: 28.40442, z: -15.228277}
     speed: 2
-    m_Value: {x: 75.56134, y: 22.90224, z: -14.585862}
+    m_Value: {x: 108.11093, y: 28.40442, z: -15.228277}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1313,9 +1313,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 59.00302
+    m_Target: 123.24444
     speed: 2
-    m_Value: 59.00302
+    m_Value: 123.24444
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1455,7 +1455,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
