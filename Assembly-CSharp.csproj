@@ -84,6 +84,7 @@
     <Compile Include="Assets\retu.cs" />
     <Compile Include="Assets\Scripts\Skrypty Black3\AudioScript.cs" />
     <Compile Include="Assets\Scripts\ReturnToMainMenu.cs" />
+    <Compile Include="Assets\Scripts\Skrypty Black3\TpDoor.cs" />
     <Compile Include="Assets\Scripts\StartButton.cs" />
     <Compile Include="Assets\Scripts\nagant.cs" />
     <Compile Include="Assets\Cainos\Third Party\Lucid Editor\Runtime\Attributes\EnableIfAttribute.cs" />

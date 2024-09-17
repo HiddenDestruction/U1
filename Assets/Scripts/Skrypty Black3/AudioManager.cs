@@ -12,6 +12,7 @@ public class AudioManager : MonoBehaviour
 
     private float dungeonTargetVolume = 0.0f;
     private float skyblockTargetVolume = 0.0f;
+    private float globalVolumeMultiplier = 1.0f; // Mno¿nik g³oœnoœci (wczytywany z MixerAudio)
 
     void Start()
     {
@@ -29,13 +30,13 @@ public class AudioManager : MonoBehaviour
 
         if (distanceToDungeon < activationRadius)
         {
-            dungeonTargetVolume = 0.1f;
+            dungeonTargetVolume = 0.1f * globalVolumeMultiplier;
             skyblockTargetVolume = 0.0f;
         }
         else if (distanceToSkyblock < activationRadius)
         {
             dungeonTargetVolume = 0.0f;
-            skyblockTargetVolume = 0.1f;
+            skyblockTargetVolume = 0.1f * globalVolumeMultiplier;
         }
         else
         {
@@ -46,5 +47,14 @@ public class AudioManager : MonoBehaviour
         // P³ynne przejœcie g³oœnoœci
         dungeonAudioSource.volume = Mathf.Lerp(dungeonAudioSource.volume, dungeonTargetVolume, fadeSpeed * Time.deltaTime);
         skyblockAudioSource.volume = Mathf.Lerp(skyblockAudioSource.volume, skyblockTargetVolume, fadeSpeed * Time.deltaTime);
+    }
+
+    // Funkcja do ustawiania g³oœnoœci z VolumeInitializer
+    public void SetVolumes(float masterVolume)
+    {
+        globalVolumeMultiplier = masterVolume;
+        // Mo¿esz te¿ od razu zaktualizowaæ bie¿¹ce volume, jeœli chcesz:
+        dungeonAudioSource.volume = dungeonTargetVolume * globalVolumeMultiplier;
+        skyblockAudioSource.volume = skyblockTargetVolume * globalVolumeMultiplier;
     }
 }
