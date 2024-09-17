@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Github\\U1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty Black3\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\TrapSpike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty Black3\\TrapSpike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\MixerAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty Opcje\\MixerAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty Black3\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\VolumeControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Skrypty Opcje\\olumeInitializer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T10:00:33.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T10:00:33.692Z"
             },
             {
               "$type": "Document",
@@ -59,12 +58,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Skrypty Opcje\\VolumeControl.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T09:59:26.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T09:59:26.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MixerAudio.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\MixerAudio.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty Opcje\\MixerAudio.cs",
@@ -72,12 +70,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Skrypty Opcje\\MixerAudio.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T09:59:22.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T09:59:22.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TrapSpike.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\TrapSpike.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty Black3\\TrapSpike.cs",
@@ -90,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TpDoor.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\TpDoor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty Black3\\TpDoor.cs",
@@ -98,12 +95,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Skrypty Black3\\TpDoor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:54:07.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T12:54:07.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty Black3\\AudioManager.cs",
