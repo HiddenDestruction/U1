@@ -16,13 +16,12 @@ public class OptionsButton : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Bullet")) // Mo¿esz zmieniæ na inn¹ kolizjê, jeœli to konieczne
+        if (other.CompareTag("Bullet"))
         {
             print("Opcje zosta³y wybrane");
             loaderScript.startButtonShot = true;
 
-            // Przejœcie do sceny Opcji (Index 0)
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(1);
         }
     }
 }

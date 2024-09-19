@@ -20,9 +20,7 @@ public class MixerAudio : MonoBehaviour
             try
             {
                 // Zapisz aktualn¹ wartoœæ g³oœnoœci do pliku
-                StreamWriter sw = new StreamWriter(VolumeFileName);
-                sw.WriteLine(volume.ToString());
-                sw.Close();
+                File.WriteAllText(VolumeFileName, volume.ToString());
             }
             catch (Exception e)
             {
@@ -49,12 +47,17 @@ public class MixerAudio : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
+        // Wczytaj zapisane ustawienia dŸwiêkowe przy starcie
+        LoadVolume();
     }
 
     // Metoda do aktualizacji g³oœnoœci w grze
     private void UpdateVolume()
     {
-        // Tutaj mo¿esz dodaæ kod, który aktualizuje g³oœnoœæ w zale¿noœci od tego, co kontrolujesz.
+        // Aktualizuj g³oœnoœæ globaln¹, np. dla AudioListener
+        AudioListener.volume = volume;
+        Debug.Log("Global volume updated to: " + volume);
     }
 
     // Metoda do wczytywania g³oœnoœci z pliku
@@ -64,13 +67,11 @@ public class MixerAudio : MonoBehaviour
         {
             try
             {
-                StreamReader sr = new StreamReader(VolumeFileName);
-                string volumeString = sr.ReadLine();
-                sr.Close();
+                string volumeString = File.ReadAllText(VolumeFileName);
 
                 if (float.TryParse(volumeString, out float loadedVolume))
                 {
-                    volume = loadedVolume;
+                    volume = Mathf.Clamp(loadedVolume, 0f, 1f);
                     Debug.Log("Volume loaded: " + volume);
                     UpdateVolume(); // Aktualizuj g³oœnoœæ po wczytaniu
                 }
@@ -86,7 +87,7 @@ public class MixerAudio : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("Plik z g³oœnoœci¹ nie istnieje.");
+            Debug.LogWarning("Plik z g³oœnoœci¹ nie istnieje. U¿ywana wartoœæ domyœlna: " + volume);
         }
     }
 }

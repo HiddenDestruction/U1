@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -96,8 +96,8 @@ MonoBehaviour:
     y: 0
     width: 519
     height: 951
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -122,8 +122,8 @@ MonoBehaviour:
     y: 0
     width: 469
     height: 644
-  m_MinSize: {x: 201, y: 226}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ProjectBrowser
+  m_Name: ConsoleWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -148,15 +148,15 @@ MonoBehaviour:
     y: 644
     width: 1401
     height: 307
-  m_MinSize: {x: 231, y: 276}
-  m_MaxSize: {x: 10001, y: 10026}
-  m_ActualView: {fileID: 13}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 13}
   - {fileID: 17}
   - {fileID: 12}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 60
+  controlID: 50
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -437,7 +437,7 @@ MonoBehaviour:
       oldMaxSizes: 
       oldSplitSize: 0
     m_HorizontalSplitter:
-      ID: 800
+      ID: 873
       splitterInitialOffset: 0
       currentActiveSplitter: -1
       realSizes:
@@ -514,7 +514,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Skrypty Black3
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -524,15 +524,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/Skrypty Black3
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Github\U1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d6900000
-    m_LastClickedID: 37078
+    scrollPos: {x: 0, y: 43}
+    m_SelectedIDs: 66900000
+    m_LastClickedID: 36966
     m_ExpandedIDs: 000000005a9000005c9000005e9000006090000062900000649000006690000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -588,9 +588,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 02c30400
+    m_LastClickedInstanceID: 312066
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300002a530000807b0000000000003a8c0000408c00000e79000098780000e28b000030ae0000648900002e86000028ac000020b30000ac770000c4f30000b6060100bc7e0000c87b000020d30300b88d0000b4e9ffff8c73000098730000a8730000608e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -712,7 +712,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c0faffff
+      m_ExpandedIDs: c22affff182bffff502dffffec2dffffc42effffe22efffff22effff7c4effff964effff9c4efffff44effff6450ffff625cffffb85cfffff65effff9a5fffff7860ffff9e60ffffb660ffffdc63ffff4265ffff9269ffff9869ffffe069ffff0a6affffa471ffffd075ffff2676ffff0878ffffa478ffff7a79ffff9879ffffa879ffffc880ffff1e81ffff0683ffff5683fffffa83ffffd884fffffe84ffff1685ffffee89ffff448affff108cffff968cffffe68cffff8a8dffff6a8effff908effff5092ffff2497ffff7a97ffff4299ffffc499ffff109affffb09affffbc9affffae9bffffa0cfffff20daffffc0fafffff6810000b60701003a17010058330400c8360400dac004004ac40400
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1261,9 +1261,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 36.34062, y: 99.08328, z: 0.1329869}
+    m_Target: {x: 10.2642145, y: 8.091286, z: -7.389466}
     speed: 2
-    m_Value: {x: 36.34062, y: 99.08328, z: 0.1329869}
+    m_Value: {x: 10.2642145, y: 8.091286, z: -7.389466}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1313,9 +1313,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 89.77896
+    m_Target: 15.802695
     speed: 2
-    m_Value: 89.77896
+    m_Value: 15.802695
   m_Ortho:
     m_Target: 1
     speed: 2

@@ -21,6 +21,13 @@ public class AudioManager : MonoBehaviour
         skyblockAudioSource.volume = 0.0f;
         dungeonAudioSource.Play();
         skyblockAudioSource.Play();
+
+        // Upewnij siê, ¿e MixerAudio jest dostêpny i pobierz g³oœnoœæ
+        if (MixerAudio.Instance != null)
+        {
+            SetVolumes(MixerAudio.Instance.Volume);
+
+        }
     }
 
     void Update()
@@ -49,11 +56,12 @@ public class AudioManager : MonoBehaviour
         skyblockAudioSource.volume = Mathf.Lerp(skyblockAudioSource.volume, skyblockTargetVolume, fadeSpeed * Time.deltaTime);
     }
 
-    // Funkcja do ustawiania g³oœnoœci z VolumeInitializer
+    // Funkcja do ustawiania g³oœnoœci z VolumeInitializer lub MixerAudio
     public void SetVolumes(float masterVolume)
     {
         globalVolumeMultiplier = masterVolume;
-        // Mo¿esz te¿ od razu zaktualizowaæ bie¿¹ce volume, jeœli chcesz:
+
+        // Zaktualizuj docelow¹ g³oœnoœæ
         dungeonAudioSource.volume = dungeonTargetVolume * globalVolumeMultiplier;
         skyblockAudioSource.volume = skyblockTargetVolume * globalVolumeMultiplier;
     }

@@ -39,11 +39,13 @@ public class nagant : MonoBehaviour
             {
                 if (Input.GetButtonDown("Fire1"))
                 {
-                    Instantiate(projectile, shotPoint.position, transform.rotation);
+                    Vector3 spawnPosition = new Vector3(shotPoint.position.x, shotPoint.position.y, 0f);  // Ustaw Z na 0
+                    Instantiate(projectile, spawnPosition, transform.rotation);
                     timeBtwShots = startTimeBtwShots;
 
                     shot.Play();
                 }
+
             }
             else
             {

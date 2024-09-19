@@ -24,7 +24,7 @@ public class Sling : MonoBehaviour
             }
             else
             {
-                Debug.Log("Nie masz procy! Nie mo¿esz strzelaæ.");
+                Debug.Log("Nie masz broni! Nie mo¿esz strzelaæ.");
             }
         }
     }
@@ -33,11 +33,11 @@ public class Sling : MonoBehaviour
     {
         hasSling = true;
         slingObject.SetActive(true); // Uwidoczniamy procê
-        Debug.Log("Zebra³eœ procê! Mo¿esz teraz strzelaæ.");
+        Debug.Log("Zebra³eœ broni! Mo¿esz teraz strzelaæ.");
     }
 
     void Shoot()
     {
-        Debug.Log("Strzelanie z procy!");
+        Debug.Log("Strzelanie z broni!");
     }
 }
