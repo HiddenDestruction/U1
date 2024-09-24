@@ -383,6 +383,7 @@
 "Assets/Scripts/playerCollider.cs"
 "Assets/Scripts/PlayerPositionSetter.cs"
 "Assets/Scripts/Projectile.cs"
+"Assets/Scripts/ResolutionScaler.cs"
 "Assets/Scripts/ReturnMenu.cs"
 "Assets/Scripts/ReturnToMainMenu.cs"
 "Assets/Scripts/Skrypty Black3/AudioManager.cs"

@@ -284,6 +284,13 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ResolutionScaler",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "",
             "nativeClass": "ResourceManager",
             "fullManagedTypeName": "",
@@ -678,6 +685,7 @@
                 "Assets/Scenes/Black3.unity",
                 "Assets/Scenes/GameScene.unity",
                 "Assets/Scenes/MainMenu.unity",
+                "Assets/Scenes/OpeningScene.unity",
                 "Assets/Scenes/Options.unity"
             ]
         },
@@ -1082,13 +1090,6 @@
                 "Assets/Scenes/OpeningScene.unity",
                 "Assets/Scenes/Options.unity"
             ]
-        },
-        {
-            "managedAssemblyName": "Unity.2D.Animation.Runtime.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.U2D.Animation.BufferManager",
-            "moduleName": "",
-            "usedInScenes": []
         },
         {
             "managedAssemblyName": "Unity.2D.Animation.Runtime.dll",

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "E:\\Github\\U1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Black3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Black3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\ResolutionScaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ResolutionScaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty MainMenu\\MenuMusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty MainMenu\\MenuMusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Skrypty Black3\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Black3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Black3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\MixerAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,6 +39,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ResolutionScaler.cs",
+              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\ResolutionScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResolutionScaler.cs",
+              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\ResolutionScaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResolutionScaler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:53:25.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "s.cs",
+              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\s.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\s.cs",
+              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\s.cs",
+              "RelativeToolTip": "Assets\\Scripts\\s.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:52:20.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty Black3\\AudioManager.cs",
+              "ToolTip": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Black3\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Skrypty Black3\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:09:21.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Black3.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Black3.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Black3.cs",
@@ -34,12 +82,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Black3.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T14:33:34.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T14:33:34.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MixerAudio.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty Opcje\\MixerAudio.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty Opcje\\MixerAudio.cs",
@@ -47,12 +94,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Skrypty Opcje\\MixerAudio.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAgwF0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T14:14:56.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T14:14:56.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MenuMusic.cs",
               "DocumentMoniker": "E:\\Github\\U1\\Assets\\Scripts\\Skrypty MainMenu\\MenuMusic.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Skrypty MainMenu\\MenuMusic.cs",
@@ -60,8 +106,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Skrypty MainMenu\\MenuMusic.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T14:10:05.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T14:10:05.996Z"
             }
           ]
         }

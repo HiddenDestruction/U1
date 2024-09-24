@@ -25,6 +25,7 @@
 		<type fullname="OptionsButton" preserve="nothing"/>
 		<type fullname="playerCollider" preserve="nothing"/>
 		<type fullname="Projectile" preserve="nothing"/>
+		<type fullname="ResolutionScaler" preserve="nothing"/>
 		<type fullname="ReturnMenu" preserve="nothing"/>
 		<type fullname="ReturnToMainMenu" preserve="nothing"/>
 		<type fullname="StartButton" preserve="nothing"/>
@@ -37,7 +38,6 @@
 		<type fullname="VolumeInitializer" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.2D.Animation.Runtime">
-		<type fullname="UnityEngine.U2D.Animation.BufferManager" preserve="nothing"/>
 		<type fullname="UnityEngine.U2D.Animation.DeformationManager" preserve="nothing"/>
 		<type fullname="UnityEngine.U2D.Animation.DeformationManagerUpdater" preserve="nothing"/>
 	</assembly>
